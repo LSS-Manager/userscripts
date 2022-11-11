@@ -1,0 +1,25 @@
+name: '[🤖] Run crawler'
+
+on:
+    schedule:
+        - cron:  '*/60 * * * *' # Run about 60 Minutes
+    workflow_dispatch: # Allow manual runs
+
+jobs:
+    crawl:
+        name: '[🤖] Crawl'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+            - name: Set up Python 3.10
+              uses: actions/setup-python@v4
+              with:
+                  python-version: '3.10'
+            - name: '[🤖] Crawl'
+              run: python main.py
+            - name: Commit & Push changes
+              uses: actions-js/push@master
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  message: 'chore: new crawler results'

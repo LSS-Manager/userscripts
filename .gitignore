@@ -1,0 +1,5 @@
+# Python venv
+venv/
+
+# Editor files
+.idea/
