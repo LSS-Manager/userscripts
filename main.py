@@ -131,7 +131,7 @@ if __name__ == '__main__':
             # abort when 100 scripts found or checked 1000 URLs to avoid too many requests per run
             if len(scripts) >= initial_scripts_len + 100 or len(visited) >= initial_visited_len + 1000:
                 break
-            sleep(1)
+            sleep(0.1)
     except ConnectionError:
         log("Ouch, a ConnectionError occurred! Aborting the crawler!")
     except KeyboardInterrupt:
