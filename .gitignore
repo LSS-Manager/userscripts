@@ -1,5 +1,6 @@
-# Python venv
+# Python venv & cache files
 venv/
+./**/__pycache__/
 
 # Editor files
 .idea/
