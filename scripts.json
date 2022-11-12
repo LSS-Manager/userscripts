@@ -1,6 +1,25 @@
 [
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8798-remover-f%C3%BCr-volle-krankenh%C3%A4user/&postID=138228#post138228"
+    ],
+    "url": "http://bw-katschutz.de/kh/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8794-verbands-meldungsblocker/&postID=137852#post137852"
+    ],
+    "url": "http://bw-katschutz.de/mb/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8798-remover-f%C3%BCr-volle-krankenh%C3%A4user/&postID=138153#post138153",
+      "https://forum.leitstellenspiel.de/index.php?thread/8798-remover-f%C3%BCr-volle-krankenh%C3%A4user/&postID=138228#post138228"
+    ],
+    "url": "http://lss-scripts.de/kh/script.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=19980#post19980",
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=20852#post20852"
     ],
@@ -29,6 +48,30 @@
       "https://forum.leitstellenspiel.de/index.php?thread/1865-scripting/&postID=16541#post16541"
     ],
     "url": "http://sonstiges.easy-lst.de/fzg-uebersicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8798-remover-f%C3%BCr-volle-krankenh%C3%A4user/&postID=138153#post138153"
+    ],
+    "url": "https://bw-katschutz.de/kh/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8794-verbands-meldungsblocker/&postID=137841#post137841"
+    ],
+    "url": "https://bw-katschutz.de/mb/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
+    ],
+    "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Eigene.script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
+    ],
+    "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Verband.script.user.js"
   },
   {
     "posts": [
@@ -62,6 +105,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=138821#post138821"
+    ],
+    "url": "https://github.com/lostdesign/lss-layout-manager/blob/master/lss-layout-manager-auto-update-nl.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/3593-zwei-monitore/&postID=166337#post166337",
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=116590#post116590",
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=117117#post117117",
@@ -69,7 +118,9 @@
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=119546#post119546",
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=119701#post119701",
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=129547#post129547",
-      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=129972#post129972"
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=129972#post129972",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=136998#post136998",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=138530#post138530"
     ],
     "url": "https://github.com/lostdesign/lss-layout-manager/raw/master/lss-layout-manager-auto-update.user.js"
   }
