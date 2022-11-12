@@ -1,7 +1,7 @@
 from time import sleep
-from typing import List, Tuple
+from typing import List, Tuple, Set
 from html.parser import HTMLParser
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 from datetime import datetime
 import requests
 import json
@@ -10,10 +10,11 @@ from utils.Scripts import Scripts
 
 FORUM_URL = 'https://forum.leitstellenspiel.de/'
 
-last_checked_post: int = 0
+current_post_id: int = 0
+visited_posts: Set[int] = set()
 scripts = Scripts()
 
-last_checked_post_file = '.last_checked_post.txt'
+visited_posts_file = '.visited_posts.json'
 scripts_file = 'scripts.json'
 
 AttributeList = List[Tuple[str, str | None]]
@@ -47,6 +48,11 @@ class DOMInterface(HTMLParser):
                 for attr, value in attrs:
                     if attr == 'href':
                         self._current_post_link = value
+                        query = parse_qs(urlparse(value).query)
+                        # this is because otherwise I get a warning because dict keys should be bytes according to types
+                        # noinspection PyTypeChecker
+                        for link in query['postID']:
+                            visited_posts.add(int(link))
                         break
         if self._is_thread:
             if tag == 'article':
@@ -89,8 +95,10 @@ class DOMInterface(HTMLParser):
 
 if __name__ == '__main__':
     try:
-        with open(last_checked_post_file, 'r') as file:
-            last_checked_post = int(file.read())
+        with open(visited_posts_file, 'r') as file:
+            stored_visited_posts = json.load(file)
+            for visited_post in stored_visited_posts:
+                visited_posts.add(visited_post)
     except FileNotFoundError:
         pass
     try:
@@ -102,17 +110,20 @@ if __name__ == '__main__':
         pass
 
     initial_scripts_len = len(scripts)
-    first_post = last_checked_post
+    initial_visited_len = len(visited_posts)
     current_url = ''
 
-    log(f"Starting with Post #{first_post} visited URLs and {len(scripts)} scripts.")
+    log(f"Starting with {initial_visited_len} visited Posts and {initial_scripts_len} scripts.")
 
     try:
-        while last_checked_post <= first_post + 2000:
-            last_checked_post += 1
-            log(f"Visiting: #{last_checked_post}")
-            DOMInterface(post_url(last_checked_post)).check_for_scripts()
-            log(f"Scripts: {len(scripts)}")
+        while current_post_id <= 500_000:
+            current_post_id += 1
+            if current_post_id in visited_posts:
+                continue
+            log(f"Visiting: #{current_post_id}")
+            DOMInterface(post_url(current_post_id)).check_for_scripts()
+            visited_posts.add(current_post_id)
+            log(f"Scripts: {len(scripts)}; Posts: {len(visited_posts)}")
             sleep(0.1)
             if datetime.now().minute >= 55:
                 log("It is past 55 of the current hour. Aborting this script to be ready for the next scheduled run")
@@ -122,11 +133,11 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         log("Hey, someone interrupted the crawler!")
     except Exception as e:
-        print(e.with_traceback(None))
+        print(e.with_traceback(e.__traceback__))
     finally:
         log(
-            f"Ending with {last_checked_post} visited Posts. "
-            f"This is {last_checked_post - first_post} more than before this run."
+            f"Ending with {len(visited_posts)} visited Posts. "
+            f"This is {len(visited_posts) - initial_visited_len} more than before this run."
         )
         log(
             f"Ending with {len(scripts)} found Scripts. "
@@ -135,8 +146,8 @@ if __name__ == '__main__':
 
         log("Saving our work...")
 
-        with open(last_checked_post_file, 'w') as file:
-            file.write(str(last_checked_post))
+        with open(visited_posts_file, 'w') as file:
+            file.write(json.dumps(sorted(list(visited_posts))))
         with open(scripts_file, 'w') as file:
             file.write(json.dumps(scripts.json(), sort_keys=True, indent=2))
 
