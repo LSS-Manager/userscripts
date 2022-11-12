@@ -38,7 +38,36 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/3593-zwei-monitore/&postID=166337#post166337"
+      "https://forum.leitstellenspiel.de/index.php?thread/7828-erweiterung-mit-tastatur-alarmieren-weiter-im-verband-freigeben-vorheriger-n%C3%A4chs/&postID=111176#post111176"
+    ],
+    "url": "https://github.com/lostdesign/LSS-AAO-Erweiterung/raw/master/lss-aao-firefox-opera.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/7828-erweiterung-mit-tastatur-alarmieren-weiter-im-verband-freigeben-vorheriger-n%C3%A4chs/&postID=111176#post111176"
+    ],
+    "url": "https://github.com/lostdesign/LSS-AAO-Erweiterung/raw/master/lss-aao-safari-chrome.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/7828-erweiterung-mit-tastatur-alarmieren-weiter-im-verband-freigeben-vorheriger-n%C3%A4chs/&postID=111248#post111248"
+    ],
+    "url": "https://github.com/lostdesign/LSS-AAO-Erweiterung/raw/master/lss-alarmierung-firefox-opera-v1-1.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/7828-erweiterung-mit-tastatur-alarmieren-weiter-im-verband-freigeben-vorheriger-n%C3%A4chs/&postID=111248#post111248"
+    ],
+    "url": "https://github.com/lostdesign/LSS-AAO-Erweiterung/raw/master/lss-alarmierung-safari-crome-v1-1.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/3593-zwei-monitore/&postID=166337#post166337",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=116590#post116590",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=117117#post117117",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=117568#post117568",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=119546#post119546",
+      "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=119701#post119701"
     ],
     "url": "https://github.com/lostdesign/lss-layout-manager/raw/master/lss-layout-manager-auto-update.user.js"
   }
