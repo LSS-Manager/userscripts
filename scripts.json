@@ -8,6 +8,24 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=52920#post52920"
+    ],
+    "url": "http://lstspiel.kilu.de/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=55022#post55022"
+    ],
+    "url": "http://ni363857_2.vweb18.nitrado.net/UserScript/1_2_2.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=53264#post53264"
+    ],
+    "url": "http://ni363857_2.vweb18.nitrado.net/UserScript/fahrzeugstatus.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/1865-scripting/&postID=16541#post16541"
     ],
     "url": "http://sonstiges.easy-lst.de/fzg-uebersicht.user.js"
