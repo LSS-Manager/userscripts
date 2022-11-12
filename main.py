@@ -116,6 +116,7 @@ if __name__ == '__main__':
             sleep(0.1)
             if datetime.now().minute >= 55:
                 log("It is past 55 of the current hour. Aborting this script to be ready for the next scheduled run")
+                break
     except ConnectionError:
         log("Ouch, a ConnectionError occurred! Aborting the crawler!")
     except KeyboardInterrupt:
