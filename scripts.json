@@ -81,6 +81,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=153538#post153538"
+    ],
+    "url": "https://github.com/eaglefsd/fahrzeugtableau/raw/master/script.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/7828-erweiterung-mit-tastatur-alarmieren-weiter-im-verband-freigeben-vorheriger-n%C3%A4chs/&postID=111176#post111176"
     ],
     "url": "https://github.com/lostdesign/LSS-AAO-Erweiterung/raw/master/lss-aao-firefox-opera.user.js"
