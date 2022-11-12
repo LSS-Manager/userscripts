@@ -2,7 +2,7 @@ name: '[🤖] Run crawler'
 
 on:
     schedule:
-        - cron:  '*/60 * * * *' # Run about 60 Minutes
+        - cron:  '0 * * * *' # Run at each full hour
     workflow_dispatch: # Allow manual runs
 
 jobs:

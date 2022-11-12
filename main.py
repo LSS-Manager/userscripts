@@ -1,20 +1,20 @@
 from time import sleep
 from typing import List, Tuple
 from html.parser import HTMLParser
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse
 from datetime import datetime
 import requests
+import json
+
+from utils.Scripts import Scripts
 
 FORUM_URL = 'https://forum.leitstellenspiel.de/'
-QUEUE_MAX_SIZE = 5000
-VISITED_MAX_SIZE = 100_000
 
-queue: set[str] = {f'{FORUM_URL}index.php?board/22-scripte-und-zusatzprogramme/'}
-visited: set[str] = set()
-scripts: set[Tuple[str, str]] = set()
+last_checked_post: int = 0
+scripts = Scripts()
 
-visited_list_file = '.visited.txt'
-scripts_list_file = 'scripts.txt'
+last_checked_post_file = '.last_checked_post.txt'
+scripts_file = 'scripts.json'
 
 AttributeList = List[Tuple[str, str | None]]
 TagTuple = Tuple[str, AttributeList, str]
@@ -24,20 +24,8 @@ def log(content: str):
     print(f"[{datetime.now()}] {content}")
 
 
-def check_add_url_to_queue(url: str) -> bool:
-    if len(queue) > QUEUE_MAX_SIZE:
-        return False
-    if not url.startswith(FORUM_URL):
-        return False
-    parsed = urlparse(url)
-    if not parsed.query.startswith('board') and not parsed.query.startswith('thread'):
-        return False
-    if parsed.fragment.startswith('codeLine'):
-        return False
-    query = parse_qs(parsed.query)
-    if 'postID' in query:
-        return False
-    return True
+def post_url(post_id: int) -> str:
+    return f"{FORUM_URL}/index.php?thread/19176&postID={post_id}"
 
 
 class DOMInterface(HTMLParser):
@@ -86,60 +74,58 @@ class DOMInterface(HTMLParser):
                 self._in_post = False
                 self._in_post_articles = 0
 
-    def __iter__(self):
+    def check_for_scripts(self):
         self.feed(requests.get(self.url).text)
         for tag, attrs, post in self._links:
             for attr, value in attrs:
-                if attr == 'href' and check_add_url_to_queue(value):
-                    yield value
                 if attr == 'href' and value.endswith('.user.js'):
-                    scripts.add((post, value))
-                    log(f"Found script {value} at {post}")
+                    if value not in scripts:
+                        scripts[value] = [post]
+                        log(f"Found new script {value} at {post}")
+                    elif post not in scripts[value]:
+                        scripts[value].append(post)
+                        log(f"Additional post for script {value}: {post}")
 
 
 if __name__ == '__main__':
     try:
-        with open(visited_list_file, 'r') as file:
-            for line in file.readlines():
-                visited.add(line.strip())
+        with open(last_checked_post_file, 'r') as file:
+            last_checked_post = int(file.read())
     except FileNotFoundError:
         pass
     try:
-        with open(scripts_list_file, 'r') as file:
-            line = ''
-            for line in file.readlines():
-                post_link, script_link = line.strip().split(',')
-                scripts.add((post_link, script_link))
+        with open(scripts_file, 'r') as file:
+            stored_scripts = json.load(file)
+            for script in stored_scripts:
+                scripts[script["url"]] = script["posts"]
     except FileNotFoundError:
         pass
 
     initial_scripts_len = len(scripts)
-    initial_visited_len = len(visited)
+    first_post = last_checked_post
     current_url = ''
 
-    log(f"Starting with {len(visited)} visited URLs and {len(scripts)} scripts.")
+    log(f"Starting with Post #{first_post} visited URLs and {len(scripts)} scripts.")
 
     try:
-        while len(queue):
-            current_url = queue.pop()
-            log(f"Visiting: #{len(visited) + 1} {current_url}")
-            for link in DOMInterface(current_url):
-                if link not in visited and link != current_url:
-                    queue.add(link)
-            visited.add(current_url)
-            log(f"Queue: {len(queue)}, Scripts: {len(scripts)}")
-            # abort when 100 scripts found or checked 1000 URLs to avoid too many requests per run
-            if len(scripts) >= initial_scripts_len + 100 or len(visited) >= initial_visited_len + 1000:
-                break
+        while last_checked_post <= first_post + 2000:
+            last_checked_post += 1
+            log(f"Visiting: #{last_checked_post}")
+            DOMInterface(post_url(last_checked_post)).check_for_scripts()
+            log(f"Scripts: {len(scripts)}")
             sleep(0.1)
+            if datetime.now().minute >= 55:
+                log("It is past 55 of the current hour. Aborting this script to be ready for the next scheduled run")
     except ConnectionError:
         log("Ouch, a ConnectionError occurred! Aborting the crawler!")
     except KeyboardInterrupt:
         log("Hey, someone interrupted the crawler!")
+    except Exception as e:
+        print(e.with_traceback(None))
     finally:
         log(
-            f"Ending with {len(visited)} visited URLs. "
-            f"This is {len(visited) - initial_visited_len} more than before this run."
+            f"Ending with {last_checked_post} visited Posts. "
+            f"This is {last_checked_post - first_post} more than before this run."
         )
         log(
             f"Ending with {len(scripts)} found Scripts. "
@@ -148,17 +134,9 @@ if __name__ == '__main__':
 
         log("Saving our work...")
 
-        with open(visited_list_file, 'w') as file:
-            visited_urls = []
-            for visited_url in visited:
-                if visited_url != current_url:
-                    visited_urls.append(visited_url)
-            file.write('\n'.join(visited_urls[-VISITED_MAX_SIZE:]) + '\n' + current_url)
-        with open(scripts_list_file, 'w') as file:
-            scripts_csv = []
-            scripts_list = list(scripts)
-            for post_link, script_link in sorted(list(scripts), key=lambda s: s[1]):
-                scripts_csv.append(f"{post_link},{script_link}")
-            file.write('\n'.join(scripts_csv))
+        with open(last_checked_post_file, 'w') as file:
+            file.write(str(last_checked_post))
+        with open(scripts_file, 'w') as file:
+            file.write(json.dumps(scripts.json(), sort_keys=True, indent=2))
 
         log("Success! The progress has been saved!")
