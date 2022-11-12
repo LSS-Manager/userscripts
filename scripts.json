@@ -11,5 +11,11 @@
       "https://forum.leitstellenspiel.de/index.php?thread/1865-scripting/&postID=16541#post16541"
     ],
     "url": "http://sonstiges.easy-lst.de/fzg-uebersicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/3593-zwei-monitore/&postID=166337#post166337"
+    ],
+    "url": "https://github.com/lostdesign/lss-layout-manager/raw/master/lss-layout-manager-auto-update.user.js"
   }
 ]
