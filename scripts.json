@@ -101,7 +101,16 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=178376#post178376"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=189564#post189564"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-missionKeyword/missionKeyword.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=178376#post178376",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=187630#post187630",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=187651#post187651",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=193726#post193726"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
   },
@@ -113,7 +122,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630"
+      "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630",
+      "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=189803#post189803"
     ],
     "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/raw/master/script.user.js"
   },
@@ -130,6 +140,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=153538#post153538"
     ],
     "url": "https://github.com/eaglefsd/fahrzeugtableau/raw/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11756-erledigt-textl%C3%A4nge-in-begrenzten-eingabefeldern-schon-bei-eingabe-pr%C3%BCfen/&postID=355019#post355019"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Input-Length.user.js"
   },
   {
     "posts": [
@@ -176,5 +192,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=154344#post154344"
     ],
     "url": "https://github.com/lostdesign/lss-layout-manager/raw/master/lss-layout-manager-auto-update.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11542-obsolete-down-ls-heatmap-standalone/&postID=185624#post185624"
+    ],
+    "url": "https://jalibu.github.io/DispoPlus/LSHeat/LSHeat.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11595-anpassung-des-auswahlmen%C3%BCs-der-aao/&postID=186554#post186554",
+      "https://forum.leitstellenspiel.de/index.php?thread/11595-anpassung-des-auswahlmen%C3%BCs-der-aao/&postID=186564#post186564"
+    ],
+    "url": "https://lss.hassels.eu/AAO-Suche.user.js"
   }
 ]
