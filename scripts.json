@@ -69,6 +69,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=204406#post204406"
+    ],
+    "url": "https://github.com/ChaosKai/fahrzeugtableau/raw/beta/tableau.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=161229#post161229"
     ],
     "url": "https://github.com/ChaosKai/fahrzeugtableau/raw/master/tableau.user.js"
@@ -98,6 +104,25 @@
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Verband.script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202292#post202292",
+      "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Credits-Erweiterung/raw/master/LSS-Creditserweiterung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Credits-Erweiterung/raw/master/LSS-Creditserweiterung_gesamtcredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12513-user-id-anzeiger/&postID=202288#post202288"
+    ],
+    "url": "https://github.com/KBOE2/LSS-User-ID/raw/master/LSS-User-ID.user.js"
   },
   {
     "posts": [
@@ -205,5 +230,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11595-anpassung-des-auswahlmen%C3%BCs-der-aao/&postID=186564#post186564"
     ],
     "url": "https://lss.hassels.eu/AAO-Suche.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12482-chatverlauf-button-im-head/&postID=201997#post201997",
+      "https://forum.leitstellenspiel.de/index.php?thread/12482-chatverlauf-button-im-head/&postID=202290#post202290"
+    ],
+    "url": "https://raw.githubusercontent.com/KBOE2/LSS-Show_Chatbutton_above/master/LSS-Show_Chatbutton_above.user.js"
   }
 ]
