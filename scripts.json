@@ -112,6 +112,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16937-chatmission-einsatzvorschau/&postID=298267#post298267"
+    ],
+    "url": "https://github.com/FeuerwehrHannover/LSSscripte/raw/master/ChatMission/src/index.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16621-missiontimechecker/&postID=288789#post288789"
+    ],
+    "url": "https://github.com/FeuerwehrHannover/LSSscripte/raw/master/missionTimeChecker/src/custom.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15182-themenliste-f%C3%BCr-die-n%C3%A4chste-umfrage/&postID=255011#post255011",
       "https://forum.leitstellenspiel.de/index.php?thread/15182-themenliste-f%C3%BCr-die-n%C3%A4chste-umfrage/&postID=255040#post255040"
     ],
@@ -286,6 +298,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16776-script-mission-alarm-time/&postID=292983#post292983"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Time.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14672-aao-tab-dragger/&postID=241054#post241054"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/aao-tab-dragger.min.user.js"
@@ -318,6 +336,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16545-script-wunsch-anzeige-bis-zur-freischaltung-neuer-ils-fahrzeuge/&postID=286622#post286622",
+      "https://forum.leitstellenspiel.de/index.php?thread/16545-script-wunsch-anzeige-bis-zur-freischaltung-neuer-ils-fahrzeuge/&postID=286637#post286637"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/freischalt-counter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13818-user-id-in-profile/&postID=224582#post224582",
       "https://forum.leitstellenspiel.de/index.php?thread/13818-user-id-in-profile/&postID=226776#post226776"
     ],
@@ -334,6 +359,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12731-script-wunsch-ausblendung-der-patienten-anzeige-bei-der-fahrzeug-auswahl/&postID=205028#post205028"
     ],
     "url": "https://github.com/KBOE2/LSS-patient-extension/raw/master/LSS-patient-extension.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=292157#post292157"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/2937416b0d3686100cb8771e86755c979c6cba71/modules/lss-missionHelper/missionHelper.user.js"
   },
   {
     "posts": [
@@ -389,7 +420,9 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=187651#post187651",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=193726#post193726",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269413#post269413",
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269415#post269415"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269415#post269415",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=296321#post296321",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=300128#post300128"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
   },
@@ -440,7 +473,17 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=282185#post282185"
+      "https://forum.leitstellenspiel.de/index.php?thread/16501-umgesetzt-backalarm-without-page-reload/&postID=285531#post285531"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_BackalarmWithoutPageReload/backalarmWithoutPageReload.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=282185#post282185",
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=286575#post286575",
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=286577#post286577",
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=287283#post287283",
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=287284#post287284"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_ChatterToSpeech/chatterToSpeech.user.js"
   },
@@ -464,9 +507,28 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16839-mission-marker-glow/&postID=294921#post294921",
+      "https://forum.leitstellenspiel.de/index.php?thread/16839-mission-marker-glow/&postID=343551#post343551"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MissionMarkerGlow/missionMarkerGlowPermanent.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16787-script-mission-filter-by-requirements/&postID=293326#post293326"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MissionReqFilter/missionReqFilter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13600-script-max-unit-calculator/&postID=220059#post220059"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_NeededWorkers/neededWorkers.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16984-script-next-building-price/&postID=299780#post299780"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_NextBuildingPrice/nextBuildingPrice.user.js"
   },
   {
     "posts": [
@@ -474,6 +536,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16392-script-panic-button/&postID=283231#post283231"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_PanicButton/panicButton.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16868-aao-reiter-auswahl/&postID=295886#post295886",
+      "https://forum.leitstellenspiel.de/index.php?thread/16869-script-permanent-aao/&postID=295892#post295892"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_PermanentAAO/permanentAAO.user.js"
   },
   {
     "posts": [
@@ -531,6 +600,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=189803#post189803"
     ],
     "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/raw/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16877-script-fixiere-einsatzstichwort/&postID=296128#post296128",
+      "https://forum.leitstellenspiel.de/index.php?thread/16877-script-fixiere-einsatzstichwort/&postID=296223#post296223"
+    ],
+    "url": "https://github.com/TutePlays/LSS_Fixiere_Einsatzstichwort/raw/master/Fixiere_Einsatzstichwort.user.js"
   },
   {
     "posts": [
@@ -626,9 +702,21 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16843-script-ownalliancemissioncount/&postID=295123#post295123"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/OwnAllianceMissionCount.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14751-aao-config-lite/&postID=243052#post243052"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/aao-lite-de.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16784-script-browsertitle/&postID=293294#post293294"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/browsertitle.user.js"
   },
   {
     "posts": [
@@ -701,6 +789,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=239155#post239155"
     ],
     "url": "https://github.com/types140/ErweiterteWachenansicht/raw/master/ErweiterteWachenansicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=332121#post332121"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/missionspeed.user.js"
   },
   {
     "posts": [
