@@ -63,6 +63,26 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/10054-chat-popupbenachrichtigung/&postID=160512#post160512"
+    ],
+    "url": "https://dl.dropboxusercontent.com/u/49293607/Meine_scripte/Scriptdatenbank/SL/Leitstellenspiel/Chat.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=161229#post161229"
+    ],
+    "url": "https://github.com/ChaosKai/fahrzeugtableau/raw/master/tableau.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/10081-tastaturalarmierung-fahrzeugselektierung-per-tastatur/&postID=160921#post160921",
+      "https://forum.leitstellenspiel.de/index.php?thread/10081-tastaturalarmierung-fahrzeugselektierung-per-tastatur/&postID=168847#post168847",
+      "https://forum.leitstellenspiel.de/index.php?thread/10081-tastaturalarmierung-fahrzeugselektierung-per-tastatur/&postID=168865#post168865"
+    ],
+    "url": "https://github.com/ChaosKai/tastaturalarmierung/raw/master/tastaturalarmierung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Eigene.script.user.js"
