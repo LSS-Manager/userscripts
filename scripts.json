@@ -113,6 +113,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13221-skriptwunsch-einsatzfilter/&postID=221715#post221715"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/MissionFilter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202292#post202292",
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
     ],
@@ -187,6 +193,24 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=216008#post216008"
+    ],
+    "url": "https://github.com/jalibu/LSHeat/raw/master/germanborder.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=216008#post216008"
+    ],
+    "url": "https://github.com/jalibu/LSHeat/raw/master/kreisborders.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13474-einsatzlistenfilter/&postID=217365#post217365"
+    ],
+    "url": "https://github.com/jalibu/LSHeat/raw/master/todo-only.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11756-erledigt-textl%C3%A4nge-in-begrenzten-eingabefeldern-schon-bei-eingabe-pr%C3%BCfen/&postID=355019#post355019"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Input-Length.user.js"
@@ -242,6 +266,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/8077-lss-manager-v2/&postID=154344#post154344"
     ],
     "url": "https://github.com/lostdesign/lss-layout-manager/raw/master/lss-layout-manager-auto-update.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13474-einsatzlistenfilter/&postID=220103#post220103"
+    ],
+    "url": "https://greasyfork.org/scripts/40842-missionsh/code/MissionSH.user.js"
   },
   {
     "posts": [
