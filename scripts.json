@@ -93,6 +93,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13874-infobereich-gefangenenentlassung-im-einsatzfenster-%C3%A4ndern-verschieben/&postID=367342#post367342"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_move_prisoner_dialog.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11308-notification-alarm/&postID=180748#post180748"
     ],
     "url": "https://github.com/DLRG-Dominik/LSSNotifity-Alarm/raw/master/Notification_alarm.user.js"
@@ -119,6 +125,24 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13754-missiontab/&postID=222940#post222940"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/MissionTab.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=220109#post220109"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/missionsh.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13873-scriptwunsch-hotkeys-ohne-tasten-kombi/&postID=246948#post246948"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/onekey.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202292#post202292",
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
     ],
@@ -129,6 +153,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
     ],
     "url": "https://github.com/KBOE2/LSS-Credits-Erweiterung/raw/master/LSS-Creditserweiterung_gesamtcredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13818-user-id-in-profile/&postID=224582#post224582",
+      "https://forum.leitstellenspiel.de/index.php?thread/13818-user-id-in-profile/&postID=226776#post226776"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/user_id_in_profile.user.js"
   },
   {
     "posts": [
@@ -159,6 +190,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13600-script-max-unit-calculator/&postID=220059#post220059"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_NeededWorkers/neededWorkers.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630"
     ],
     "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/blob/master/script.user.js"
@@ -183,6 +220,14 @@
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=153538#post153538"
     ],
     "url": "https://github.com/eaglefsd/fahrzeugtableau/raw/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=220182#post220182",
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=220210#post220210",
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=225243#post225243"
+    ],
+    "url": "https://github.com/jalibu/LSHeat/raw/master/ShareAlliancePost.user.js"
   },
   {
     "posts": [
@@ -269,6 +314,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=221709#post221709"
+    ],
+    "url": "https://github.com/types140/ErweiterteWachenansicht/raw/master/ErweiterteWachenansicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13686-statuswechsel-von-der-wache-aus/&postID=221437#post221437"
+    ],
+    "url": "https://github.com/types140/statuswechsler/raw/master/StatusWechsler.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13474-einsatzlistenfilter/&postID=220103#post220103"
     ],
     "url": "https://greasyfork.org/scripts/40842-missionsh/code/MissionSH.user.js"
@@ -285,6 +342,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11595-anpassung-des-auswahlmen%C3%BCs-der-aao/&postID=186564#post186564"
     ],
     "url": "https://lss.hassels.eu/AAO-Suche.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=221506#post221506"
+    ],
+    "url": "https://raw.githubusercontent.com/JuMaH0/lss/master/ShareAlliancePost.user.js"
   },
   {
     "posts": [
