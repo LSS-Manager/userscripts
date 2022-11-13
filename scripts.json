@@ -105,7 +105,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/15271-missionsort/&postID=254931#post254931"
+      "https://forum.leitstellenspiel.de/index.php?thread/15271-missionsort/&postID=254931#post254931",
+      "https://forum.leitstellenspiel.de/index.php?thread/15271-missionsort/&postID=299347#post299347"
     ],
     "url": "https://github.com/FeuerwehrHannover/LSSMissionSort/raw/master/MissionSort.user.js"
   },
@@ -136,7 +137,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/15063-dom-elemente-in-den-einsatzlisten-l%C3%B6schen-wenn-abgeschlossen/&postID=252280#post252280"
+      "https://forum.leitstellenspiel.de/index.php?thread/15063-dom-elemente-in-den-einsatzlisten-l%C3%B6schen-wenn-abgeschlossen/&postID=252280#post252280",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=279202#post279202"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/DeleteObsoleteMissionObjects.user.js"
   },
@@ -264,6 +266,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16350-einsatzhelfer-auf-franz%C3%B6sisch-einsatzhelfer-en-fran%C3%A7ais/&postID=281860#post281860"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Einsatzhelfer.fr.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15126-ortsangabe-bei-fms-3-4-und-5/&postID=251601#post251601",
       "https://forum.leitstellenspiel.de/index.php?thread/15126-ortsangabe-bei-fms-3-4-und-5/&postID=251642#post251642",
       "https://forum.leitstellenspiel.de/index.php?thread/15126-ortsangabe-bei-fms-3-4-und-5/&postID=253456#post253456"
@@ -303,7 +311,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14989-kamera-an-fahrzeug-pinnen/&postID=248113#post248113",
       "https://forum.leitstellenspiel.de/index.php?thread/14989-kamera-an-fahrzeug-pinnen/&postID=248148#post248148",
-      "https://forum.leitstellenspiel.de/index.php?thread/14989-kamera-an-fahrzeug-pinnen/&postID=248219#post248219"
+      "https://forum.leitstellenspiel.de/index.php?thread/14989-kamera-an-fahrzeug-pinnen/&postID=248219#post248219",
+      "https://forum.leitstellenspiel.de/index.php?thread/16136-fahrzeugverfolgung/&postID=278072#post278072"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/followVehicle.min.user.js"
   },
@@ -328,6 +337,20 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280647#post280647",
+      "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280648#post280648"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/dev/modules/lss-MissionOut/MissionOut.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280647#post280647",
+      "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280648#post280648"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/dev/modules/lss-allianceMissionlistShare/allianceMissionlistShare.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=230673#post230673"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-RenameFZ/renameFZ.user.js"
@@ -335,7 +358,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237087#post237087",
-      "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237124#post237124"
+      "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237124#post237124",
+      "https://forum.leitstellenspiel.de/index.php?thread/16350-einsatzhelfer-auf-franz%C3%B6sisch-einsatzhelfer-en-fran%C3%A7ais/&postID=281886#post281886",
+      "https://forum.leitstellenspiel.de/index.php?thread/16350-einsatzhelfer-auf-franz%C3%B6sisch-einsatzhelfer-en-fran%C3%A7ais/&postID=281890#post281890"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-missionHelper/missionHelper.user.js"
   },
@@ -370,10 +395,23 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=282436#post282436",
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=283084#post283084"
+    ],
+    "url": "https://github.com/LennardTFD/LSS_ChatterToSpeech/raw/master/chatterToSpeech.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267841#post267841",
       "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267853#post267853"
     ],
     "url": "https://github.com/LennardTFD/LSS_MissionHeaderColorizer/raw/master/missionHeaderColorizer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16392-script-panic-button/&postID=282757#post282757"
+    ],
+    "url": "https://github.com/LennardTFD/LSS_Panic/raw/master/panicButton.user.js"
   },
   {
     "posts": [
@@ -390,6 +428,36 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16407-script-alliance-building-hider/&postID=283190#post283190"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_AllianceBuildingHider/allianceBuildingHider.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16421-script-assigned-workers/&postID=283399#post283399"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_AssignedWorkers/assignedWorkers.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16368-script-chatter-to-speech/&postID=282185#post282185"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_ChatterToSpeech/chatterToSpeech.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16433-script-delete-all-messages/&postID=283795#post283795"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_DeleteAllMessages/deleteAllMessages.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16432-script-message-audio/&postID=283793#post283793"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MessageAudio/messageAudio.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=267855#post267855"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MissionHeaderColorizer/missionHeaderColorizer.user.js"
@@ -399,6 +467,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13600-script-max-unit-calculator/&postID=220059#post220059"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_NeededWorkers/neededWorkers.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16392-script-panic-button/&postID=282757#post282757",
+      "https://forum.leitstellenspiel.de/index.php?thread/16392-script-panic-button/&postID=283231#post283231"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_PanicButton/panicButton.user.js"
   },
   {
     "posts": [
@@ -414,7 +489,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=280201#post280201"
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=280201#post280201",
+      "https://forum.leitstellenspiel.de/index.php?thread/16318-personal-%C3%BCbersicht/&postID=281214#post281214"
     ],
     "url": "https://github.com/Suchty112/ErweiterteWachenansicht/raw/master/ErweiterteWachenansicht.user.js"
   },
@@ -458,6 +534,21 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16252-ich-suche-ein-script/&postID=291357#post291357",
+      "https://forum.leitstellenspiel.de/index.php?thread/16329-script-zeige-notarzt-wahrscheinlichkeit/&postID=281511#post281511"
+    ],
+    "url": "https://github.com/TutePlays/LSS_NA_Wahrscheinlichkeit/raw/master/NA_Wahrscheinlichkeit.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=278664#post278664",
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=279242#post279242",
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=285597#post285597"
+    ],
+    "url": "https://github.com/XFreyaX/SAP/raw/master/SAP.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=279465#post279465"
     ],
     "url": "https://github.com/arnesetzer/LSS-Plugins/raw/master/fronti%C3%A8re%20nationale.user.js"
@@ -475,6 +566,24 @@
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=153538#post153538"
     ],
     "url": "https://github.com/eaglefsd/fahrzeugtableau/raw/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16320-script-creditsheader-zusammenfassung-des-tages/&postID=281233#post281233"
+    ],
+    "url": "https://github.com/itsexecution/LSS_CreditsHeader/raw/master/CreditsHeader.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280504#post280504"
+    ],
+    "url": "https://github.com/itsexecution/LSS_Einsatzcredits/raw/master/EinsatzCredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16312-script-fastshare-teile-deinen-einsatz-mit-deinem-verband/&postID=281023#post281023"
+    ],
+    "url": "https://github.com/itsexecution/LSS_FastShare/raw/master/LSS_FastShare.user.js"
   },
   {
     "posts": [
@@ -581,6 +690,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=286170#post286170",
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=286306#post286306"
+    ],
+    "url": "https://github.com/maximiliansr/lss_script/raw/master/ShareAlliancePost_mit-Checkbox_NL.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=221709#post221709",
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=239155#post239155"
     ],
@@ -620,9 +736,21 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=283298#post283298"
+    ],
+    "url": "https://msconsult.info/ShareAlliancePost_mitChatCheckbox.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=221506#post221506"
     ],
     "url": "https://raw.githubusercontent.com/JuMaH0/lss/master/ShareAlliancePost.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16451-forum-dashboard/&postID=284248#post284248"
+    ],
+    "url": "https://raw.githubusercontent.com/KBOE2/LSS-Scripts/master/LSS-Forum-Dashboard.user.js"
   },
   {
     "posts": [
