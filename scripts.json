@@ -105,6 +105,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11703-erinnerung-ablauf-des-premium-accounts/&postID=273277#post273277"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/PremiumAccountReminder.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
@@ -171,7 +177,9 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226949#post226949",
       "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226950#post226950",
-      "https://forum.leitstellenspiel.de/index.php?thread/13913-script-einsatzdauer-in-der-einsatzliste/&postID=227038#post227038"
+      "https://forum.leitstellenspiel.de/index.php?thread/13913-script-einsatzdauer-in-der-einsatzliste/&postID=227038#post227038",
+      "https://forum.leitstellenspiel.de/index.php?thread/14080-meldezeit-anzeige/&postID=230446#post230446",
+      "https://forum.leitstellenspiel.de/index.php?thread/14080-meldezeit-anzeige/&postID=230448#post230448"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/einsatzdauer.user.js"
   },
@@ -193,6 +201,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12731-script-wunsch-ausblendung-der-patienten-anzeige-bei-der-fahrzeug-auswahl/&postID=205028#post205028"
     ],
     "url": "https://github.com/KBOE2/LSS-patient-extension/raw/master/LSS-patient-extension.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=230673#post230673"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-RenameFZ/renameFZ.user.js"
   },
   {
     "posts": [
@@ -286,6 +300,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12817-ohne-transport-entlassen-oben-anzeigen/&postID=206066#post206066"
     ],
     "url": "https://github.com/jxn-30/LSS-show-notTransportPatientButton-above/raw/master/LSS-show-notTransportPatientButton-above.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14086-wip-verbands-und-personalplaner/&postID=230794#post230794"
+    ],
+    "url": "https://github.com/lordkimahri88/export_script/raw/main/personal_export.user.js"
   },
   {
     "posts": [
