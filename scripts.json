@@ -69,7 +69,11 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=204406#post204406"
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=204406#post204406",
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=207866#post207866",
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=209974#post209974",
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=210368#post210368",
+      "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=210428#post210428"
     ],
     "url": "https://github.com/ChaosKai/fahrzeugtableau/raw/beta/tableau.user.js"
   },
@@ -95,12 +99,14 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Eigene.script.user.js"
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Verband.script.user.js"
@@ -123,6 +129,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12513-user-id-anzeiger/&postID=202288#post202288"
     ],
     "url": "https://github.com/KBOE2/LSS-User-ID/raw/master/LSS-User-ID.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12731-script-wunsch-ausblendung-der-patienten-anzeige-bei-der-fahrzeug-auswahl/&postID=205028#post205028"
+    ],
+    "url": "https://github.com/KBOE2/LSS-patient-extension/raw/master/LSS-patient-extension.user.js"
   },
   {
     "posts": [
@@ -168,9 +180,22 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13096-fms-7-zielklinik-anzeige/&postID=210029#post210029",
+      "https://forum.leitstellenspiel.de/index.php?thread/13096-fms-7-zielklinik-anzeige/&postID=210413#post210413"
+    ],
+    "url": "https://github.com/jalibu/LSHeat/raw/master/fms7.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11756-erledigt-textl%C3%A4nge-in-begrenzten-eingabefeldern-schon-bei-eingabe-pr%C3%BCfen/&postID=355019#post355019"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Input-Length.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12817-ohne-transport-entlassen-oben-anzeigen/&postID=206066#post206066"
+    ],
+    "url": "https://github.com/jxn-30/LSS-show-notTransportPatientButton-above/raw/master/LSS-show-notTransportPatientButton-above.user.js"
   },
   {
     "posts": [
