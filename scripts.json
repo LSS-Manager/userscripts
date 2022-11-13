@@ -319,6 +319,26 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18082-am-einsatz-anwesende-fahrzeuge-scannen/&postID=336564#post336564",
+      "https://forum.leitstellenspiel.de/index.php?thread/18082-am-einsatz-anwesende-fahrzeuge-scannen/&postID=347229#post347229"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Less-ELW-Highlight.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17912-mission-status-highlight/&postID=330048#post330048"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Status-Highlight.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=328763#post328763",
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=328780#post328780"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Vehicle-Highlight.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14672-aao-tab-dragger/&postID=241054#post241054"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/aao-tab-dragger.min.user.js"
@@ -740,7 +760,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=216008#post216008"
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=216008#post216008",
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=337318#post337318"
     ],
     "url": "https://github.com/jalibu/LSHeat/raw/master/kreisborders.user.js"
   },
@@ -884,7 +905,15 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=332121#post332121"
+      "https://forum.leitstellenspiel.de/index.php?thread/18053-missionfilter/&postID=333329#post333329",
+      "https://forum.leitstellenspiel.de/index.php?thread/18053-missionfilter/&postID=421408#post421408"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/missionfilter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=332121#post332121",
+      "https://forum.leitstellenspiel.de/index.php?thread/17931-scriptwunsch-erf%C3%BCllt-spielgeschwindigkeitdirektzugriff/&postID=330559#post330559"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/missionspeed.user.js"
   },
