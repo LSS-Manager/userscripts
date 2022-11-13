@@ -1,5 +1,5 @@
 from time import sleep
-from typing import List, Tuple, Set
+from typing import List, Tuple, Set, Iterable
 from html.parser import HTMLParser
 from urllib.parse import urlparse, parse_qs
 from datetime import datetime
@@ -29,10 +29,15 @@ def post_url(post_id: int) -> str:
     return f"{FORUM_URL}/index.php?thread/19176&postID={post_id}"
 
 
+def get_post_ids_from_url(url: str) -> Iterable[int]:
+    return map(lambda x: int(x), parse_qs(urlparse(url).query)['postID'])
+
+
 class DOMInterface(HTMLParser):
-    def __init__(self, url: str):
+    def __init__(self, url: str, get_latest_post: bool = False):
         super().__init__()
         self.url = url
+        self._get_latest_post = get_latest_post
 
         self._links: List[TagTuple] = []
         self._is_thread = urlparse(self.url).query.startswith('thread')
@@ -40,18 +45,21 @@ class DOMInterface(HTMLParser):
         self._in_post_articles = 0
         self._ready_for_post_link = False
         self._current_post_link = ''
+        self._ready_for_latest_post_link = False
+        self.latest_post_thread = ''
 
     def handle_starttag(self, tag: str, attrs: AttributeList) -> None:
         if tag == 'a':
             self._links.append((tag, attrs, self._current_post_link))
-            if self._ready_for_post_link:
+            if self._ready_for_post_link or self._ready_for_latest_post_link:
                 for attr, value in attrs:
                     if attr == 'href':
+                        if self._ready_for_latest_post_link:
+                            if self.latest_post_thread == '':
+                                self.latest_post_thread = value
+                            break
                         self._current_post_link = value
-                        query = parse_qs(urlparse(value).query)
-                        # this is because otherwise I get a warning because dict keys should be bytes according to types
-                        # noinspection PyTypeChecker
-                        for link in query['postID']:
+                        for link in get_post_ids_from_url(value):
                             visited_posts.add(int(link))
                         break
         if self._is_thread:
@@ -68,6 +76,11 @@ class DOMInterface(HTMLParser):
                     if attr == 'class' and 'messageQuickOptions' in value.split(' '):
                         self._ready_for_post_link = True
                         break
+        if self._get_latest_post:
+            if tag == 'section':
+                for attr, value in attrs:
+                    if attr == 'data-box-identifier' and value == 'com.woltlab.wbb.LatestPosts':
+                        self._ready_for_latest_post_link = True
 
     def handle_endtag(self, tag: str) -> None:
         if self._ready_for_post_link and tag == 'ul':
@@ -80,8 +93,11 @@ class DOMInterface(HTMLParser):
                 self._in_post = False
                 self._in_post_articles = 0
 
-    def check_for_scripts(self):
+    def parse(self):
         self.feed(requests.get(self.url).text)
+
+    def check_for_scripts(self):
+        self.parse()
         for tag, attrs, post in self._links:
             for attr, value in attrs:
                 if attr == 'href' and value.endswith('.user.js'):
@@ -113,10 +129,21 @@ if __name__ == '__main__':
     initial_visited_len = len(visited_posts)
     current_url = ''
 
-    log(f"Starting with {initial_visited_len} visited Posts and {initial_scripts_len} scripts.")
+    latest_post_parser = DOMInterface(FORUM_URL, True)
+    latest_post_parser.parse()
+    latest_post_link = f"{latest_post_parser.latest_post_thread}&action=lastPost"
+
+    latest_post_id = 0
+    for post_id_param in get_post_ids_from_url(requests.get(latest_post_link).url):
+        latest_post_id = post_id_param
+
+    log(
+        f"Starting with {initial_visited_len} checked posts and {initial_scripts_len} scripts. "
+        f"The latest post to check is #{latest_post_id}."
+    )
 
     try:
-        while current_post_id <= 500_000:
+        while current_post_id < latest_post_id:
             current_post_id += 1
             if current_post_id in visited_posts:
                 continue
@@ -126,7 +153,7 @@ if __name__ == '__main__':
             log(f"Scripts: {len(scripts)}; Posts: {len(visited_posts)}")
             sleep(0.1)
             if datetime.now().minute >= 55:
-                log("It is past 55 of the current hour. Aborting this script to be ready for the next scheduled run")
+                log("It is past 55 of the current hour. Aborting this script to be ready for the next scheduled run!")
                 break
     except ConnectionError:
         log("Ouch, a ConnectionError occurred! Aborting the crawler!")
@@ -136,7 +163,7 @@ if __name__ == '__main__':
         print(e.with_traceback(e.__traceback__))
     finally:
         log(
-            f"Ending with {len(visited_posts)} visited Posts. "
+            f"Ending with {len(visited_posts)} checked Posts. "
             f"This is {len(visited_posts) - initial_visited_len} more than before this run."
         )
         log(
