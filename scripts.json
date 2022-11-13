@@ -83,6 +83,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11308-notification-alarm/&postID=180748#post180748"
+    ],
+    "url": "https://github.com/DLRG-Dominik/LSSNotifity-Alarm/raw/master/Notification_alarm.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Eigene.script.user.js"
@@ -95,7 +101,26 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=178376#post178376"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630"
+    ],
+    "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/blob/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630"
+    ],
+    "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/raw/master/script.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=161095#post161095",
+      "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=180844#post180844",
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=83891#post83891"
     ],
     "url": "https://github.com/eaglefsd/ASL/raw/master/script.user.js"
