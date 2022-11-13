@@ -177,6 +177,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=327613#post327613"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/ShareAlliancePost.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
@@ -422,9 +428,16 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269413#post269413",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269415#post269415",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=296321#post296321",
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=300128#post300128"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=300128#post300128",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=302147#post302147"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17230-led-beleuchtung-bei-status-5/&postID=310994#post310994"
+    ],
+    "url": "https://github.com/LennardTFD/FMS5LED/raw/master/fmsled.user.js"
   },
   {
     "posts": [
@@ -546,9 +559,28 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17167-scriptwunsch-summe-credits-der-aktiven-eins%C3%A4tze/&postID=312586#post312586",
+      "https://forum.leitstellenspiel.de/index.php?thread/17394-script-remaining-credits/&postID=312588#post312588"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_RemainingCredits/remainingCredits.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15947-script-einstellungs-exporter/&postID=272798#post272798"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_SettingsExporter/settingsExporter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17060-scriptwunsch-nach-verletzten-sortieren/&postID=312885#post312885"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_SortByPatients/sortByPatients.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17398-suche-script/&postID=312622#post312622"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_VehicleCounter/vehicleCounter.user.js"
   },
   {
     "posts": [
@@ -611,7 +643,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16252-ich-suche-ein-script/&postID=291357#post291357",
-      "https://forum.leitstellenspiel.de/index.php?thread/16329-script-zeige-notarzt-wahrscheinlichkeit/&postID=281511#post281511"
+      "https://forum.leitstellenspiel.de/index.php?thread/16329-script-zeige-notarzt-wahrscheinlichkeit/&postID=281511#post281511",
+      "https://forum.leitstellenspiel.de/index.php?thread/16329-script-zeige-notarzt-wahrscheinlichkeit/&postID=378541#post378541",
+      "https://forum.leitstellenspiel.de/index.php?thread/16329-script-zeige-notarzt-wahrscheinlichkeit/&postID=378558#post378558"
     ],
     "url": "https://github.com/TutePlays/LSS_NA_Wahrscheinlichkeit/raw/master/NA_Wahrscheinlichkeit.user.js"
   },
@@ -792,6 +826,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17386-just-in-time/&postID=312443#post312443"
+    ],
+    "url": "https://github.com/types140/JustInTime/raw/master/JustInTime.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17398-suche-script/&postID=312619#post312619"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/EigeneBeteiligung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=332121#post332121"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/missionspeed.user.js"
@@ -799,7 +845,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270891#post270891",
-      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270892#post270892"
+      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270892#post270892",
+      "https://forum.leitstellenspiel.de/index.php?thread/17398-suche-script/&postID=312618#post312618"
     ],
     "url": "https://github.com/types140/fahrzeugzaehler/blob/master/Fahrzeugzaehler.user.js"
   },
