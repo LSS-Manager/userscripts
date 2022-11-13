@@ -119,6 +119,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13977-scriptwunsch-missionsfilter-mit-checkboxen/&postID=228427#post228427"
+    ],
+    "url": "https://github.com/JuMaH0/lss/blob/master/MissionFilter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13221-skriptwunsch-einsatzfilter/&postID=221715#post221715"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/MissionFilter.user.js"
@@ -153,6 +159,21 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
     ],
     "url": "https://github.com/KBOE2/LSS-Credits-Erweiterung/raw/master/LSS-Creditserweiterung_gesamtcredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226949#post226949",
+      "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226950#post226950"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/einsatzdauer.min.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226949#post226949",
+      "https://forum.leitstellenspiel.de/index.php?thread/13759-erledigt-scriptwunsch-f%C3%BCr-einsatzdaueranzeige/&postID=226950#post226950",
+      "https://forum.leitstellenspiel.de/index.php?thread/13913-script-einsatzdauer-in-der-einsatzliste/&postID=227038#post227038"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/einsatzdauer.user.js"
   },
   {
     "posts": [
