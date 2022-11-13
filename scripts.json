@@ -105,6 +105,25 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18595-script-button-f%C3%BCr-automatisches-werben-in-der-neue-leute-werben-%C3%BCbersicht/&postID=348621#post348621"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/auto-werben-button.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18247-scriptwunsch-dauerhaft-sichtbare-notizen/&postID=394494#post394494",
+      "https://forum.leitstellenspiel.de/index.php?thread/18247-scriptwunsch-dauerhaft-sichtbare-notizen/&postID=394553#post394553"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/geileNotizen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18610-script-tabellarische-anzeige-aller-fahrzeuge-im-status-6/&postID=348991#post348991"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/status6.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15271-missionsort/&postID=254931#post254931",
       "https://forum.leitstellenspiel.de/index.php?thread/15271-missionsort/&postID=299347#post299347"
     ],
@@ -155,6 +174,20 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=341412#post341412",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=341421#post341421"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/Standortanzeiger.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18345-verstecke-dein-eigenes-geb%C3%A4ude-skript/&postID=340565#post340565",
+      "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/BuildingIconHider.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15063-dom-elemente-in-den-einsatzlisten-l%C3%B6schen-wenn-abgeschlossen/&postID=252280#post252280",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=279202#post279202"
     ],
@@ -164,6 +197,7 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15031-verbandeins%C3%A4tze-ausblenden/&postID=252278#post252278",
       "https://forum.leitstellenspiel.de/index.php?thread/15031-verbandeins%C3%A4tze-ausblenden/&postID=252309#post252309",
+      "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=272979#post272979"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/MissionIconHider.user.js"
@@ -176,6 +210,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=342120#post342120",
       "https://forum.leitstellenspiel.de/index.php?thread/17744-nachfrage-fms-%C3%BCbersicht/&postID=325179#post325179",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257812#post257812",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257833#post257833"
@@ -313,6 +348,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18549-erledigt-symbol-beim-alamieren-von-rd/&postID=347223#post347223",
+      "https://forum.leitstellenspiel.de/index.php?thread/18549-erledigt-symbol-beim-alamieren-von-rd/&postID=347346#post347346"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Icon.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16776-script-mission-alarm-time/&postID=292983#post292983"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Time.user.js"
@@ -339,9 +381,27 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18546-script-navtabclicker/&postID=347065#post347065"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/NavTabClicker.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346492#post346492"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Toplist-Distance.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14672-aao-tab-dragger/&postID=241054#post241054"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/aao-tab-dragger.min.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18350-clickable-links/&postID=340614#post340614"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/clickable-links.user.js"
   },
   {
     "posts": [
@@ -375,6 +435,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16545-script-wunsch-anzeige-bis-zur-freischaltung-neuer-ils-fahrzeuge/&postID=286637#post286637"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/freischalt-counter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18601-poi-s-farbig-darstellen/&postID=357952#post357952"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/lssm-enhancedpoi-preview.user.js"
   },
   {
     "posts": [
@@ -414,6 +480,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16272-script-missioncredits/&postID=280648#post280648"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/dev/modules/lss-allianceMissionlistShare/allianceMissionlistShare.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18340-fms5-r%C3%BCckmeldung/&postID=340764#post340764",
+      "https://forum.leitstellenspiel.de/index.php?thread/18340-fms5-r%C3%BCckmeldung/&postID=340790#post340790"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-FMS5InMap/FMS5InMap.user.js"
   },
   {
     "posts": [
@@ -509,6 +582,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18264-script-verbands-einsatzort/&postID=338618#post338618"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_AllianceMissionLocation/allianceMissionLocation.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16421-script-assigned-workers/&postID=283399#post283399"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_AssignedWorkers/assignedWorkers.user.js"
@@ -534,6 +613,19 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16433-script-delete-all-messages/&postID=283795#post283795"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_DeleteAllMessages/deleteAllMessages.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18436-script-missionsort-patch/&postID=343075#post343075",
+      "https://forum.leitstellenspiel.de/index.php?thread/18436-script-missionsort-patch/&postID=436036#post436036"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_FeuerwehrHannoverMissionSortPatch/MissionSort.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18470-script-forum-darkmode/&postID=343970#post343970"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_ForumDarkMode/forumDarkMode.user.js"
   },
   {
     "posts": [
@@ -707,6 +799,56 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18391-script-wunsch-einsatznummer/&postID=342010#post342010",
+      "https://forum.leitstellenspiel.de/index.php?thread/18391-script-wunsch-einsatznummer/&postID=342110#post342110"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/Einsatznummer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18402-fahrzeugliste-nach-ausgew%C3%A4hlt-sortieren-im-einsatzfenster/&postID=342106#post342106"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/FahrzeugSort.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18507-grafiksets-favoriten-speichern/&postID=345649#post345649"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/GrafikSetsFavoriten.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/HidingStuff.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/HidingStuffMissions.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18340-fms5-r%C3%BCckmeldung/&postID=340411#post340411"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/Rueckmeldung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18469-verbandforum-suchleiste/&postID=343940#post343940"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/SearchbarVerbandsforum.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18405-suchfeld-wachen%C3%BCbersicht/&postID=342214#post342214",
+      "https://forum.leitstellenspiel.de/index.php?thread/18405-suchfeld-wachen%C3%BCbersicht/&postID=342526#post342526"
+    ],
+    "url": "https://github.com/dynamiik/LSS/raw/master/WachenuebersichtSearchbar.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=161095#post161095",
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=180844#post180844",
       "https://forum.leitstellenspiel.de/index.php?thread/2140-allgemeines-script-version-dev-alpha-version-jetzt-auch-f%C3%BCr-opera-safari-und-int/&postID=83891#post83891"
@@ -791,6 +933,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18588-script-lightbox-in-lightbox-in-lightbox-in/&postID=348518#post348518"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Lightbox-Lightbox.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16843-script-ownalliancemissioncount/&postID=295123#post295123"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/OwnAllianceMissionCount.user.js"
@@ -803,9 +951,39 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=363928#post363928"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/gruesse.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceDistance.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMemberDistance.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18517-scriptwunsch-notizen-bei-mitgliedern/&postID=346573#post346573"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMemberNotes.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16784-script-browsertitle/&postID=293294#post293294"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/browsertitle.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/toplistDistance.user.js"
   },
   {
     "posts": [
@@ -871,6 +1049,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=286306#post286306"
     ],
     "url": "https://github.com/maximiliansr/lss_script/raw/master/ShareAlliancePost_mit-Checkbox_NL.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18349-freie-fahrzeuge-auf-dashboard/&postID=340610#post340610"
+    ],
+    "url": "https://github.com/mschaeling/lss_scripts/blob/master/LSS_Free_Vehicles.user.js"
   },
   {
     "posts": [
