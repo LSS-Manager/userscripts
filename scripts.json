@@ -118,6 +118,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15738-verbandgeb%C3%A4ude-ausblenden/&postID=282857#post282857"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/BuildingIconHiding.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15063-dom-elemente-in-den-einsatzlisten-l%C3%B6schen-wenn-abgeschlossen/&postID=254521#post254521"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/DeleteObsoleteMissionObjects.user.js"
@@ -137,7 +143,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15031-verbandeins%C3%A4tze-ausblenden/&postID=252278#post252278",
-      "https://forum.leitstellenspiel.de/index.php?thread/15031-verbandeins%C3%A4tze-ausblenden/&postID=252309#post252309"
+      "https://forum.leitstellenspiel.de/index.php?thread/15031-verbandeins%C3%A4tze-ausblenden/&postID=252309#post252309",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=272979#post272979"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/MissionIconHider.user.js"
   },
@@ -346,18 +353,58 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=275391#post275391"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/commits/dev/modules/lss-missionHelper/missionHelper.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=178376#post178376",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=187630#post187630",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=187651#post187651",
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=193726#post193726"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=193726#post193726",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269413#post269413",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=269415#post269415"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267841#post267841",
+      "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267853#post267853"
+    ],
+    "url": "https://github.com/LennardTFD/LSS_MissionHeaderColorizer/raw/master/missionHeaderColorizer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15947-script-einstellungs-exporter/&postID=272800#post272800"
+    ],
+    "url": "https://github.com/LennardTFD/LSS_SettingsExporter/raw/master/settingsExporter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=271078#post271078",
+      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=271924#post271924"
+    ],
+    "url": "https://github.com/LennardTFD/LSS_VehicleCounter/raw/master/vehicleCounter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=267855#post267855"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MissionHeaderColorizer/missionHeaderColorizer.user.js"
   },
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13600-script-max-unit-calculator/&postID=220059#post220059"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_NeededWorkers/neededWorkers.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15947-script-einstellungs-exporter/&postID=272798#post272798"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_SettingsExporter/settingsExporter.user.js"
   },
   {
     "posts": [
@@ -541,6 +588,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270891#post270891",
+      "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270892#post270892"
+    ],
+    "url": "https://github.com/types140/fahrzeugzaehler/blob/master/Fahrzeugzaehler.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13686-statuswechsel-von-der-wache-aus/&postID=221437#post221437"
     ],
     "url": "https://github.com/types140/statuswechsler/raw/master/StatusWechsler.user.js"
@@ -576,5 +630,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12482-chatverlauf-button-im-head/&postID=202290#post202290"
     ],
     "url": "https://raw.githubusercontent.com/KBOE2/LSS-Show_Chatbutton_above/master/LSS-Show_Chatbutton_above.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267721#post267721",
+      "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267739#post267739",
+      "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267837#post267837"
+    ],
+    "url": "https://raw.githubusercontent.com/LennardTFD/LSS_MissionHeaderColorizer/master/missionHeaderColorizer.user.js"
   }
 ]
