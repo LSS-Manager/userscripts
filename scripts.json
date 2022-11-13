@@ -131,6 +131,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14674-fme-stichwort-by-jumaho/&postID=241075#post241075",
+      "https://forum.leitstellenspiel.de/index.php?thread/14674-fme-stichwort-by-jumaho/&postID=241348#post241348"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/FMEStichwortIconsbyJuMaHo.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13221-skriptwunsch-einsatzfilter/&postID=221715#post221715"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/MissionFilter.user.js"
@@ -143,9 +150,28 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14751-aao-config-lite/&postID=243052#post243052",
+      "https://forum.leitstellenspiel.de/index.php?thread/14751-aao-config-lite/&postID=243154#post243154"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/aaolite.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=243667#post243667"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/firstresponder.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=220109#post220109"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/missionsh.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=243323#post243323"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/missionshX.user.js"
   },
   {
     "posts": [
@@ -165,6 +191,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12514-lss-creditserweiterung/&postID=202308#post202308"
     ],
     "url": "https://github.com/KBOE2/LSS-Credits-Erweiterung/raw/master/LSS-Creditserweiterung_gesamtcredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14672-aao-tab-dragger/&postID=241054#post241054"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/aao-tab-dragger.min.user.js"
   },
   {
     "posts": [
@@ -210,9 +242,22 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237087#post237087",
+      "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237124#post237124"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-missionHelper/missionHelper.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=189564#post189564"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-missionKeyword/missionKeyword.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14401-hilfebereich-f%C3%BCr-entwickler/&postID=250286#post250286"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-notification_alert/Notification_alarm.user.js"
   },
   {
     "posts": [
@@ -297,6 +342,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14751-aao-config-lite/&postID=243052#post243052"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/aao-lite-de.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12817-ohne-transport-entlassen-oben-anzeigen/&postID=206066#post206066"
     ],
     "url": "https://github.com/jxn-30/LSS-show-notTransportPatientButton-above/raw/master/LSS-show-notTransportPatientButton-above.user.js"
@@ -355,7 +406,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=221709#post221709"
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=221709#post221709",
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=239155#post239155"
     ],
     "url": "https://github.com/types140/ErweiterteWachenansicht/raw/master/ErweiterteWachenansicht.user.js"
   },
