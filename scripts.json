@@ -149,6 +149,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257812#post257812",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257833#post257833"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/ProtocollLinkInsert.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
@@ -258,6 +265,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15575-lss-statuscount/&postID=263793#post263793"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/LSS-StatusCount.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14672-aao-tab-dragger/&postID=241054#post241054"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/aao-tab-dragger.min.user.js"
@@ -348,6 +361,43 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=280201#post280201"
+    ],
+    "url": "https://github.com/Suchty112/ErweiterteWachenansicht/blob/master/ErweiterteWachenansicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=280201#post280201"
+    ],
+    "url": "https://github.com/Suchty112/ErweiterteWachenansicht/raw/master/ErweiterteWachenansicht.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15565-scriptwunsch-dunkle-karte-f%C3%BCr-openstreet/&postID=263403#post263403"
+    ],
+    "url": "https://github.com/Suchty112/LSS-Scripts/raw/master/MapDark/mapdark.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15565-scriptwunsch-dunkle-karte-f%C3%BCr-openstreet/&postID=263403#post263403"
+    ],
+    "url": "https://github.com/Suchty112/LSS-Scripts/raw/master/MapGray/mapgray.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15565-scriptwunsch-dunkle-karte-f%C3%BCr-openstreet/&postID=263420#post263420"
+    ],
+    "url": "https://github.com/Suchty112/LSS-Scripts/raw/master/mapdunkellss.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15565-scriptwunsch-dunkle-karte-f%C3%BCr-openstreet/&postID=263420#post263420",
+      "https://forum.leitstellenspiel.de/index.php?thread/15565-scriptwunsch-dunkle-karte-f%C3%BCr-openstreet/&postID=298588#post298588"
+    ],
+    "url": "https://github.com/Suchty112/LSS-Scripts/raw/master/mapdunkellssgrey.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=181630#post181630"
     ],
     "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/blob/master/script.user.js"
@@ -358,6 +408,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/9977-einsatzhelfer/&postID=189803#post189803"
     ],
     "url": "https://github.com/Suchty112/LSS.Einsatzhelfer/raw/master/script.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=279465#post279465"
+    ],
+    "url": "https://github.com/arnesetzer/LSS-Plugins/raw/master/fronti%C3%A8re%20nationale.user.js"
   },
   {
     "posts": [
