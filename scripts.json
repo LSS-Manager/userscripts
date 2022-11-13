@@ -143,6 +143,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17561-scriptwunsch-nur-eigene-eins%C3%A4tze-auf-der-einsatzkarte/&postID=319281#post319281"
+    ],
+    "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/MissionIconHider.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14451-umgesetzt-verbands-protokoll/&postID=254885#post254885"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/ProtocollLinkInsert.user.js"
@@ -170,6 +176,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17744-nachfrage-fms-%C3%BCbersicht/&postID=325179#post325179",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257812#post257812",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=257833#post257833"
     ],
@@ -184,6 +191,7 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=315015#post315015",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Eigene.script.user.js"
@@ -191,6 +199,7 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=315015#post315015",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
     ],
     "url": "https://github.com/Jenkins-LST/Krankenhausfilter/raw/master/Verband.script.user.js"
@@ -635,6 +644,19 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17484-script-auflistung-fehlende-fahrzeuge/&postID=316063#post316063"
+    ],
+    "url": "https://github.com/TutePlays/LSS_Auflistung_fehlende_Fahrzeuge/raw/master/Auflistung_fehlende_Fahrzeuge.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16862-fragenkatalog-an-neuen-eigent%C3%BCmer/&postID=322970#post322970",
+      "https://forum.leitstellenspiel.de/index.php?thread/17673-ausblenden-des-coins-angebots-nach-klick/&postID=323010#post323010"
+    ],
+    "url": "https://github.com/TutePlays/LSS_Deaktiviere_Sales-Meldung/raw/master/LSS_Deaktiviere_Sales-Meldung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16877-script-fixiere-einsatzstichwort/&postID=296128#post296128",
       "https://forum.leitstellenspiel.de/index.php?thread/16877-script-fixiere-einsatzstichwort/&postID=296223#post296223"
     ],
@@ -730,9 +752,21 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=321404#post321404"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Forum-Bookmarks.min.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11756-erledigt-textl%C3%A4nge-in-begrenzten-eingabefeldern-schon-bei-eingabe-pr%C3%BCfen/&postID=355019#post355019"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Input-Length.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17423-forum-external-link/&postID=313601#post313601"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/LSS-Forum-ExternalLink.user.js"
   },
   {
     "posts": [
@@ -838,6 +872,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17406-fahrzeugz%C3%A4hler/&postID=312957#post312957"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/Fahrzeugzaehler.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17466-skriptsuche-eigene-beteiligung/&postID=315093#post315093"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/RealInvolvement.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=332121#post332121"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/missionspeed.user.js"
@@ -907,5 +953,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/15706-scriptwunsch-mission-header-info-einf%C3%A4rben/&postID=267837#post267837"
     ],
     "url": "https://raw.githubusercontent.com/LennardTFD/LSS_MissionHeaderColorizer/master/missionHeaderColorizer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=324112#post324112",
+      "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=324931#post324931"
+    ],
+    "url": "https://raw.githubusercontent.com/LennardTFD/LeitstellenspielScripte/master/LSS_SettingsExporter/settingsExporter.user.js"
   }
 ]
