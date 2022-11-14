@@ -113,7 +113,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=438007#post438007"
+      "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=438007#post438007",
+      "https://forum.leitstellenspiel.de/index.php?thread/23194-erledigt-scriptwunsch/&postID=462274#post462274"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/personalhelfer.user.js"
   },
@@ -129,6 +130,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/22817-script-alle-geb%C3%A4udeausbauten-auf-einmal-de-aktivieren/&postID=453882#post453882"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/toggleExtensions.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19233-standardeinstellungen-f%C3%BCr-elw-seg-personal-werben-usw/&postID=459095#post459095"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/vehicleChanges.user.js"
   },
   {
     "posts": [
@@ -178,6 +185,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/10081-tastaturalarmierung-fahrzeugselektierung-per-tastatur/&postID=168865#post168865"
     ],
     "url": "https://github.com/ChaosKai/tastaturalarmierung/raw/master/tastaturalarmierung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=459475#post459475"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_delete_all_vehicle_graphics.user.js"
   },
   {
     "posts": [
@@ -240,7 +253,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443352#post443352",
       "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443365#post443365",
       "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443383#post443383",
-      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=444230#post444230"
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=444230#post444230",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=459475#post459475"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_delete_all_vehicle_graphics.user.js"
   },
@@ -939,6 +953,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=460926#post460926",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=461035#post461035"
+    ],
+    "url": "https://github.com/LSS-Manager/LSSM-V.4/raw/dev/static/lssm-v4.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=374418#post374418",
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=374420#post374420"
     ],
@@ -1220,7 +1241,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=458495#post458495"
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=458495#post458495",
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=458523#post458523"
     ],
     "url": "https://github.com/RiCENT/lss-data/raw/main/LSS-Gemeindegrenzen%20(DE).user.js"
   },
@@ -1372,6 +1394,7 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457866#post457866",
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457867#post457867",
       "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788"
     ],
     "url": "https://github.com/dynamiik/LSS/raw/master/HidingStuff.user.js"
@@ -1524,9 +1547,28 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=463217#post463217",
+      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=463277#post463277"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/de-sosi.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23205-scriptwunsch-alarmieren-und-fenster-schlie%C3%9Fen/&postID=462491#post462491"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/extra-alarm-and-close-btn.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=363928#post363928"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/gruesse.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23027-leitstellenansicht-ab-jetzt-auch-f%C3%BCr-nicht-premium-nutzer/&postID=458680#post458680"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/hide-leitstellenansicht-btn-buildingpanel.user.js"
   },
   {
     "posts": [
@@ -1761,6 +1803,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23203-mehr-als-4-klassenr%C3%A4ume-zeitgleich-nutzen/&postID=462428#post462428",
+      "https://forum.leitstellenspiel.de/index.php?thread/23203-mehr-als-4-klassenr%C3%A4ume-zeitgleich-nutzen/&postID=462437#post462437"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/multipleSchools.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441863#post441863",
       "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441882#post441882",
       "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441909#post441909"
@@ -1807,6 +1856,7 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=424691#post424691",
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457755#post457755",
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457756#post457756",
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457867#post457867",
       "https://forum.leitstellenspiel.de/index.php?thread/19196-skriptanforderung/&postID=365052#post365052"
     ],
     "url": "https://havenith.nrw/lss/hiding.user.js"
@@ -1835,7 +1885,9 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=404683#post404683",
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=442991#post442991",
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=447802#post447802",
-      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=447805#post447805"
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=447805#post447805",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=460865#post460865",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=460868#post460868"
     ],
     "url": "https://proxy.lss-manager.de/v4/lssm-v4.user.js"
   },
