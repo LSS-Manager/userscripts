@@ -133,6 +133,26 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20525-scriptwunsch-alle-eigenen-fahrzeuge-rd-zur%C3%BCck-alarmieren-nach-oben-setzten/&postID=403602#post403602",
+      "https://forum.leitstellenspiel.de/index.php?thread/20525-scriptwunsch-alle-eigenen-fahrzeuge-rd-zur%C3%BCck-alarmieren-nach-oben-setzten/&postID=403613#post403613",
+      "https://forum.leitstellenspiel.de/index.php?thread/20525-scriptwunsch-alle-eigenen-fahrzeuge-rd-zur%C3%BCck-alarmieren-nach-oben-setzten/&postID=403781#post403781"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_backalarm_above.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20565-script-passende-fahrzeuge-auf-der-jeweiligen-wache-in-der-lehrgangsauswahl-anzei/&postID=405046#post405046"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_course_show_vehicle.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20730-script-custom-sounds/&postID=408533#post408533"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_custom_sounds.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19407-aao-mehrere-aaos-l%C3%B6schen-delete-multiple-aaos/&postID=369861#post369861"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_delete_multiple_aaos.user.js"
@@ -155,6 +175,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20028-scriptwunsch-rtws-automatisch-kh-anfahren/&postID=410741#post410741"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_hide_hospital.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20734-script-w%C3%BCnsch/&postID=408765#post408765",
+      "https://forum.leitstellenspiel.de/index.php?thread/20734-script-w%C3%BCnsch/&postID=408768#post408768"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_hide_missions.user.js"
   },
   {
     "posts": [
@@ -278,7 +305,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=369883#post369883"
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=369883#post369883",
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=403806#post403806",
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=440553#post440553"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/BuildNotice.user.js"
   },
@@ -341,7 +370,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=358306#post358306",
       "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365171#post365171",
-      "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365173#post365173"
+      "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365173#post365173",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=404080#post404080"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/personalhelfer.user.js"
   },
@@ -1300,6 +1330,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20531-aao-kategorien-exportieren-und-importieren/&postID=403791#post403791"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/arr_categories_export.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=363928#post363928"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/gruesse.user.js"
@@ -1341,6 +1377,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18517-scriptwunsch-notizen-bei-mitgliedern/&postID=346573#post346573"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMemberNotes.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20531-aao-kategorien-exportieren-und-importieren/&postID=403775#post403775"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/arrCategoriesExport.user.js"
   },
   {
     "posts": [
@@ -1531,6 +1573,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=404751#post404751",
       "https://forum.leitstellenspiel.de/index.php?thread/19196-skriptanforderung/&postID=365052#post365052"
     ],
     "url": "https://havenith.nrw/lss/hiding.user.js"
