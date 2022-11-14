@@ -69,6 +69,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20135-script-openmissionsnewtab/&postID=390542#post390542"
+    ],
+    "url": "https://gist.github.com/kdev/90ffcc83c2ca3b3d620200d2e59f2907/raw/acced478b058da3aac235967d383521a05cb07de/OpenMissionsNewTab.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20135-script-openmissionsnewtab/&postID=431542#post431542"
+    ],
+    "url": "https://gist.githubusercontent.com/kdev/90ffcc83c2ca3b3d620200d2e59f2907/raw/acced478b058da3aac235967d383521a05cb07de/OpenMissionsNewTab.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=204406#post204406",
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=207866#post207866",
       "https://forum.leitstellenspiel.de/index.php?thread/5251-fahrzeugtableau-version-2-0/&postID=209974#post209974",
@@ -93,7 +105,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435431#post435431"
+      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435431#post435431",
+      "https://forum.leitstellenspiel.de/index.php?thread/20241-scriptwunsch-anzeige-im-einsatzfenster-in-welchem-einsatzgebiet-man-sich-gerade/&postID=394464#post394464",
+      "https://forum.leitstellenspiel.de/index.php?thread/20241-scriptwunsch-anzeige-im-einsatzfenster-in-welchem-einsatzgebiet-man-sich-gerade/&postID=394465#post394465"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_mission_in_area_check.user.js"
   },
@@ -104,6 +118,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363986#post363986"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/blob/master/LSS_bigger_AAO_buttons.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19940-leitstellenansicht-m%C3%B6glichkeit-zur-einstellung-der-spaltenanzahl/&postID=414545#post414545"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_LSA_hide_overflow.user.js"
   },
   {
     "posts": [
@@ -122,6 +142,19 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19433-lssm-v4-sprechwunsch-mit-klick-auf-zum-einsatz-bearbeiten/&postID=370647#post370647"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_expansion_close_radio_call.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19229-skriptwunsch-umzugshefler/&postID=389857#post389857"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_export_helper.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20028-scriptwunsch-rtws-automatisch-kh-anfahren/&postID=410728#post410728",
+      "https://forum.leitstellenspiel.de/index.php?thread/20028-scriptwunsch-rtws-automatisch-kh-anfahren/&postID=410741#post410741"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_hide_hospital.user.js"
   },
   {
     "posts": [
@@ -150,6 +183,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20054-bereitstellungsraum-ton-vor-ablauf/&postID=388001#post388001"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_warn_BSR_run_off.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18970-scriptwunsch-w-merker/&postID=359915#post359915",
       "https://forum.leitstellenspiel.de/index.php?thread/18970-scriptwunsch-w-merker/&postID=359937#post359937",
       "https://forum.leitstellenspiel.de/index.php?thread/18970-scriptwunsch-w-merker/&postID=359941#post359941",
@@ -170,6 +209,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19319-funkspr%C3%BCche-anpassen-script/&postID=367685#post367685"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_change_FMS_text.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20028-scriptwunsch-rtws-automatisch-kh-anfahren/&postID=387264#post387264",
+      "https://forum.leitstellenspiel.de/index.php?thread/20028-scriptwunsch-rtws-automatisch-kh-anfahren/&postID=410720#post410720"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_hide_hospital.user.js"
   },
   {
     "posts": [
@@ -273,7 +319,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=368005#post368005",
       "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=369021#post369021",
-      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=384653#post384653"
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=384653#post384653",
+      "https://forum.leitstellenspiel.de/index.php?thread/19944-script-firstresponder-mit-freundlicher-genehmigung-von-jumaho/&postID=384661#post384661"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/firstresponder.user.js"
   },
@@ -286,11 +333,24 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19919-script-abwesenheitsnachricht/&postID=384117#post384117"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/n_a_message.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=358306#post358306",
       "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365171#post365171",
       "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365173#post365173"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/personalhelfer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20141-script-zeige-den-landkreis-oder-die-kreisfreie-stadt-eines-geb%C3%A4udes-an/&postID=390612#post390612",
+      "https://forum.leitstellenspiel.de/index.php?thread/20141-script-zeige-den-landkreis-oder-die-kreisfreie-stadt-eines-geb%C3%A4udes-an/&postID=390616#post390616"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/showCounty.user.js"
   },
   {
     "posts": [
@@ -410,6 +470,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=386404#post386404"
+    ],
+    "url": "https://github.com/JRH-1997/Scripts-MKS/raw/master/Script-bundle/Scripts-MKS.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12739-verbandkrankenh%C3%A4user/&postID=205055#post205055",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=315015#post315015",
       "https://forum.leitstellenspiel.de/index.php?thread/8946-oudatet-krankenhausfilter/&postID=184115#post184115"
@@ -476,6 +542,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=387980#post387980",
+      "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=388251#post388251"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/fullsizesh.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13603-missionsh/&postID=220109#post220109"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/missionsh.user.js"
@@ -491,6 +564,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13873-scriptwunsch-hotkeys-ohne-tasten-kombi/&postID=246948#post246948"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/onekey.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20087-more-detailed-mission-description/&postID=394322#post394322"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/projectx.user.js"
   },
   {
     "posts": [
@@ -1221,6 +1300,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20046-scriptwunsch-nur-freigegebene-eins%C3%A4tze-in-der-liste-anzeigen/&postID=387817#post387817",
+      "https://forum.leitstellenspiel.de/index.php?thread/20046-scriptwunsch-nur-freigegebene-eins%C3%A4tze-in-der-liste-anzeigen/&postID=387825#post387825"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/hideOwnNotSharedMissions.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18912-skript-wunsch-autofill-f%C3%BCr-nachrichten/&postID=358041#post358041",
       "https://forum.leitstellenspiel.de/index.php?thread/18912-skript-wunsch-autofill-f%C3%BCr-nachrichten/&postID=414298#post414298"
     ],
@@ -1431,7 +1517,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=362911#post362911"
+      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=362911#post362911",
+      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=434537#post434537",
+      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=434538#post434538"
     ],
     "url": "https://havenith.nrw/lss/EinsatzCredits.user.js"
   },
