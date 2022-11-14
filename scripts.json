@@ -105,9 +105,23 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349832#post349832"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/Fuhrpark-Manager.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18595-script-button-f%C3%BCr-automatisches-werben-in-der-neue-leute-werben-%C3%BCbersicht/&postID=348621#post348621"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/auto-werben-button.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18666-scriptwunsch-dienstzeit-in-wache-anzeigen/&postID=358423#post358423",
+      "https://forum.leitstellenspiel.de/index.php?thread/18666-scriptwunsch-dienstzeit-in-wache-anzeigen/&postID=358429#post358429",
+      "https://forum.leitstellenspiel.de/index.php?thread/18666-scriptwunsch-dienstzeit-in-wache-anzeigen/&postID=358481#post358481"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/dienstzeiten.user.js"
   },
   {
     "posts": [
@@ -121,6 +135,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18610-script-tabellarische-anzeige-aller-fahrzeuge-im-status-6/&postID=348991#post348991"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/status6.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349832#post349832",
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349971#post349971"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/vehicle-manager-uk.user.js"
   },
   {
     "posts": [
