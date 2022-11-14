@@ -75,6 +75,19 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20909-script-schneller-wechsel-der-versionen/&postID=412687#post412687",
+      "https://forum.leitstellenspiel.de/index.php?thread/20909-script-schneller-wechsel-der-versionen/&postID=412867#post412867"
+    ],
+    "url": "https://gist.githubusercontent.com/KokosnussDEV/0a5ae4fd2ea66a0dc085d098ec4e9e2f/raw/28d772cf8e23377560821ac1cd8250633426b72c/%255BLSS%255D%2520Schneller%2520Seitenwechsel.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20835-script-sale-do-not-show/&postID=412695#post412695"
+    ],
+    "url": "https://gist.githubusercontent.com/KokosnussDEV/b7139db06e63efa901c012bbe6817f78/raw/79b079c3994b91dfefc0f805995cf03a1baef893/Sale-DoNotShow.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20135-script-openmissionsnewtab/&postID=431542#post431542"
     ],
     "url": "https://gist.githubusercontent.com/kdev/90ffcc83c2ca3b3d620200d2e59f2907/raw/acced478b058da3aac235967d383521a05cb07de/OpenMissionsNewTab.user.js"
@@ -362,6 +375,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20788-scriptwunsch-nickname-im-chat-namen-einf%C3%A4rben/&postID=409836#post409836"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/label-red.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19919-script-abwesenheitsnachricht/&postID=384117#post384117"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/n_a_message.user.js"
@@ -374,6 +393,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=404080#post404080"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/personalhelfer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413912#post413912",
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413923#post413923"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/shareBuildings.user.js"
   },
   {
     "posts": [
@@ -394,6 +420,14 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349971#post349971"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/vehicle-manager-uk.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413627#post413627",
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413894#post413894",
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=414997#post414997"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/vehicleChanges.user.js"
   },
   {
     "posts": [
@@ -1053,6 +1087,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20826-nutzernamen-im-chat-ersetzen/&postID=410994#post410994"
+    ],
+    "url": "https://github.com/Metablex/LSS-Scripts/raw/master/ReplaceUserNames/ReplaceUserNames.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18889-script-wunsch/&postID=358088#post358088"
     ],
     "url": "https://github.com/MisteryMan/autohidemissions/raw/master/autohide.user.js"
@@ -1136,7 +1176,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16862-fragenkatalog-an-neuen-eigent%C3%BCmer/&postID=322970#post322970",
-      "https://forum.leitstellenspiel.de/index.php?thread/17673-ausblenden-des-coins-angebots-nach-klick/&postID=323010#post323010"
+      "https://forum.leitstellenspiel.de/index.php?thread/17673-ausblenden-des-coins-angebots-nach-klick/&postID=323010#post323010",
+      "https://forum.leitstellenspiel.de/index.php?thread/20798-script-coins-do-not-marker-green/&postID=410276#post410276"
     ],
     "url": "https://github.com/TutePlays/LSS_Deaktiviere_Sales-Meldung/raw/master/LSS_Deaktiviere_Sales-Meldung.user.js"
   },
@@ -1191,6 +1232,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457866#post457866",
       "https://forum.leitstellenspiel.de/index.php?thread/18357-kartenicons-ein-ausblenden-per-klick-verbandsfreigabe-icon/&postID=340788#post340788"
     ],
     "url": "https://github.com/dynamiik/LSS/raw/master/HidingStuff.user.js"
@@ -1545,6 +1587,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=423336#post423336"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/wachenpersonalsetzen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270891#post270891",
       "https://forum.leitstellenspiel.de/index.php?thread/15871-fahrzeugz%C3%A4hler-im-einsatzfenster/&postID=270892#post270892",
       "https://forum.leitstellenspiel.de/index.php?thread/17398-suche-script/&postID=312618#post312618"
@@ -1574,6 +1622,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=404751#post404751",
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=424691#post424691",
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457755#post457755",
+      "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=457756#post457756",
       "https://forum.leitstellenspiel.de/index.php?thread/19196-skriptanforderung/&postID=365052#post365052"
     ],
     "url": "https://havenith.nrw/lss/hiding.user.js"
@@ -1648,6 +1699,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=369361#post369361"
     ],
     "url": "https://raw.githubusercontent.com/dynamiik/LSS/master/Rueckmeldung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20780-script-share-manager/&postID=409635#post409635"
+    ],
+    "url": "https://scripts.drtraxx.de/leitstellenspiel/sharemanager.user.js"
   },
   {
     "posts": [
