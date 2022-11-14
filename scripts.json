@@ -369,10 +369,30 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=352563#post352563",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=352571#post352571",
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=352902#post352902"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Leitstellenansicht-Nav-toggle.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18549-erledigt-symbol-beim-alamieren-von-rd/&postID=347223#post347223",
       "https://forum.leitstellenspiel.de/index.php?thread/18549-erledigt-symbol-beim-alamieren-von-rd/&postID=347346#post347346"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Icon.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18812-script-mission-alarm-speaker/&postID=355560#post355560"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Speaker-UK.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18812-script-mission-alarm-speaker/&postID=388476#post388476"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Alarm-Speaker.user.js"
   },
   {
     "posts": [
@@ -386,6 +406,15 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18082-am-einsatz-anwesende-fahrzeuge-scannen/&postID=347229#post347229"
     ],
     "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Less-ELW-Highlight.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18716-skriptwunsch-rtw-nef-anzeige-im-alarmfenster/&postID=352439#post352439",
+      "https://forum.leitstellenspiel.de/index.php?thread/18716-skriptwunsch-rtw-nef-anzeige-im-alarmfenster/&postID=352757#post352757",
+      "https://forum.leitstellenspiel.de/index.php?thread/18716-skriptwunsch-rtw-nef-anzeige-im-alarmfenster/&postID=352895#post352895",
+      "https://forum.leitstellenspiel.de/index.php?thread/18716-skriptwunsch-rtw-nef-anzeige-im-alarmfenster/&postID=353446#post353446"
+    ],
+    "url": "https://github.com/KBOE2/LSS-Scripts/raw/master/Mission-Patientsummary.user.js"
   },
   {
     "posts": [
@@ -960,6 +989,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18812-script-mission-alarm-speaker/&postID=355116#post355116"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Mission-Alarm-Speaker.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16843-script-ownalliancemissioncount/&postID=295123#post295123"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/OwnAllianceMissionCount.user.js"
@@ -993,6 +1028,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18517-scriptwunsch-notizen-bei-mitgliedern/&postID=346573#post346573"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMemberNotes.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18769-gefangene-ohne-seite-neu-zu-laden-abschicken/&postID=354889#post354889"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/asyncPrisoners.user.js"
   },
   {
     "posts": [
@@ -1089,6 +1130,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/17386-just-in-time/&postID=312443#post312443"
     ],
     "url": "https://github.com/types140/JustInTime/raw/master/JustInTime.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18758-bei-zuweisung-von-zugfahrzeugen-zus%C3%A4tzlich-fahrzeug-id-anzeigen/&postID=353338#post353338"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/c28f96b34adc3ab277dd15ef297425b04aa2b93f/TowingIDsForTrailers.user.js"
   },
   {
     "posts": [
