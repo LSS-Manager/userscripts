@@ -131,7 +131,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370728#post370728"
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370728#post370728",
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=390702#post390702"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_radio_call_police_table.user.js"
   },
@@ -185,7 +186,14 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370748#post370748"
+      "https://forum.leitstellenspiel.de/index.php?thread/19519-umgesetzt-im-lssm-v-4-fixieren-von-der-leitstelle-und-geb%C3%A4udetype-im-baumodus/&postID=374512#post374512"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_new_building_lock_ILS%26type.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370748#post370748",
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=390678#post390678"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_radio_call_police_table.user.js"
   },
@@ -675,6 +683,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=374418#post374418",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=374420#post374420"
+    ],
+    "url": "https://github.com/LSS-Manager/LSSM-V.4/raw/master/static/lssm-v4.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=292157#post292157"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/2937416b0d3686100cb8771e86755c979c6cba71/modules/lss-missionHelper/missionHelper.user.js"
@@ -838,6 +853,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18470-script-forum-darkmode/&postID=343970#post343970"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_ForumDarkMode/forumDarkMode.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19621-script-hide-unrelated-paths/&postID=376464#post376464"
+    ],
+    "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_HideUnrelatedPaths/hideUnrelatedPaths.user.js"
   },
   {
     "posts": [
