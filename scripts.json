@@ -567,6 +567,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20359-patientshide/&postID=397638#post397638"
+    ],
+    "url": "https://github.com/JuMaH0/lss/raw/master/patientshide.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20087-more-detailed-mission-description/&postID=394322#post394322"
     ],
     "url": "https://github.com/JuMaH0/lss/raw/master/projectx.user.js"
@@ -1547,6 +1553,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=283298#post283298"
     ],
     "url": "https://msconsult.info/ShareAlliancePost_mitChatCheckbox.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=404683#post404683"
+    ],
+    "url": "https://proxy.lss-manager.de/v4/lssm-v4.user.js"
   },
   {
     "posts": [
