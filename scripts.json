@@ -69,6 +69,25 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21448-script-radio-in-navbar/&postID=427426#post427426"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/navbarRadio.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=438007#post438007"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/personalhelfer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21474-vorschlag-bearbeiten-button-in-br-ganz-oben-anordnen/&postID=428059#post428059",
+      "https://forum.leitstellenspiel.de/index.php?thread/21474-vorschlag-bearbeiten-button-in-br-ganz-oben-anordnen/&postID=428061#post428061"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/settings_bsr_on_top.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20135-script-openmissionsnewtab/&postID=390542#post390542"
     ],
     "url": "https://gist.github.com/kdev/90ffcc83c2ca3b3d620200d2e59f2907/raw/acced478b058da3aac235967d383521a05cb07de/OpenMissionsNewTab.user.js"
@@ -134,6 +153,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21171-forum-seitenleiste-oben/&postID=420983#post420983"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/Forum_page_bar_above.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19940-leitstellenansicht-m%C3%B6glichkeit-zur-einstellung-der-spaltenanzahl/&postID=414545#post414545"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_LSA_hide_overflow.user.js"
@@ -154,7 +179,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/20565-script-passende-fahrzeuge-auf-der-jeweiligen-wache-in-der-lehrgangsauswahl-anzei/&postID=405046#post405046"
+      "https://forum.leitstellenspiel.de/index.php?thread/20565-script-passende-fahrzeuge-auf-der-jeweiligen-wache-in-der-lehrgangsauswahl-anzei/&postID=405046#post405046",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=422278#post422278"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_course_show_vehicle.user.js"
   },
@@ -163,6 +189,15 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20730-script-custom-sounds/&postID=408533#post408533"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_custom_sounds.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443346#post443346",
+      "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443352#post443352",
+      "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443365#post443365",
+      "https://forum.leitstellenspiel.de/index.php?thread/21727-scriptwunsch-geb%C3%A4udegrafik-l%C3%B6schen/&postID=443383#post443383"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_delete_all_vehicle_graphics.user.js"
   },
   {
     "posts": [
@@ -327,7 +362,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349832#post349832",
-      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=382541#post382541"
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=382541#post382541",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=428055#post428055",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=428060#post428060"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/Fuhrpark-Manager.user.js"
   },
@@ -425,7 +462,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413627#post413627",
       "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=413894#post413894",
-      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=414997#post414997"
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=414997#post414997",
+      "https://forum.leitstellenspiel.de/index.php?thread/20941-fahrzeug-und-geb%C3%A4udeeinstellungen-exportieren/&postID=432091#post432091"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/vehicleChanges.user.js"
   },
@@ -531,6 +569,15 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=327613#post327613"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/ShareAlliancePost.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21736-scriptwunsch-gold-auszeichnungen-in-eigenem-reiter/&postID=435974#post435974",
+      "https://forum.leitstellenspiel.de/index.php?thread/21736-scriptwunsch-gold-auszeichnungen-in-eigenem-reiter/&postID=435976#post435976",
+      "https://forum.leitstellenspiel.de/index.php?thread/21736-scriptwunsch-gold-auszeichnungen-in-eigenem-reiter/&postID=435982#post435982",
+      "https://forum.leitstellenspiel.de/index.php?thread/21736-scriptwunsch-gold-auszeichnungen-in-eigenem-reiter/&postID=436005#post436005"
+    ],
+    "url": "https://github.com/HerrWaldgott/LSS-Scripte/raw/main/GoldenAwardsInNewTab.user.js"
   },
   {
     "posts": [
@@ -1099,6 +1146,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21648-scriptwunsch-wachen-mit-ausgebildetem-personal-ausblenden/&postID=431350#post431350",
+      "https://forum.leitstellenspiel.de/index.php?thread/21648-scriptwunsch-wachen-mit-ausgebildetem-personal-ausblenden/&postID=431358#post431358"
+    ],
+    "url": "https://github.com/NiZi112/lss/raw/main/hideBuildingsInSchholing/index.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18965-script-wunsch-verbandsmitgliederliste-bearbeiten-ohne-auf-seite-1-zur%C3%BCck-zu-flie/&postID=361663#post361663"
     ],
     "url": "https://github.com/Ron31/LSS-Scripts/raw/master/allianceMemberList/allianceMemberList.user.js"
@@ -1404,13 +1458,15 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486",
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=465318#post465318"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceDistance.user.js"
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486",
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=465318#post465318"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMemberDistance.user.js"
   },
@@ -1452,7 +1508,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486"
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486",
+      "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=465318#post465318"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/toplistDistance.user.js"
   },
@@ -1570,6 +1627,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/17466-skriptsuche-eigene-beteiligung/&postID=315093#post315093"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/RealInvolvement.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21141-script-anzeige-von-freien-klassenzimmer-zellen-betten-im-krankenhaus/&postID=420142#post420142"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/freeclassrooms.user.js"
   },
   {
     "posts": [
@@ -1699,6 +1762,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=369361#post369361"
     ],
     "url": "https://raw.githubusercontent.com/dynamiik/LSS/master/Rueckmeldung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21398-scriptwunsch-automatische-fahrzeugklasse/&postID=426503#post426503"
+    ],
+    "url": "https://scripts.drtraxx.de/leitstellenspiel/select_own_class.user.js"
   },
   {
     "posts": [
