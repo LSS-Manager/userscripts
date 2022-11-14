@@ -1191,7 +1191,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16868-aao-reiter-auswahl/&postID=295886#post295886",
-      "https://forum.leitstellenspiel.de/index.php?thread/16869-script-permanent-aao/&postID=295892#post295892"
+      "https://forum.leitstellenspiel.de/index.php?thread/16869-script-permanent-aao/&postID=295892#post295892",
+      "https://forum.leitstellenspiel.de/index.php?thread/23361-scriptwunsch-erledigt-aao-kategorien-fixieren/&postID=465305#post465305"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_PermanentAAO/permanentAAO.user.js"
   },
@@ -1595,6 +1596,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18908-script-osm-mapscale/&postID=357918#post357918"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/osm-mapscale.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23357-script-wunsch-aktualisierung-der-lst-liste/&postID=465282#post465282"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/reload-buildinglist.user.js"
   },
   {
     "posts": [
