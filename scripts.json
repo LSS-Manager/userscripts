@@ -75,6 +75,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21817-script-%C3%BCberarbeitung-der-navbar-in-der-personalzuweisung-fahrzeuge/&postID=435462#post435462"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/optimizePersonalzuweisung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=438007#post438007"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/personalhelfer.user.js"
@@ -230,6 +236,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20734-script-w%C3%BCnsch/&postID=408768#post408768"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_hide_missions.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=435310#post435310",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=435312#post435312"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_hide_warning_too_much_buildings.user.js"
   },
   {
     "posts": [
@@ -569,6 +582,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=327613#post327613"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/raw/master/ShareAlliancePost.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21834-filter-nach-stern-oder-figur/&postID=435878#post435878"
+    ],
+    "url": "https://github.com/HerrWaldgott/LSS-Scripte/blob/main/FilterMissionEvent.user.js"
   },
   {
     "posts": [
@@ -1512,6 +1531,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=465318#post465318"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/toplistDistance.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=435440#post435440",
+      "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=435673#post435673"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/vehiclemarket-show-amount.user.js"
   },
   {
     "posts": [
