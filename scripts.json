@@ -93,9 +93,59 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435431#post435431"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_mission_in_area_check.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363980#post363980",
+      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363982#post363982",
+      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363986#post363986"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/blob/master/LSS_bigger_AAO_buttons.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19013-chat-permanent-whisper/&postID=360457#post360457"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_Permanent_Whisper.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19407-aao-mehrere-aaos-l%C3%B6schen-delete-multiple-aaos/&postID=369861#post369861"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_delete_multiple_aaos.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19433-lssm-v4-sprechwunsch-mit-klick-auf-zum-einsatz-bearbeiten/&postID=370647#post370647"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_expansion_close_radio_call.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19177-script-sortierung-der-startfahrzeuge/&postID=364614#post364614"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_new_building_vehicle_sort.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370728#post370728"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_radio_call_police_table.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=441788#post441788"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_show_move_personal.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=441788#post441788"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_show_move_personal_right.user.js"
   },
   {
     "posts": [
@@ -109,9 +159,62 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=369907#post369907",
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=369922#post369922"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_building_notes.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19319-funkspr%C3%BCche-anpassen-script/&postID=367685#post367685"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_change_FMS_text.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=362768#post362768",
+      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=363073#post363073"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_mission_in_area_check.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13874-infobereich-gefangenenentlassung-im-einsatzfenster-%C3%A4ndern-verschieben/&postID=367342#post367342"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_move_prisoner_dialog.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19438-sprechwunsch-zellen-in-tabelle-anzeigen/&postID=370748#post370748"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_radio_call_police_table.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=367135#post367135",
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=367173#post367173",
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=441782#post441782"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_show_move_personal.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=367173#post367173",
+      "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=441782#post441782"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_show_move_personal_right.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19227-script-missionvaluegraph/&postID=365666#post365666"
+    ],
+    "url": "https://github.com/Cyclefly/MissionValueGraph/raw/main/MissionValueGraph.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19157-script-requiredvehiclemarker-aao-buttons-f%C3%BCr-fehlende-fahrzeuge-hervorheben/&postID=364183#post364183"
+    ],
+    "url": "https://github.com/Cyclefly/RequiredVehicleMarker/raw/main/RequiredVehicleMarker.user.js"
   },
   {
     "posts": [
@@ -121,9 +224,22 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349832#post349832"
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=369883#post369883"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/BuildNotice.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=349832#post349832",
+      "https://forum.leitstellenspiel.de/index.php?thread/18656-script-fuhrpark-manager/&postID=382541#post382541"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/Fuhrpark-Manager.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19449-script-verbandgeb%C3%A4ude-%C3%BCbersicht/&postID=370974#post370974"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/allianceBuildingsOverview.user.js"
   },
   {
     "posts": [
@@ -141,6 +257,20 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=368768#post368768"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/firsresponder_uk.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=368005#post368005",
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=369021#post369021",
+      "https://forum.leitstellenspiel.de/index.php?thread/14782-firstresponder/&postID=384653#post384653"
+    ],
+    "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/firstresponder.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18247-scriptwunsch-dauerhaft-sichtbare-notizen/&postID=394494#post394494",
       "https://forum.leitstellenspiel.de/index.php?thread/18247-scriptwunsch-dauerhaft-sichtbare-notizen/&postID=394553#post394553"
     ],
@@ -148,7 +278,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=358306#post358306"
+      "https://forum.leitstellenspiel.de/index.php?thread/18923-script-personalhelfer/&postID=358306#post358306",
+      "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365171#post365171",
+      "https://forum.leitstellenspiel.de/index.php?thread/19203-vorschlag-soll-wert-0-entspricht-300-wenn-automatisch-werben-aktiv/&postID=365173#post365173"
     ],
     "url": "https://github.com/DrTraxx/Leitstellenspiel/raw/master/personalhelfer.user.js"
   },
@@ -860,7 +992,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/17484-script-auflistung-fehlende-fahrzeuge/&postID=316063#post316063"
+      "https://forum.leitstellenspiel.de/index.php?thread/17484-script-auflistung-fehlende-fahrzeuge/&postID=316063#post316063",
+      "https://forum.leitstellenspiel.de/index.php?thread/17484-script-auflistung-fehlende-fahrzeuge/&postID=370392#post370392"
     ],
     "url": "https://github.com/TutePlays/LSS_Auflistung_fehlende_Fahrzeuge/raw/master/Auflistung_fehlende_Fahrzeuge.user.js"
   },
@@ -1098,6 +1231,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19317-script-aao-z%C3%A4hler-standalone/&postID=367432#post367432"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/arrCounter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18769-gefangene-ohne-seite-neu-zu-laden-abschicken/&postID=354889#post354889"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/asyncPrisoners.user.js"
@@ -1212,6 +1351,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19104-script-verbandslehrg%C3%A4nge-filtern/&postID=362740#post362740"
+    ],
+    "url": "https://github.com/types140/LSS-Scripte/raw/master/Alliancetrainingfilter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/17398-suche-script/&postID=312619#post312619"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/EigeneBeteiligung.user.js"
@@ -1224,6 +1369,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14689-anwesenheitsindikator-bei-eins%C3%A4tzen/&postID=434543#post434543",
       "https://forum.leitstellenspiel.de/index.php?thread/17466-skriptsuche-eigene-beteiligung/&postID=315093#post315093"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/RealInvolvement.user.js"
@@ -1264,6 +1410,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=362911#post362911"
+    ],
+    "url": "https://havenith.nrw/lss/EinsatzCredits.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19196-skriptanforderung/&postID=365052#post365052"
+    ],
+    "url": "https://havenith.nrw/lss/hiding.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11542-obsolete-down-ls-heatmap-standalone/&postID=185624#post185624"
     ],
     "url": "https://jalibu.github.io/DispoPlus/LSHeat/LSHeat.user.js"
@@ -1280,6 +1438,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13610-sharealliancepost/&postID=283298#post283298"
     ],
     "url": "https://msconsult.info/ShareAlliancePost_mitChatCheckbox.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435432#post435432"
+    ],
+    "url": "https://raw.githubusercontent.com/Cr4zyc4k3/LSS/main/LSS_mission_in_area_check.user.js"
   },
   {
     "posts": [
@@ -1314,5 +1478,17 @@
       "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=324931#post324931"
     ],
     "url": "https://raw.githubusercontent.com/LennardTFD/LeitstellenspielScripte/master/LSS_SettingsExporter/settingsExporter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=369361#post369361"
+    ],
+    "url": "https://raw.githubusercontent.com/dynamiik/LSS/master/Rueckmeldung.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=364610#post364610"
+    ],
+    "url": "https://v4.lss-manager.de/lssm-v4.user.js"
   }
 ]
