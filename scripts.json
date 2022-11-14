@@ -75,6 +75,32 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22753-script-s-bewerbungshelfer-und-geb%C3%A4udeliste-im-profil/&postID=452851#post452851",
+      "https://forum.leitstellenspiel.de/index.php?thread/22753-script-s-bewerbungshelfer-und-geb%C3%A4udeliste-im-profil/&postID=452922#post452922"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/bewerbungshelfer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22753-script-s-bewerbungshelfer-und-geb%C3%A4udeliste-im-profil/&postID=452851#post452851",
+      "https://forum.leitstellenspiel.de/index.php?thread/22753-script-s-bewerbungshelfer-und-geb%C3%A4udeliste-im-profil/&postID=452922#post452922"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/buildingsAsTabProfile.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22795-umgesetzt-scriptwunsch-mehrere-fahrzeuge-l%C3%B6schen/&postID=453494#post453494"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/destroyVehicles.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22519-erf%C3%BCllt-personal-k%C3%BCndigen/&postID=453490#post453490"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/firePersonal.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21448-script-radio-in-navbar/&postID=427426#post427426"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/navbarRadio.user.js"
@@ -97,6 +123,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/21474-vorschlag-bearbeiten-button-in-br-ganz-oben-anordnen/&postID=428061#post428061"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/settings_bsr_on_top.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22817-script-alle-geb%C3%A4udeausbauten-auf-einmal-de-aktivieren/&postID=453882#post453882"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/toggleExtensions.user.js"
   },
   {
     "posts": [
@@ -1188,6 +1220,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=458495#post458495"
+    ],
+    "url": "https://github.com/RiCENT/lss-data/raw/main/LSS-Gemeindegrenzen%20(DE).user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18965-script-wunsch-verbandsmitgliederliste-bearbeiten-ohne-auf-seite-1-zur%C3%BCck-zu-flie/&postID=361663#post361663"
     ],
     "url": "https://github.com/Ron31/LSS-Scripts/raw/master/allianceMemberList/allianceMemberList.user.js"
@@ -1203,6 +1241,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18968-scriptwunsch-anpinnen-im-verbandsform/&postID=359626#post359626"
     ],
     "url": "https://github.com/Ron31/LSS-Scripts/raw/master/pinThread/pinThread.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22525-script-minimalistic-nur-das-wichtigste/&postID=448539#post448539"
+    ],
+    "url": "https://github.com/Skugy/LSS-Script-Kiste/raw/main/Minimal.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22492-script-map-filter-hider/&postID=448040#post448040"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Map-Filter-hider/raw/main/LSS%20Karten%20Filter%20Hider.user.js"
   },
   {
     "posts": [
@@ -1465,6 +1515,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20531-aao-kategorien-exportieren-und-importieren/&postID=403791#post403791"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/arr_categories_export.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22814-script-checkbox-multiselect/&postID=453840#post453840"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/checkbox-multiselect.user.js"
   },
   {
     "posts": [
