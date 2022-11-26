@@ -127,6 +127,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=467193#post467193"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/shareBuildings.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22817-script-alle-geb%C3%A4udeausbauten-auf-einmal-de-aktivieren/&postID=453882#post453882",
       "https://forum.leitstellenspiel.de/index.php?thread/23158-umgesetzt-spezialisierte-wachen/&postID=466481#post466481",
       "https://forum.leitstellenspiel.de/index.php?thread/23423-skriptanfrage-kauf-von-erweiterungen-vereinfachen/&postID=466243#post466243"
@@ -235,6 +241,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20525-scriptwunsch-alle-eigenen-fahrzeuge-rd-zur%C3%BCck-alarmieren-nach-oben-setzten/&postID=403781#post403781"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_backalarm_above.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23447-skriptwunsch-funk-meldungen-anpassen/&postID=467088#post467088"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_change_FMS_text.user.js"
   },
   {
     "posts": [
@@ -1660,6 +1672,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18991-chat-hider/&postID=359924#post359924"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/chatHider.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=467115#post467115",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=467217#post467217"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/customVehicleTypesListing.user.js"
   },
   {
     "posts": [
