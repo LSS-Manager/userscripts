@@ -1682,6 +1682,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467772#post467772",
+      "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467775#post467775"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/fms5Colorizer.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=321404#post321404",
       "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=467433#post467433"
     ],
