@@ -238,6 +238,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23602-scriptwunsch-einsatztitel-beim-%C3%B6ffnen-des-einsatzes-in-die-zwischenablage-kopier/&postID=470072#post470072",
+      "https://forum.leitstellenspiel.de/index.php?thread/23602-scriptwunsch-einsatztitel-beim-%C3%B6ffnen-des-einsatzes-in-die-zwischenablage-kopier/&postID=470104#post470104"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_Copy_mission_name_to_clipboard.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19940-leitstellenansicht-m%C3%B6glichkeit-zur-einstellung-der-spaltenanzahl/&postID=414545#post414545"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_LSA_hide_overflow.user.js"
