@@ -101,6 +101,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19111-script-einsatzcredits-v3-0/&postID=470184#post470184"
+    ],
+    "url": "https://drtraxx.de/scrpts/leitstellenspiel/missionListCredits.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21448-script-radio-in-navbar/&postID=427426#post427426"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/navbarRadio.user.js"
