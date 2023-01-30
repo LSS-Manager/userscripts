@@ -1680,6 +1680,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23543-skriptwunsch-mitglieder-online-status/&postID=470872#post470872"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/allianceMembersPanel.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20531-aao-kategorien-exportieren-und-importieren/&postID=403775#post403775"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/arrCategoriesExport.user.js"
@@ -1728,6 +1734,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=467433#post467433"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/forum/bookmarks.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22974-scriptwunsch-separat-neu-ladbare-einsatzliste-und-chat/&postID=470852#post470852"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/reloadChat.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22974-scriptwunsch-separat-neu-ladbare-einsatzliste-und-chat/&postID=470852#post470852"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/reloadMissions.user.js"
   },
   {
     "posts": [
@@ -1891,7 +1909,9 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441863#post441863",
       "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441882#post441882",
-      "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441909#post441909"
+      "https://forum.leitstellenspiel.de/index.php?thread/22170-script-wunsch-status-mehrerer-fahrzeuge-in-den-status-6/&postID=441909#post441909",
+      "https://forum.leitstellenspiel.de/index.php?thread/23608-skriptwunsch-fms6-bei-lehrgang/&postID=470865#post470865",
+      "https://forum.leitstellenspiel.de/index.php?thread/23608-skriptwunsch-fms6-bei-lehrgang/&postID=470884#post470884"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/setallfhzstate.user.js"
   },
