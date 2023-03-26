@@ -274,6 +274,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13873-scriptwunsch-hotkeys-ohne-tasten-kombi/&postID=475083#post475083",
+      "https://forum.leitstellenspiel.de/index.php?thread/13873-scriptwunsch-hotkeys-ohne-tasten-kombi/&postID=475090#post475090"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_backalarm_standalone.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23447-skriptwunsch-funk-meldungen-anpassen/&postID=467088#post467088"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_change_FMS_text.user.js"
@@ -1718,6 +1725,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16784-script-browsertitle/&postID=293294#post293294"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/browsertitle.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23881-sktipt-ausbaustufen-in-der-geb%C3%A4ude%C3%BCbersicht/&postID=475097#post475097"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/buildingDirectLevels.user.js"
   },
   {
     "posts": [
