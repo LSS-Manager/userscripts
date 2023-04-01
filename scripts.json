@@ -70,7 +70,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=440601#post440601",
-      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=475491#post475491"
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=475491#post475491",
+      "https://forum.leitstellenspiel.de/index.php?thread/19405-scriptwunsch-wachennotizen/&postID=475503#post475503"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/BuildNotice.user.js"
   },
@@ -1732,6 +1733,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/23881-sktipt-ausbaustufen-in-der-geb%C3%A4ude%C3%BCbersicht/&postID=475097#post475097"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/buildingDirectLevels.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23909-geschenksymbol-gr%C3%BCn-markern-wenn-nicht-abgeholt/&postID=475521#post475521"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/calendarGiftHighlight.user.js"
   },
   {
     "posts": [
