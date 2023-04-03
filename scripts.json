@@ -1769,6 +1769,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23913-forum-alter-like-style/&postID=475621#post475621"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/forum/oldLikeStyle.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22974-scriptwunsch-separat-neu-ladbare-einsatzliste-und-chat/&postID=470852#post470852"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/reloadChat.user.js"
