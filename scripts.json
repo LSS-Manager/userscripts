@@ -1330,6 +1330,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23999-duplikate-%C3%BCberpr%C3%BCfer-f%C3%BCr-fahrzeuge-und-geb%C3%A4ude/&postID=477649#post477649"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Duplicator-Check/raw/main/LSS-Duplicator-Check.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22492-script-map-filter-hider/&postID=448040#post448040"
     ],
     "url": "https://github.com/Sobol0202/LSS-Map-Filter-hider/raw/main/LSS%20Karten%20Filter%20Hider.user.js"
