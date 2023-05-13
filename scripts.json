@@ -1330,10 +1330,23 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24028-scriptwunsch-coin-aufgaben/&postID=478262#post478262"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Coinaufgaben-Ausblender/raw/main/LSS-Coinaufgaben-Ausblender.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23999-duplikate-%C3%BCberpr%C3%BCfer-f%C3%BCr-fahrzeuge-und-geb%C3%A4ude/&postID=477649#post477649",
       "https://forum.leitstellenspiel.de/index.php?thread/23999-duplikate-%C3%BCberpr%C3%BCfer-f%C3%BCr-fahrzeuge-und-geb%C3%A4ude/&postID=477698#post477698"
     ],
     "url": "https://github.com/Sobol0202/LSS-Duplicator-Check/raw/main/LSS-Duplicator-Check.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24021-einsatz-notizen/&postID=478191#post478191",
+      "https://forum.leitstellenspiel.de/index.php?thread/24021-einsatz-notizen/&postID=478199#post478199"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Einsatz-Notizen/raw/main/LSS-Einsatz-Notizen.user.js"
   },
   {
     "posts": [
