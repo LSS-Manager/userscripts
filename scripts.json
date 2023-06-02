@@ -1386,6 +1386,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23520-zeitpunkt-verbands-protokoll-eintrag-mit-jahreszahl-anzeigen/&postID=480474#post480474"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Protokoll-Jahr-hinzuf-gen/raw/main/LSS-Protokoll%20Jahr%20hinzuf%C3%BCgen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24123-script-lss-fahrzeug-apng-selector/&postID=480468#post480468",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=480378#post480378"
     ],
     "url": "https://github.com/Sobol0202/LSS_Alle-Fahrzeuggrafik-APNG-setzen/raw/main/LSS_Alle%20Fahrzeuggrafike%20APNG%20setzen.user.js"
