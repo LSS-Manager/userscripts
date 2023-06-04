@@ -1850,6 +1850,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24131-script-limitedvehicles-schnelle-%C3%BCbersicht-wie-viele-limitierte-fahrzeuge-man-hat/&postID=480746#post480746",
+      "https://forum.leitstellenspiel.de/index.php?thread/24131-script-limitedvehicles-schnelle-%C3%BCbersicht-wie-viele-limitierte-fahrzeuge-man-hat/&postID=480747#post480747"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedVehicles.de.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22974-scriptwunsch-separat-neu-ladbare-einsatzliste-und-chat/&postID=470852#post470852"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/reloadChat.user.js"
