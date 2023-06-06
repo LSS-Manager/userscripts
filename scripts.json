@@ -290,6 +290,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=480960#post480960"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_bigger_AAO_buttons.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23447-skriptwunsch-funk-meldungen-anpassen/&postID=467088#post467088"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_change_FMS_text.user.js"
