@@ -1424,6 +1424,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24154-scriptwunsch-entwicklungsstatistik/&postID=482076#post482076"
+    ],
+    "url": "https://github.com/Sobol0202/LSS_Data-Extractor/raw/main/LSS_Data-Extractor.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=280201#post280201"
     ],
     "url": "https://github.com/Suchty112/ErweiterteWachenansicht/blob/master/ErweiterteWachenansicht.user.js"
