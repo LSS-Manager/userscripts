@@ -1411,6 +1411,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24210-script-mitglieder-rabatte-abh%C3%A4ngig-vom-abgabewert-einstellen/&postID=482652#post482652"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Mitglieder-Rabatt-Einstellen/raw/main/LSS-Mitglied%20Rabatt%20einstellen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23520-zeitpunkt-verbands-protokoll-eintrag-mit-jahreszahl-anzeigen/&postID=480474#post480474"
     ],
     "url": "https://github.com/Sobol0202/LSS-Protokoll-Jahr-hinzuf-gen/raw/main/LSS-Protokoll%20Jahr%20hinzuf%C3%BCgen.user.js"
