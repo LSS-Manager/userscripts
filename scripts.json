@@ -1423,7 +1423,14 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/21018-script-wunsch-doppelbesetzung/&postID=482738#post482738"
+      "https://forum.leitstellenspiel.de/index.php?thread/24222-script-verbandsprotokoll-neuer-beitrag-melder/&postID=482847#post482847"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Protokoll-berwacher/raw/main/LSS-Protokoll%20%C3%BCberwacher.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21018-script-wunsch-doppelbesetzung/&postID=482738#post482738",
+      "https://forum.leitstellenspiel.de/index.php?thread/21018-script-wunsch-doppelbesetzung/&postID=482761#post482761"
     ],
     "url": "https://github.com/Sobol0202/LSS-VehicleTwin-FMS6-FMS2/raw/main/LSS-VehicleTwin%20FMS6-FMS2.user.js"
   },
