@@ -1429,6 +1429,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/10972-ktw-b-pendelverkehr/&postID=483348#post483348",
+      "https://forum.leitstellenspiel.de/index.php?thread/24254-scriptwunsch-umgesetzt-den-selben-einsatz-f%C3%BCr-alle-rettungsdienstkomponenenten-a/&postID=483342#post483342"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Rettungsdienst-weiteralarmieren/raw/main/LSS%20Rettungsdienst%20weiteralarmieren.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21018-script-wunsch-doppelbesetzung/&postID=482738#post482738",
       "https://forum.leitstellenspiel.de/index.php?thread/21018-script-wunsch-doppelbesetzung/&postID=482761#post482761"
     ],
@@ -1904,6 +1911,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24131-script-limitedvehicles-schnelle-%C3%BCbersicht-wie-viele-limitierte-fahrzeuge-man-hat/&postID=480747#post480747"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedVehicles.de.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24253-kann-man-das-mobile-layout-auch-auf-dem-pc-haben/&postID=483317#post483317"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/mobileLayout.user.js"
   },
   {
     "posts": [
