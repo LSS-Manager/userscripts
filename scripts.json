@@ -1349,6 +1349,15 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24261-scriptwunsch-icon-wird-gelb-wenn-es-eine-chatnachricht-gibt/&postID=483445#post483445",
+      "https://forum.leitstellenspiel.de/index.php?thread/24261-scriptwunsch-icon-wird-gelb-wenn-es-eine-chatnachricht-gibt/&postID=483455#post483455",
+      "https://forum.leitstellenspiel.de/index.php?thread/24261-scriptwunsch-icon-wird-gelb-wenn-es-eine-chatnachricht-gibt/&postID=483476#post483476",
+      "https://forum.leitstellenspiel.de/index.php?thread/24262-icon-wird-gelb-wenn-es-eine-neue-chatnachricht-gibt/&postID=483458#post483458"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-ChatMonitor/raw/main/LSS-ChatMonitor.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24028-scriptwunsch-coin-aufgaben/&postID=478262#post478262"
     ],
     "url": "https://github.com/Sobol0202/LSS-Coinaufgaben-Ausblender/raw/main/LSS-Coinaufgaben-Ausblender.user.js"
