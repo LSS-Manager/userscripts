@@ -1932,6 +1932,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24293-einsatzteilnahme-auf-karte-anzeigen-lassen/&postID=483991#post483991"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/missionParticipationStateOnMap.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24253-kann-man-das-mobile-layout-auch-auf-dem-pc-haben/&postID=483317#post483317"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/mobileLayout.user.js"
