@@ -1399,6 +1399,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/12662-fahrzeuge-aneinander-binden-gemeinsam-alarmieren/&postID=484068#post484068",
+      "https://forum.leitstellenspiel.de/index.php?thread/12662-fahrzeuge-aneinander-binden-gemeinsam-alarmieren/&postID=484083#post484083"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-aneinanderbinden/raw/main/LSS-Fahrzeuge%20aneinanderbinden.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21054-scriptsuche-gr%C3%BCne-einsatzicons-trensparent-setzen/&postID=480621#post480621"
     ],
     "url": "https://github.com/Sobol0202/LSS-Green-Marker-Transparency/raw/main/LSS%20Green-Marker%20Transparency.user.js"
