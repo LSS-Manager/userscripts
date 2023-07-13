@@ -1400,7 +1400,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/12662-fahrzeuge-aneinander-binden-gemeinsam-alarmieren/&postID=484068#post484068",
-      "https://forum.leitstellenspiel.de/index.php?thread/12662-fahrzeuge-aneinander-binden-gemeinsam-alarmieren/&postID=484083#post484083"
+      "https://forum.leitstellenspiel.de/index.php?thread/12662-fahrzeuge-aneinander-binden-gemeinsam-alarmieren/&postID=484083#post484083",
+      "https://forum.leitstellenspiel.de/index.php?thread/24312-script-fahrzeuge-aneinander-binden/&postID=484068#post484068",
+      "https://forum.leitstellenspiel.de/index.php?thread/24312-script-fahrzeuge-aneinander-binden/&postID=484083#post484083"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-aneinanderbinden/raw/main/LSS-Fahrzeuge%20aneinanderbinden.user.js"
   },
