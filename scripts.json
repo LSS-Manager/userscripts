@@ -332,6 +332,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24275-scriptwunsch-fahrzeitberechnung-mit-marker-auf-karte/&postID=484401#post484401"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_distance_to_marker.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19433-lssm-v4-sprechwunsch-mit-klick-auf-zum-einsatz-bearbeiten/&postID=370647#post370647"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_expansion_close_radio_call.user.js"
@@ -1349,7 +1355,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/23791-scriptwunsch-bereitstellungsraum-verbessern/&postID=484270#post484270"
+      "https://forum.leitstellenspiel.de/index.php?thread/23791-scriptwunsch-bereitstellungsraum-verbessern/&postID=484270#post484270",
+      "https://forum.leitstellenspiel.de/index.php?thread/23791-scriptwunsch-bereitstellungsraum-verbessern/&postID=484393#post484393"
     ],
     "url": "https://github.com/Sobol0202/LSS-BR-Verbessern/raw/main/LSS-Bereitstellungsraum%20verbessern.user.js"
   },
