@@ -1960,6 +1960,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24358-script-sortierung-der-einsatzliste/&postID=484786#post484786"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/missionSort.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24253-kann-man-das-mobile-layout-auch-auf-dem-pc-haben/&postID=483317#post483317"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/mobileLayout.user.js"
