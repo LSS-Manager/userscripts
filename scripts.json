@@ -63,6 +63,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24425-script-besseres-notizen-men%C3%BC-betternotesmenu/&postID=485871#post485871",
       "https://forum.leitstellenspiel.de/index.php?thread/24425-script-besseres-notizen-men%C3%BC-betternotesmenu/&postID=486026#post486026"
     ],
     "url": "https://afiliafrostfang.github.io/AfiliaSkripte/BetterNotesMenu.user.js"
@@ -1757,6 +1758,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/13474-einsatzlistenfilter/&postID=217365#post217365"
     ],
     "url": "https://github.com/jalibu/LSHeat/raw/master/todo-only.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23925-script-geb%C3%A4ude-fuhrparkverwalter-by-bos-ernie/&postID=486304#post486304"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/blob/master/Mission-Less-ELW-Highlight.user.js"
   },
   {
     "posts": [
