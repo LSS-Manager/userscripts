@@ -1709,6 +1709,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17666-umgesetzt-gsl-einstellung/&postID=487273#post487273"
+    ],
+    "url": "https://github.com/floflo3299/LSS-Scripts/blob/main/VGSL%20schnell%20erstellen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16320-script-creditsheader-zusammenfassung-des-tages/&postID=281233#post281233"
     ],
     "url": "https://github.com/itsexecution/LSS_CreditsHeader/raw/master/CreditsHeader.user.js"
