@@ -1454,6 +1454,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24467-s2-s6-umschalter/&postID=487720#post487720"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Fahrzeugstatus-Umschalter-Wachenliste/raw/main/LSS-Fahrzeugstatus%20Umschalter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24539-script-grafiksetbutton-an-vern%C3%BCnftige-stelle/&postID=487716#post487716"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Give-me-back-my-Grafiksets/raw/main/LSS%20Give%20me%20back%20my%20Grafiksets.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21054-scriptsuche-gr%C3%BCne-einsatzicons-trensparent-setzen/&postID=480621#post480621"
     ],
     "url": "https://github.com/Sobol0202/LSS-Green-Marker-Transparency/raw/main/LSS%20Green-Marker%20Transparency.user.js"
