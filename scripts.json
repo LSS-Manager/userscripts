@@ -154,7 +154,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=467193#post467193"
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=467193#post467193",
+      "https://forum.leitstellenspiel.de/index.php?thread/24132-automatischer-gefangenentransport-funktioniert-nicht/&postID=487891#post487891"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/shareBuildings.user.js"
   },
@@ -179,7 +180,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/14401-frage-und-hilfebereich-f%C3%BCr-entwickler/&postID=471087#post471087",
       "https://forum.leitstellenspiel.de/index.php?thread/14401-frage-und-hilfebereich-f%C3%BCr-entwickler/&postID=471088#post471088",
       "https://forum.leitstellenspiel.de/index.php?thread/14401-frage-und-hilfebereich-f%C3%BCr-entwickler/&postID=471093#post471093",
-      "https://forum.leitstellenspiel.de/index.php?thread/19233-standardeinstellungen-f%C3%BCr-elw-seg-personal-werben-usw/&postID=459095#post459095"
+      "https://forum.leitstellenspiel.de/index.php?thread/19233-standardeinstellungen-f%C3%BCr-elw-seg-personal-werben-usw/&postID=459095#post459095",
+      "https://forum.leitstellenspiel.de/index.php?thread/24132-automatischer-gefangenentransport-funktioniert-nicht/&postID=487891#post487891"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/vehicleChanges.user.js"
   },
