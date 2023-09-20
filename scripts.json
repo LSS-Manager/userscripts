@@ -1568,6 +1568,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24635-script-verbandszellen-verbandskrankenh%C3%A4user-ausblenden/&postID=489726#post489726"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Verbandsgeb-ude-ausblenden/raw/main/LSS%20Verbandsgeb%C3%A4ude%20ausblenden.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24236-script-wichtigen-verbandstext-direkt-bearbeiten/&postID=483135#post483135"
     ],
     "url": "https://github.com/Sobol0202/LSS-Wichtige-Info-bearbeiten/raw/9f01dd8a13945c874f8b2e8a6a0216b20e292db4/LSS-Wichtige%20Info%20bearbeiten.user.js"
