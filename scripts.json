@@ -1501,6 +1501,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21330-mehr-individueller-platz-f%C3%BCr-die-systemnachrichten/&postID=490929#post490929"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Individueller-Platz-f-r-die-Systemnachrichten/raw/main/LSS%20Individueller%20Platz%20f%C3%BCr%20die%20Systemnachrichten.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24004-skriptwunsch-erf%C3%BCllt-faden-zentrumskreuz-f%C3%BCr-die-karte/&postID=477761#post477761"
     ],
     "url": "https://github.com/Sobol0202/LSS-Kartenkreuz/raw/main/LSS%20Kartenkreuz.user.js"
@@ -1550,6 +1556,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24696-3x-button-entfernen/&postID=490876#post490876"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Remove-New-Missionspeed-button/raw/main/LSS%20Remove%20Missionspeed%20Button.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/10972-ktw-b-pendelverkehr/&postID=483348#post483348",
       "https://forum.leitstellenspiel.de/index.php?thread/24254-scriptwunsch-umgesetzt-den-selben-einsatz-f%C3%BCr-alle-rettungsdienstkomponenenten-a/&postID=483342#post483342"
     ],
@@ -1586,6 +1598,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24236-script-wichtigen-verbandstext-direkt-bearbeiten/&postID=483135#post483135"
     ],
     "url": "https://github.com/Sobol0202/LSS-Wichtige-Info-bearbeiten/raw/9f01dd8a13945c874f8b2e8a6a0216b20e292db4/LSS-Wichtige%20Info%20bearbeiten.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24697-scriptwunsch-erf%C3%BCllt-anzeige-zugewiesene-fahrzeugbesatzung-in-alarm%C3%BCbersicht/&postID=490881#post490881"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Zugewiesenes-Personal-anzeigen/raw/main/LSS%20Zugewiesenes%20Personal.user.js"
   },
   {
     "posts": [
