@@ -1448,6 +1448,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24803-script-ostereier-k%C3%BCrbis-geschenke-alarm/&postID=492407#post492407"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/LSS%20Easter%20Egg%20Checker.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24021-einsatz-notizen/&postID=478191#post478191",
       "https://forum.leitstellenspiel.de/index.php?thread/24021-einsatz-notizen/&postID=478199#post478199"
     ],
@@ -1597,6 +1603,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24542-script-wem-geh%C3%B6rt-das-krankenhaus/&postID=487782#post487782"
     ],
     "url": "https://github.com/Sobol0202/LSS-Sprechwunsch-Krankenhausbesitzer/raw/main/LSS%20Krankenhausbesitzer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24785-script-wunsch-zuf%C3%A4lliger-status-0-beim-einsatz/&postID=492378#post492378"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Status-0/raw/main/LSS%20Status%200.user.js"
   },
   {
     "posts": [
