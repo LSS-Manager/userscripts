@@ -1570,6 +1570,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24891-script-neuen-einsatz-vorlesen/&postID=494012#post494012"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Neuer-Einsatz-Vorleser/raw/main/LSS%20Neuer%20Einsatz%20Vorleser.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24858-erledigt-1-gebaute-wache-finden-markieren-bei-jeder-organisation/&postID=493327#post493327"
     ],
     "url": "https://github.com/Sobol0202/LSS-Open-First-Building/raw/main/LSS%20Open%20First%20Building.user.js"
