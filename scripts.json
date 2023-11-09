@@ -1405,6 +1405,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24925-dauerhafter-bereitstellungsraum/&postID=494579#post494579"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-BR-Automatisch-Verlaengern/raw/main/LSS%20BR%20Automatisch%20verl%C3%A4ngern.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23791-scriptwunsch-bereitstellungsraum-verbessern/&postID=484270#post484270",
       "https://forum.leitstellenspiel.de/index.php?thread/23791-scriptwunsch-bereitstellungsraum-verbessern/&postID=484393#post484393"
     ],
@@ -1579,6 +1585,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24858-erledigt-1-gebaute-wache-finden-markieren-bei-jeder-organisation/&postID=493327#post493327"
     ],
     "url": "https://github.com/Sobol0202/LSS-Open-First-Building/raw/main/LSS%20Open%20First%20Building.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24931-idee-poi-erstellen-bessere-%C3%BCbersicht/&postID=494611#post494611"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-POI-Counter-in-POI-Menu/raw/main/LSS%20POI%20Counter%20in%20POI%20Menu.user.js"
   },
   {
     "posts": [
