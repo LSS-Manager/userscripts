@@ -1418,6 +1418,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25019-scriptwunsch-erledigt-vorheriges-n%C3%A4chstes-geb%C3%A4ude-in-der-leitstelle/&postID=496515#post496515",
+      "https://forum.leitstellenspiel.de/index.php?thread/25019-scriptwunsch-erledigt-vorheriges-n%C3%A4chstes-geb%C3%A4ude-in-der-leitstelle/&postID=496550#post496550"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Building-Navigation/raw/main/LSS%20Building%20Navigation.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24728-script-wunsch-loggen-von-sw-verst%C3%B6%C3%9Fen/&postID=491422#post491422"
     ],
     "url": "https://github.com/Sobol0202/LSS-Chat-to-Jotform/raw/main/LSS%20Chat%20to%20Jotform.user.js"
@@ -1548,6 +1555,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24001-scriptwunsch-schnelleres-ausw%C3%A4hlen-von-einsatzcoins/&postID=477724#post477724"
     ],
     "url": "https://github.com/Sobol0202/LSS-LSS-Same-Pic-for-all-3/raw/main/LSS-Same%20Pic%20for%20all%203.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=496606#post496606"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Laufleistung-30-Tage/raw/main/LSS%20Laufleistung%2030%20Tage.user.js"
   },
   {
     "posts": [
