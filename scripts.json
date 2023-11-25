@@ -1522,7 +1522,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/24467-s2-s6-umschalter/&postID=487720#post487720"
+      "https://forum.leitstellenspiel.de/index.php?thread/24467-s2-s6-umschalter/&postID=487720#post487720",
+      "https://forum.leitstellenspiel.de/index.php?thread/25044-s2-s6-umschalter/&postID=496807#post496807"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeugstatus-Umschalter-Wachenliste/raw/main/LSS-Fahrzeugstatus%20Umschalter.user.js"
   },
@@ -1648,6 +1649,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/16931-%C3%BCbersicht-%C3%BCber-die-scripte/&postID=489130#post489130"
     ],
     "url": "https://github.com/Sobol0202/LSS-Sicherheitswachen-Hoch/raw/main/LSS%20Sicherheitswachen%20%C3%BCber%20Notfalleins%C3%A4tzen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25041-script-lss-snake/&postID=496794#post496794"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Snake/raw/main/LSS%20Snake.user.js"
   },
   {
     "posts": [
