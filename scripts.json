@@ -1690,7 +1690,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/25052-script-wachen%C3%B6ffner-schule/&postID=496927#post496927"
+      "https://forum.leitstellenspiel.de/index.php?thread/25052-script-wachen%C3%B6ffner-schule/&postID=496927#post496927",
+      "https://forum.leitstellenspiel.de/index.php?thread/25052-script-wachen%C3%B6ffner-schule/&postID=497061#post497061"
     ],
     "url": "https://github.com/Sobol0202/LSS-Wachenoeffner-Schule/raw/main/LSS%20Wachen%C3%B6ffner%20Schulen.user.js"
   },
@@ -1699,6 +1700,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24236-script-wichtigen-verbandstext-direkt-bearbeiten/&postID=483135#post483135"
     ],
     "url": "https://github.com/Sobol0202/LSS-Wichtige-Info-bearbeiten/raw/9f01dd8a13945c874f8b2e8a6a0216b20e292db4/LSS-Wichtige%20Info%20bearbeiten.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25057-skriptwunsch-erledigt-bereitstellungsraum-fahrzeuge-ausblenden/&postID=497070#post497070"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Zugewiesene-Fahrzeuge-BR-ausblenden/raw/main/LSS%20Zugewiesene%20Fahrzeuge%20BR%20ausblenden.user.js"
   },
   {
     "posts": [
