@@ -692,7 +692,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=341412#post341412",
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=341421#post341421"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=341421#post341421",
+      "https://forum.leitstellenspiel.de/index.php?thread/25105-script-standortanzeiger/&postID=497874#post497874"
     ],
     "url": "https://github.com/Glaeydar/LSS_Scripts/blob/master/Standortanzeiger.user.js"
   },
@@ -1678,6 +1679,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25105-script-standortanzeiger/&postID=497874#post497874"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Standortanzeiger/raw/main/LSS%20Standortanzeiger.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24785-script-wunsch-zuf%C3%A4lliger-status-0-beim-einsatz/&postID=492378#post492378"
     ],
     "url": "https://github.com/Sobol0202/LSS-Status-0/raw/main/LSS%20Status%200.user.js"
@@ -2168,7 +2175,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/23909-geschenksymbol-gr%C3%BCn-markern-wenn-nicht-abgeholt/&postID=475521#post475521"
+      "https://forum.leitstellenspiel.de/index.php?thread/23909-geschenksymbol-gr%C3%BCn-markern-wenn-nicht-abgeholt/&postID=475521#post475521",
+      "https://forum.leitstellenspiel.de/index.php?thread/23909-umgesetzt-geschenksymbol-gr%C3%BCn-markern-wenn-nicht-abgeholt/&postID=475521#post475521"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/calendarGiftHighlight.user.js"
   },
