@@ -268,7 +268,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363980#post363980",
       "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363982#post363982",
-      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363986#post363986"
+      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=363986#post363986",
+      "https://forum.leitstellenspiel.de/index.php?thread/19148-gr%C3%B6%C3%9Fere-aao-buttons/&postID=498668#post498668"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/blob/master/LSS_bigger_AAO_buttons.user.js"
   },
@@ -1397,6 +1398,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24147-scriptwunsch-einsatzausbreitungslogger/&postID=481299#post481299"
     ],
     "url": "https://github.com/Sobol0202/LSS-Ausbreitungsz-hler/raw/main/LSS-Ausbreitungsz%C3%A4hler.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498713#post498713"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Ausgebildete-Wachen-ausblenden/raw/main/LSS%20Ausgebildete%20Wachen%20ausblenden.user.js"
   },
   {
     "posts": [
