@@ -1095,6 +1095,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=498891#post498891"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/lssm-v3.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18340-fms5-r%C3%BCckmeldung/&postID=340764#post340764",
       "https://forum.leitstellenspiel.de/index.php?thread/18340-fms5-r%C3%BCckmeldung/&postID=340790#post340790"
     ],
@@ -1150,7 +1156,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=296321#post296321",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=300128#post300128",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=302147#post302147",
-      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=474047#post474047"
+      "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=474047#post474047",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=498894#post498894"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
   },
