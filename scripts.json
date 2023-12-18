@@ -1408,8 +1408,15 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=499006#post499006"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Ausgebildete-Wachen-ausblenden/raw/9ea7df8588f0daf053a10a37ab338ee3a091138f/LSS%20Ausgebildete%20Wachen%20ausblenden.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498713#post498713",
-      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498769#post498769"
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498769#post498769",
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=499004#post499004"
     ],
     "url": "https://github.com/Sobol0202/LSS-Ausgebildete-Wachen-ausblenden/raw/main/LSS%20Ausgebildete%20Wachen%20ausblenden.user.js"
   },
@@ -2268,7 +2275,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/24293-einsatzteilnahme-auf-karte-anzeigen-lassen/&postID=483991#post483991"
+      "https://forum.leitstellenspiel.de/index.php?thread/24293-einsatzteilnahme-auf-karte-anzeigen-lassen/&postID=483991#post483991",
+      "https://forum.leitstellenspiel.de/index.php?thread/25155-anzeige-auf-der-karte-ob-man-am-jeweiligen-verbandseinsatz-schon-beteiligt-ist/&postID=499014#post499014"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/missionParticipationStateOnMap.user.js"
   },
