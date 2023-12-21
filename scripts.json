@@ -405,6 +405,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19519-umgesetzt-im-lssm-v-4-fixieren-von-der-leitstelle-und-geb%C3%A4udetype-im-baumodus/&postID=374512#post374512"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_new_building_lock_ILS%26type.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19177-script-sortierung-der-startfahrzeuge/&postID=364614#post364614"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_new_building_vehicle_sort.user.js"
@@ -2271,6 +2277,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24446-script-limitedbuildings-schnelle-%C3%BCbersicht-wie-viele-limitierte-geb%C3%A4ude-ausbauen/&postID=486386#post486386"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedBuildings.de.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25179-script-limited-radio-history-angezeigte-funk-historie-beschr%C3%A4nken/&postID=499495#post499495"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedRadioHistory.user.js"
   },
   {
     "posts": [
