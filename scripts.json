@@ -1683,6 +1683,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25192-script-easteregg-gefunden-nachricht-ausblenden/&postID=499674#post499674"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Remove-Easteregg-Found/raw/main/LSS%20Remove%20Easteregg%20Found.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24696-3x-button-entfernen/&postID=490876#post490876"
     ],
     "url": "https://github.com/Sobol0202/LSS-Remove-New-Missionspeed-button/raw/main/LSS%20Remove%20Missionspeed%20Button.user.js"
@@ -2174,7 +2180,14 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/14401-frage-und-hilfebereich-f%C3%BCr-entwickler/&postID=498657#post498657"
+      "https://forum.leitstellenspiel.de/index.php?thread/25194-script-aao-finder-finde-aaos-die-bestimmte-anforderungen-enthalten/&postID=499704#post499704"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/aaoFinder.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/14401-frage-und-hilfebereich-f%C3%BCr-entwickler/&postID=498657#post498657",
+      "https://forum.leitstellenspiel.de/index.php?thread/25193-script-aao-replacer-schnell-anforderung-durch-eine-andere-ersetzen/&postID=499688#post499688"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/aaoReplacer.user.js"
   },
