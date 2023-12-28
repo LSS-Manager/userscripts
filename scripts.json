@@ -323,6 +323,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25219-script-wachnotizen/&postID=499918#post499918"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_building_notes.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23447-skriptwunsch-funk-meldungen-anpassen/&postID=467088#post467088"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/main/LSS_change_FMS_text.user.js"
@@ -1731,6 +1737,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24785-script-wunsch-zuf%C3%A4lliger-status-0-beim-einsatz/&postID=492378#post492378"
     ],
     "url": "https://github.com/Sobol0202/LSS-Status-0/raw/main/LSS%20Status%200.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25216-script-mehrere-eintr%C3%A4ge-in-der-vge-liste-auf-einmal-l%C3%B6schen/&postID=499930#post499930"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-VBGSL-Liste-Massenl-schung/raw/main/LSS%20VBGSL-Liste%20Massenl%C3%B6schung.user.js"
   },
   {
     "posts": [
