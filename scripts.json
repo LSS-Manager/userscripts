@@ -157,7 +157,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=467193#post467193",
       "https://forum.leitstellenspiel.de/index.php?thread/24132-automatischer-gefangenentransport-funktioniert-nicht/&postID=487891#post487891",
       "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptsuche-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499610#post499610",
-      "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptsuche-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499612#post499612"
+      "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptsuche-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499612#post499612",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=500417#post500417"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/shareBuildings.user.js"
   },
@@ -1590,6 +1591,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25247-scriptwunsch-erledigt-nachricht-der-alarmierten-fzg-ausblenden/&postID=500398#post500398"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-I-know-you-drive/raw/main/LSS%20I%20know%20you%20drive.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21330-mehr-individueller-platz-f%C3%BCr-die-systemnachrichten/&postID=490929#post490929"
     ],
     "url": "https://github.com/Sobol0202/LSS-Individueller-Platz-f-r-die-Systemnachrichten/raw/main/LSS%20Individueller%20Platz%20f%C3%BCr%20die%20Systemnachrichten.user.js"
@@ -1705,6 +1712,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24254-scriptwunsch-umgesetzt-den-selben-einsatz-f%C3%BCr-alle-rettungsdienstkomponenenten-a/&postID=483342#post483342"
     ],
     "url": "https://github.com/Sobol0202/LSS-Rettungsdienst-weiteralarmieren/raw/main/LSS%20Rettungsdienst%20weiteralarmieren.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25249-script-schrotth%C3%A4ndler-schrotte-alle-fahrzeuge-eines-typs/&postID=500401#post500401"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Schrotth-ndler/raw/main/LSS%20Schrotth%C3%A4ndler.user.js"
   },
   {
     "posts": [
