@@ -1740,6 +1740,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25275-script-userid-und-ungef%C3%A4hres-reg-datum-im-profil/&postID=500815#post500815"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-SpielerID-im-Profil/raw/main/LSS%20SpielerID%20im%20Profil.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24542-script-wem-geh%C3%B6rt-das-krankenhaus/&postID=487782#post487782"
     ],
     "url": "https://github.com/Sobol0202/LSS-Sprechwunsch-Krankenhausbesitzer/raw/main/LSS%20Krankenhausbesitzer.user.js"
