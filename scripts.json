@@ -70,6 +70,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25286-script-neue-sortierfunktion-ausblenden/&postID=501117#post501117"
+    ],
+    "url": "https://afiliafrostfang.github.io/AfiliaSkripte/Sortierfunktion%20ausblenden.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/8798-remover-f%C3%BCr-volle-krankenh%C3%A4user/&postID=138153#post138153"
     ],
     "url": "https://bw-katschutz.de/kh/script.user.js"
@@ -2407,6 +2413,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/12817-ohne-transport-entlassen-oben-anzeigen/&postID=206066#post206066"
     ],
     "url": "https://github.com/jxn-30/LSS-show-notTransportPatientButton-above/raw/master/LSS-show-notTransportPatientButton-above.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237"
+    ],
+    "url": "https://github.com/linusehle/LSS-Scripts/raw/main/window-dragable/windows-draggable-2.0.0.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237"
+    ],
+    "url": "https://github.com/linusehle/LSS-Scripts/raw/main/window-resizing/window-reszing-2.0.0.user.js"
   },
   {
     "posts": [
