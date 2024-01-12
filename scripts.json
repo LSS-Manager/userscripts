@@ -1178,7 +1178,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=300128#post300128",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=302147#post302147",
       "https://forum.leitstellenspiel.de/index.php?thread/11166-lss-manager-v3/&postID=474047#post474047",
-      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=498894#post498894"
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=498894#post498894",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=501354#post501354"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
   },
@@ -2416,13 +2417,15 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237"
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237",
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501261#post501261"
     ],
     "url": "https://github.com/linusehle/LSS-Scripts/raw/main/window-dragable/windows-draggable-2.0.0.user.js"
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237"
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501237#post501237",
+      "https://forum.leitstellenspiel.de/index.php?thread/20819-script-wunsch-fenster-design-bearbeitung-der-fenster-gr%C3%B6%C3%9Fen-sperren/&postID=501261#post501261"
     ],
     "url": "https://github.com/linusehle/LSS-Scripts/raw/main/window-resizing/window-reszing-2.0.0.user.js"
   },
