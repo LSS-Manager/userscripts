@@ -1470,6 +1470,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25297-script-chat-disable/&postID=501415#post501415"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Chat-Disable/raw/main/LSS%20Chat%20Disable.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24728-script-wunsch-loggen-von-sw-verst%C3%B6%C3%9Fen/&postID=491422#post491422"
     ],
     "url": "https://github.com/Sobol0202/LSS-Chat-to-Jotform/raw/main/LSS%20Chat%20to%20Jotform.user.js"
@@ -1558,6 +1564,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24312-script-fahrzeuge-aneinander-binden/&postID=484083#post484083"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-aneinanderbinden/raw/main/LSS-Fahrzeuge%20aneinanderbinden.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25296-skriptwunsch-erf%C3%BCllt-wieviele-fahrzeuge/&postID=501395#post501395"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-auf-Wache/raw/main/LSS%20Fahrzeuge%20auf%20Wache.user.js"
   },
   {
     "posts": [
