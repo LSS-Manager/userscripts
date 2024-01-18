@@ -2345,6 +2345,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/20046-scriptwunsch-nur-freigegebene-eins%C3%A4tze-in-der-liste-anzeigen/&postID=387817#post387817"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/hideOwnNotSharedMissions.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24446-script-limitedbuildings-schnelle-%C3%BCbersicht-wie-viele-limitierte-geb%C3%A4ude-ausbauen/&postID=486386#post486386"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedBuildings.de.user.js"
