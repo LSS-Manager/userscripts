@@ -1430,6 +1430,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25357-script-serverantwortzeit-ping/&postID=502528#post502528"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Antwortzeit/raw/main/LSS%20Antwortzeit.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24147-scriptwunsch-einsatzausbreitungslogger/&postID=481299#post481299"
     ],
     "url": "https://github.com/Sobol0202/LSS-Ausbreitungsz-hler/raw/main/LSS-Ausbreitungsz%C3%A4hler.user.js"
@@ -2571,7 +2577,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/21141-script-anzeige-von-freien-klassenzimmer-zellen-betten-im-krankenhaus/&postID=420142#post420142"
+      "https://forum.leitstellenspiel.de/index.php?thread/21141-script-anzeige-von-freien-klassenzimmer-zellen-betten-im-krankenhaus/&postID=420142#post420142",
+      "https://forum.leitstellenspiel.de/index.php?thread/21141-script-anzeige-von-freien-klassenzimmer-zellen-betten-im-krankenhaus/&postID=502489#post502489"
     ],
     "url": "https://github.com/types140/LSS-Scripte/raw/master/freeclassrooms.user.js"
   },
