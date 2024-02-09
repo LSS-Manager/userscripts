@@ -1425,6 +1425,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25346-script-anti-coins/&postID=502330#post502330"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Anti-Coins/raw/main/LSS%20Anti%20Coins.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25346-script-anti-menschenhandel/&postID=502330#post502330"
     ],
     "url": "https://github.com/Sobol0202/LSS-Anti-Menschenhandel/raw/main/LSS%20Anti%20Menschenhandel.user.js"
@@ -1589,7 +1595,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/25296-skriptwunsch-erf%C3%BCllt-wieviele-fahrzeuge/&postID=501395#post501395"
+      "https://forum.leitstellenspiel.de/index.php?thread/25296-skriptwunsch-erf%C3%BCllt-wieviele-fahrzeuge/&postID=501395#post501395",
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-existiert-bereits-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-auf-Wache/raw/main/LSS%20Fahrzeuge%20auf%20Wache.user.js"
   },
@@ -2758,6 +2765,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20780-script-share-manager/&postID=409635#post409635"
     ],
     "url": "https://scripts.drtraxx.de/leitstellenspiel/sharemanager.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-existiert-bereits-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727"
+    ],
+    "url": "https://update.greasyfork.org/scripts/461445/%2A%20Fahrzeug-%20und%20Geb%C3%A4udestatistik.user.js"
   },
   {
     "posts": [
