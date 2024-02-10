@@ -1482,6 +1482,14 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503671#post503671",
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503988#post503988",
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503991#post503991"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Besitz-im-Fahrzeugmarkt-anzeigen/raw/main/LSS%20Besitz%20im%20Fahrzeugmarkt%20anzeigen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=503386#post503386",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=503388#post503388"
     ],
@@ -1596,6 +1604,7 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25296-skriptwunsch-erf%C3%BCllt-wieviele-fahrzeuge/&postID=501395#post501395",
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727",
       "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-existiert-bereits-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeuge-auf-Wache/raw/main/LSS%20Fahrzeuge%20auf%20Wache.user.js"
@@ -1717,6 +1726,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24210-script-mitglieder-rabatte-abh%C3%A4ngig-vom-abgabewert-einstellen/&postID=482652#post482652"
     ],
     "url": "https://github.com/Sobol0202/LSS-Mitglieder-Rabatt-Einstellen/raw/main/LSS-Mitglied%20Rabatt%20einstellen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25441-scriptwunsch-erf%C3%BCllt-neue-aao-anlegen-im-einsatzfenster/&postID=503937#post503937"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Neue-AAO-im-Einsatzfenster-anlegen/raw/main/LSS%20Neue%20AAO%20im%20Einsatzfenster.user.js"
   },
   {
     "posts": [
@@ -2459,6 +2474,7 @@
       "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=435440#post435440",
       "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=435673#post435673",
       "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=467791#post467791",
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503674#post503674",
       "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-existiert-bereits-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503674#post503674"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/vehiclemarket-show-amount.user.js"
@@ -2768,6 +2784,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-erf%C3%BCllt-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727",
       "https://forum.leitstellenspiel.de/index.php?thread/25431-scriptwunsch-existiert-bereits-fahrzeug-z%C3%A4hler-im-fahrzeug-markt/&postID=503727#post503727"
     ],
     "url": "https://update.greasyfork.org/scripts/461445/%2A%20Fahrzeug-%20und%20Geb%C3%A4udestatistik.user.js"
