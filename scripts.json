@@ -2452,6 +2452,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25526-script-oldmissionspeed-das-alte-einsatzgenerierungsgeschwindigkeiteinstellungsfe/&postID=505764#post505764"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/oldMissionSpeed.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22974-scriptwunsch-separat-neu-ladbare-einsatzliste-und-chat/&postID=470852#post470852"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/reloadChat.user.js"
