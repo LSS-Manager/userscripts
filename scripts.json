@@ -2026,6 +2026,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25544-script-einsatzlisten-sortieren-abschaltfunktion-temporary-patch/&postID=506075#post506075"
+    ],
+    "url": "https://github.com/anoM4n/LSS-scripts/raw/main/QuickFilterFix.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13410-v2-0-bundesland-kreis-grenzen-auf-karte/&postID=279465#post279465"
     ],
     "url": "https://github.com/arnesetzer/LSS-Plugins/raw/master/fronti%C3%A8re%20nationale.user.js"
