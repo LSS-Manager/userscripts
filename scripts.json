@@ -1310,7 +1310,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/16787-script-mission-filter-by-requirements/&postID=293326#post293326"
+      "https://forum.leitstellenspiel.de/index.php?thread/16787-script-mission-filter-by-requirements/&postID=293326#post293326",
+      "https://forum.leitstellenspiel.de/index.php?thread/16787-script-mission-filter-by-requirements/&postID=506393#post506393"
     ],
     "url": "https://github.com/LennardTFD/LeitstellenspielScripte/raw/master/LSS_MissionReqFilter/missionReqFilter.user.js"
   },
@@ -1799,6 +1800,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25249-script-schrotth%C3%A4ndler-schrotte-alle-fahrzeuge-eines-typs/&postID=500401#post500401"
     ],
     "url": "https://github.com/Sobol0202/LSS-Schrotth-ndler/raw/main/LSS%20Schrotth%C3%A4ndler.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25547-alarmierungshinweis-optional-ausblenden/&postID=506459#post506459"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Selbstversorger/raw/main/LSS%20Selbstversorger.user.js"
   },
   {
     "posts": [
