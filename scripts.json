@@ -1803,6 +1803,7 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24891-script-neuen-einsatz-vorlesen/&postID=506459#post506459",
       "https://forum.leitstellenspiel.de/index.php?thread/25547-alarmierungshinweis-optional-ausblenden/&postID=506459#post506459"
     ],
     "url": "https://github.com/Sobol0202/LSS-Selbstversorger/raw/main/LSS%20Selbstversorger.user.js"
@@ -2421,6 +2422,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=506529#post506529"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/hideBlueMissionListBoxes.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25553-scriptwunsch-erf%C3%BCllt-ausblendung-der-ortssuche-in-navbar/&postID=506358#post506358"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/hideMapSearch.user.js"
@@ -2601,6 +2608,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/18349-freie-fahrzeuge-auf-dashboard/&postID=340610#post340610"
     ],
     "url": "https://github.com/mschaeling/lss_scripts/blob/master/LSS_Free_Vehicles.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24942-%C3%BCberarbeitung-hiding-script/&postID=506498#post506498",
+      "https://forum.leitstellenspiel.de/index.php?thread/24942-%C3%BCberarbeitung-hiding-script/&postID=506504#post506504"
+    ],
+    "url": "https://github.com/n0eL1405/LSS/raw/master/HidingPlus/HidingPlus.user.js"
   },
   {
     "posts": [
