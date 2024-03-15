@@ -1761,6 +1761,20 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507966#post507966",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Neues-Personal-benennenn/blob/main/LSS%20Neues%20Personal%20benennen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507966#post507966",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Neues-Personal-benennenn/raw/main/LSS%20Neues%20Personal%20benennen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24858-erledigt-1-gebaute-wache-finden-markieren-bei-jeder-organisation/&postID=493327#post493327"
     ],
     "url": "https://github.com/Sobol0202/LSS-Open-First-Building/raw/main/LSS%20Open%20First%20Building.user.js"
