@@ -1662,6 +1662,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23078-anpassung-der-karte-im-profil/&postID=508213#post508213"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Gr-ere-Profilkarte/raw/main/LSS%20Gr%C3%B6%C3%9Fere%20Profilkarte.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/21054-scriptsuche-gr%C3%BCne-einsatzicons-trensparent-setzen/&postID=480621#post480621"
     ],
     "url": "https://github.com/Sobol0202/LSS-Green-Marker-Transparency/raw/main/LSS%20Green-Marker%20Transparency.user.js"
@@ -2880,5 +2886,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25180-script-installieren-und-frage-nach-einem-script/&postID=499569#post499569"
     ],
     "url": "https://v4.lss-manager.de/lssm-v4.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25640-script-jks-webseiten-booster/&postID=508149#post508149"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/booster-lss.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=506580#post506580",
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
   }
 ]
