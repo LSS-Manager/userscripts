@@ -261,6 +261,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25653-skriptwunsch-rtw-alarmierung-nach-reihenfolge-und-l%C3%A4ngster-standzeit/&postID=508375#post508375"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_hide_hospital.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435431#post435431",
       "https://forum.leitstellenspiel.de/index.php?thread/20241-scriptwunsch-anzeige-im-einsatzfenster-in-welchem-einsatzgebiet-man-sich-gerade/&postID=394464#post394464",
       "https://forum.leitstellenspiel.de/index.php?thread/20241-scriptwunsch-anzeige-im-einsatzfenster-in-welchem-einsatzgebiet-man-sich-gerade/&postID=394465#post394465",
@@ -1662,6 +1668,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25510-script-suche-wunsch-eigener-einsatzbereich/&postID=508459#post508459"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Globale-Steuerung-f-r-Einsatzbereiche/raw/main/LSS%20Globale%20Steuerung%20f%C3%BCr%20Einsatzbereiche.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23078-anpassung-der-karte-im-profil/&postID=508213#post508213"
     ],
     "url": "https://github.com/Sobol0202/LSS-Gr-ere-Profilkarte/raw/main/LSS%20Gr%C3%B6%C3%9Fere%20Profilkarte.user.js"
@@ -2899,5 +2911,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508416#post508416",
+      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508470#post508470",
+      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508506#post508506"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/mapausblender.user.js"
   }
 ]
