@@ -1780,16 +1780,28 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507966#post507966",
-      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968"
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=507966#post507966",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=507968#post507968",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=508573#post508573"
     ],
     "url": "https://github.com/Sobol0202/LSS-Neues-Personal-benennenn/blob/main/LSS%20Neues%20Personal%20benennen.user.js"
   },
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507966#post507966",
-      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968"
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-personen-automatisch-benennen/&postID=507968#post507968",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=507966#post507966",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=507968#post507968",
+      "https://forum.leitstellenspiel.de/index.php?thread/25591-skriptwunsch-umgesetzt-personen-automatisch-benennen/&postID=508573#post508573"
     ],
     "url": "https://github.com/Sobol0202/LSS-Neues-Personal-benennenn/raw/main/LSS%20Neues%20Personal%20benennen.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25670-scriptwunsch-nur-die-zugeordneten-personen-des-fahrzeuges-anzeigen/&postID=508613#post508613"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Nur-Zugewiesenes-Personal-zeigen/raw/main/LSS%20Nur%20Zugewiesenes%20Personal%20zeigen.user.js"
   },
   {
     "posts": [
@@ -2908,7 +2920,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=506580#post506580",
-      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147"
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147",
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508584#post508584"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
   },
@@ -2916,8 +2929,16 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508416#post508416",
       "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508470#post508470",
-      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508506#post508506"
+      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508506#post508506",
+      "https://forum.leitstellenspiel.de/index.php?thread/25672-script-jks-map-ausblender-ii-f%C3%BCrs-fenster-design/&postID=508597#post508597"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/mapausblender.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25672-script-jks-map-ausblender-ii-f%C3%BCrs-fenster-design/&postID=508597#post508597",
+      "https://forum.leitstellenspiel.de/index.php?thread/25672-script-jks-map-ausblender-ii-f%C3%BCrs-fenster-design/&postID=508638#post508638"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/mapausblender2.user.js"
   }
 ]
