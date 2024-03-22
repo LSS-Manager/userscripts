@@ -1860,6 +1860,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25676-script-scrollbar-in-der-einsatzliste-verstecken/&postID=508733#post508733"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Scrollbar-Verstecken/raw/main/LSS%20Scrollbar%20Verstecken.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24891-script-neuen-einsatz-vorlesen/&postID=506459#post506459",
       "https://forum.leitstellenspiel.de/index.php?thread/25547-alarmierungshinweis-optional-ausblenden/&postID=506459#post506459"
     ],
@@ -2921,7 +2927,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=506580#post506580",
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147",
-      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508584#post508584"
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508584#post508584",
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508639#post508639"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
   },
