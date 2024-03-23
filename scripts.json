@@ -2928,7 +2928,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=506580#post506580",
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147",
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508584#post508584",
-      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508639#post508639"
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508639#post508639",
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508744#post508744"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
   },
@@ -2937,6 +2938,7 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508416#post508416",
       "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508470#post508470",
       "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508506#post508506",
+      "https://forum.leitstellenspiel.de/index.php?thread/25657-script-jks-map-ausblender/&postID=508795#post508795",
       "https://forum.leitstellenspiel.de/index.php?thread/25672-script-jks-map-ausblender-ii-f%C3%BCrs-fenster-design/&postID=508597#post508597"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/mapausblender.user.js"
@@ -2947,5 +2949,11 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25672-script-jks-map-ausblender-ii-f%C3%BCrs-fenster-design/&postID=508638#post508638"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/mapausblender2.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25679-script-jks-scrollbar-aus-und-einblender/&postID=508797#post508797"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/scrollbar.user.js"
   }
 ]
