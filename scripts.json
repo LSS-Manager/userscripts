@@ -2565,6 +2565,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=508855#post508855"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/sonderrechteSwitch.de.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=346486#post346486",
       "https://forum.leitstellenspiel.de/index.php?thread/18531-script-differenz-zum-n%C3%A4chsten-verband-verbandsmitglied-spieler/&postID=465318#post465318"
     ],
@@ -2884,6 +2890,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/15745-script-mission-header-colorizer/&postID=324931#post324931"
     ],
     "url": "https://raw.githubusercontent.com/LennardTFD/LeitstellenspielScripte/master/LSS_SettingsExporter/settingsExporter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25686-script-firstresponderreloaded/&postID=508927#post508927"
+    ],
+    "url": "https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponderReloaded/main/LSSFirstResponderReloaded.user.js"
   },
   {
     "posts": [
