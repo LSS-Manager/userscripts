@@ -2602,6 +2602,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=509330#post509330"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/trainingMouseProtector.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/10646-fahrzeuge-innerhalb-der-wache-verschieben/&postID=489922#post489922",
       "https://forum.leitstellenspiel.de/index.php?thread/10646-fahrzeuge-innerhalb-der-wache-verschieben/&postID=489936#post489936"
     ],
@@ -2959,9 +2965,16 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508147#post508147",
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508584#post508584",
       "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508639#post508639",
-      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508744#post508744"
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=508744#post508744",
+      "https://forum.leitstellenspiel.de/index.php?thread/25568-design-script-lss-forum-und-spiel-in-feuerwehr-optik/&postID=509291#post509291"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/fwdesign.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25706-script-mehr-aao-und-notiz-button/&postID=509273#post509273"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/jksaaoandnotebutton.user.js"
   },
   {
     "posts": [
