@@ -1477,7 +1477,8 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498713#post498713",
       "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=498769#post498769",
-      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=499004#post499004"
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=499004#post499004",
+      "https://forum.leitstellenspiel.de/index.php?thread/25138-script-wunsch-wachen-ausblenden-wenn-genug-personal-vorhanden/&postID=509372#post509372"
     ],
     "url": "https://github.com/Sobol0202/LSS-Ausgebildete-Wachen-ausblenden/raw/main/LSS%20Ausgebildete%20Wachen%20ausblenden.user.js"
   },
@@ -1677,6 +1678,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24539-script-grafiksetbutton-an-vern%C3%BCnftige-stelle/&postID=487716#post487716"
     ],
     "url": "https://github.com/Sobol0202/LSS-Give-me-back-my-Grafiksets/raw/main/LSS%20Give%20me%20back%20my%20Grafiksets.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=509398#post509398",
+      "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=509399#post509399"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Gleiche-Grafik-f-r-alle-Fahrzeuge-ausblenden/raw/main/LSS%20Gleiche%20Grafik%20f%C3%BCr%20alle%20Fahrzeuge%20ausblenden.user.js"
   },
   {
     "posts": [
