@@ -1826,6 +1826,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25723-scriptwunsch-anzeige-zusammenfassung-aller-im-verband-gestarteter-gsl-s/&postID=510039#post510039"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Nur-VBGSL-Anzeigen/raw/main/LSS%20Nur%20VBGSL%20Anzeigen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25670-scriptwunsch-nur-die-zugeordneten-personen-des-fahrzeuges-anzeigen/&postID=508613#post508613"
     ],
     "url": "https://github.com/Sobol0202/LSS-Nur-Zugewiesenes-Personal-zeigen/raw/main/LSS%20Nur%20Zugewiesenes%20Personal%20zeigen.user.js"
