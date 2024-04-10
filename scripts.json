@@ -1491,6 +1491,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25746-script-halb-automatisches-nachladen-der-fahrzeuge/&postID=510065#post510065"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Auto-Nachladen/raw/main/LSS%20Auto-Nachladen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24925-dauerhafter-bereitstellungsraum/&postID=494579#post494579"
     ],
     "url": "https://github.com/Sobol0202/LSS-BR-Automatisch-Verlaengern/raw/main/LSS%20BR%20Automatisch%20verl%C3%A4ngern.user.js"
