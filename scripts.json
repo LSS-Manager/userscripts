@@ -164,6 +164,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24132-automatischer-gefangenentransport-funktioniert-nicht/&postID=487891#post487891",
       "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptsuche-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499610#post499610",
       "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptsuche-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499612#post499612",
+      "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499610#post499610",
+      "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=499612#post499612",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=500417#post500417"
     ],
     "url": "https://drtraxx.de/scrpts/leitstellenspiel/shareBuildings.user.js"
@@ -2586,6 +2588,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=510206#post510206"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/missionVehicleHighlight.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24253-kann-man-das-mobile-layout-auch-auf-dem-pc-haben/&postID=483317#post483317"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/mobileLayout.user.js"
@@ -3036,5 +3044,11 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25679-script-jks-scrollbar-aus-und-einblender/&postID=508797#post508797"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/scrollbar.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=510272#post510272"
+    ],
+    "url": "https://www.jkwebservice.de/downloads/scripte/shareBuildings.user.js"
   }
 ]
