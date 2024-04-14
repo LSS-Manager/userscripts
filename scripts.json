@@ -2588,7 +2588,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=510206#post510206"
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=510206#post510206",
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=510371#post510371",
+      "https://forum.leitstellenspiel.de/index.php?thread/17868-fahrzeuge-farblich-hervorheben/&postID=510383#post510383"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/missionVehicleHighlight.user.js"
   },
