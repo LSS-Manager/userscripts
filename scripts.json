@@ -1435,6 +1435,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25796-script-aao-equipment-modus-umschalter/&postID=510900#post510900"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-AAO-Equipment-Modus-Umschalter/raw/main/LSS%20AAO%20Equipment%20Modus%20Umschalter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25700-scriptwunsch-%C3%BCberschneidende-aao-finden/&postID=509192#post509192"
     ],
     "url": "https://github.com/Sobol0202/LSS-AAO-Export-zu-CSV/raw/main/LSS-AAO%20Exporter%20zu%20csv.user.js"
@@ -1475,6 +1481,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24147-scriptwunsch-einsatzausbreitungslogger/&postID=481299#post481299"
     ],
     "url": "https://github.com/Sobol0202/LSS-Ausbreitungsz-hler/raw/main/LSS-Ausbreitungsz%C3%A4hler.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=510911#post510911",
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=510913#post510913"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Ausgebildete-Wachen-ausblenden/blob/main/LSS%20Ausgebildete%20Wachen%20ausblenden.user.js"
   },
   {
     "posts": [
