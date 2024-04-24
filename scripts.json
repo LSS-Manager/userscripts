@@ -1441,7 +1441,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/25700-scriptwunsch-%C3%BCberschneidende-aao-finden/&postID=509192#post509192"
+      "https://forum.leitstellenspiel.de/index.php?thread/25700-scriptwunsch-%C3%BCberschneidende-aao-finden/&postID=509192#post509192",
+      "https://forum.leitstellenspiel.de/index.php?thread/25700-scriptwunsch-%C3%BCberschneidende-aao-finden/&postID=511130#post511130"
     ],
     "url": "https://github.com/Sobol0202/LSS-AAO-Export-zu-CSV/raw/main/LSS-AAO%20Exporter%20zu%20csv.user.js"
   },
@@ -1767,6 +1768,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=496606#post496606"
     ],
     "url": "https://github.com/Sobol0202/LSS-Laufleistung-30-Tage/raw/main/LSS%20Laufleistung%2030%20Tage.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25821-scriptwunsch-erf%C3%BCllt-ausblendung-von-lehrg%C3%A4ngen/&postID=511200#post511200"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Lehrgangsausblender/raw/main/LSS%20Lehrgangsausblender.user.js"
   },
   {
     "posts": [
