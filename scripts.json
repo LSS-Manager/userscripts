@@ -1698,6 +1698,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26325-script-geschwindigkeitssteuerung-anpassen/&postID=512216#post512216"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Geschwindigkeitssteuerung-anpassen/raw/main/LSS%20Geschwindigkeitssteuerung%20anpassen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25262-gitternetz-f%C3%BCr-karte/&postID=500635#post500635"
     ],
     "url": "https://github.com/Sobol0202/LSS-Gitternetz-auf-Karte/raw/main/LSS%20Gitternetz%20auf%20Karte.user.js"
