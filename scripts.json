@@ -264,7 +264,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/25781-erledigt-dgl-obwohl-erweiterung-vorhanden-ist-kann-nicht-gekauft-werden/&postID=510703#post510703"
+      "https://forum.leitstellenspiel.de/index.php?thread/25781-erledigt-dgl-obwohl-erweiterung-vorhanden-ist-kann-nicht-gekauft-werden/&postID=510703#post510703",
+      "https://forum.leitstellenspiel.de/index.php?thread/26377-suche-nach-stellpl%C3%A4tzen-f%C3%BCr-limitierte-fhz/&postID=513143#post513143"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_find_DGL_duplicates.user.js"
   },
@@ -1583,6 +1584,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24028-scriptwunsch-coin-aufgaben/&postID=478262#post478262"
     ],
     "url": "https://github.com/Sobol0202/LSS-Coinaufgaben-Ausblender/raw/main/LSS-Coinaufgaben-Ausblender.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26377-suche-nach-stellpl%C3%A4tzen-f%C3%BCr-limitierte-fhz/&postID=513160#post513160"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-DGL-Stellplatz-Finder/raw/main/LSS%20DGL-Stellplatz%20Finder.user.js"
   },
   {
     "posts": [
