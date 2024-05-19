@@ -2570,6 +2570,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26414-script-aao-leeren-alle-anforderungen-in-einer-aao-auf-0-setzen/&postID=513737#post513737"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/emptyAAO.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467772#post467772",
       "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467775#post467775"
     ],
