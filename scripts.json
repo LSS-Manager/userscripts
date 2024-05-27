@@ -2825,6 +2825,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26451-script-lss-planner-user-js/&postID=514468#post514468"
+    ],
+    "url": "https://github.com/timplay33/lss-planner.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=221709#post221709",
       "https://forum.leitstellenspiel.de/index.php?thread/13709-erweiterte-wachenansicht/&postID=239155#post239155"
     ],
@@ -3046,6 +3052,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/20780-script-share-manager/&postID=409635#post409635"
     ],
     "url": "https://scripts.drtraxx.de/leitstellenspiel/sharemanager.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26451-script-lss-planner-user-js/&postID=514468#post514468"
+    ],
+    "url": "https://timplay33.github.io/lss-planner.user.js/lss-planner.user.js"
   },
   {
     "posts": [
