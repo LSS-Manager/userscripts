@@ -1436,6 +1436,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26548-fahrzeugeintr%C3%A4ge-in-aao-nach-namen-sortieren/&postID=517081#post517081"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-AAO-Editor-Alphabetisch-Sortieren/raw/main/LSS%20AAO-Editor%20Alphabetisch%20Sortieren.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25796-script-aao-equipment-modus-umschalter/&postID=510900#post510900"
     ],
     "url": "https://github.com/Sobol0202/LSS-AAO-Equipment-Modus-Umschalter/raw/main/LSS%20AAO%20Equipment%20Modus%20Umschalter.user.js"
@@ -1702,6 +1708,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25044-s2-s6-umschalter/&postID=496807#post496807"
     ],
     "url": "https://github.com/Sobol0202/LSS-Fahrzeugstatus-Umschalter-Wachenliste/raw/main/LSS-Fahrzeugstatus%20Umschalter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25265-vorschlag-dauerhafte-sortierung-der-fahrzeuge-im-alarmfenster/&postID=517015#post517015",
+      "https://forum.leitstellenspiel.de/index.php?thread/25265-vorschlag-dauerhafte-sortierung-der-fahrzeuge-im-alarmfenster/&postID=517018#post517018"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Fahrzeugtabellen-im-Einsatz-immer-Sortieren/raw/main/LSS%20Fahrzeugtabellen%20im%20Einsatz%20immer%20Sortieren.user.js"
   },
   {
     "posts": [
