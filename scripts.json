@@ -1436,7 +1436,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/26548-fahrzeugeintr%C3%A4ge-in-aao-nach-namen-sortieren/&postID=517081#post517081"
+      "https://forum.leitstellenspiel.de/index.php?thread/26548-fahrzeugeintr%C3%A4ge-in-aao-nach-namen-sortieren/&postID=517081#post517081",
+      "https://forum.leitstellenspiel.de/index.php?thread/26548-fahrzeugeintr%C3%A4ge-in-aao-nach-namen-sortieren/&postID=517127#post517127"
     ],
     "url": "https://github.com/Sobol0202/LSS-AAO-Editor-Alphabetisch-Sortieren/raw/main/LSS%20AAO-Editor%20Alphabetisch%20Sortieren.user.js"
   },
@@ -1653,6 +1654,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24045-neue-tabelle-m%C3%B6gliche-eins%C3%A4tze-kritik/&postID=478427#post478427"
     ],
     "url": "https://github.com/Sobol0202/LSS-Einsatzlistenpfeile-Darkmode-Fix/raw/main/LSS-Einsatzlistenpfeile%20im%20Dark%20Mode%20Wei%C3%9F.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23975-begrenzung-f%C3%BCr-m%C3%B6gliche-eins%C3%A4tze-einstellen/&postID=517199#post517199",
+      "https://forum.leitstellenspiel.de/index.php?thread/23975-begrenzung-f%C3%BCr-m%C3%B6gliche-eins%C3%A4tze-einstellen/&postID=517216#post517216"
+    ],
+    "url": "https://github.com/Sobol0202/LSS-Einsatzzahl-begrenzen/raw/main/LSS%20Einsatzzahl%20begrenzen.user.js"
   },
   {
     "posts": [
