@@ -2149,6 +2149,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26725-script-forum-sozial-media-navbar-ausblenden/&postID=520177#post520177"
+    ],
+    "url": "https://github.com/Sobol0202/LSSForum-SozialMedia-Verstecken/raw/main/LSS%20Forum:%20SozialMedia%20Verstecken.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24123-script-lss-fahrzeug-apng-selector/&postID=480468#post480468",
       "https://forum.leitstellenspiel.de/index.php?thread/640-sammelthread-f%C3%BCr-einfache-fragen-und-antworten/&postID=480378#post480378"
     ],
@@ -2664,6 +2670,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=467433#post467433"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/forum/bookmarks.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/26726-script-forum-navigationsleiste-anpassen/&postID=520178#post520178"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/forum/customNavbar.user.js"
   },
   {
     "posts": [
