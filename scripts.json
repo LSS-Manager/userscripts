@@ -2448,6 +2448,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=521753#post521753"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/019b6c96db73eadcd157811d03a46b8d9774b190/src/trainingMouseProtector.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/17627-forum-bookmark-manager/&postID=321404#post321404"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/Forum-Bookmarks.min.user.js"
