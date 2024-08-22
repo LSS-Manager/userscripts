@@ -2729,6 +2729,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=526698#post526698"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/fasterAAOAvailabilityCheck.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467772#post467772",
       "https://forum.leitstellenspiel.de/index.php?thread/23490-scriptwunsch-fms-5-in-hiorg-farbe/&postID=467775#post467775"
     ],
