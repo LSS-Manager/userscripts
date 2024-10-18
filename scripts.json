@@ -3185,6 +3185,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27190-script-first-responder-2go/&postID=531685#post531685"
+    ],
+    "url": "https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponder2GO/refs/heads/main/LSSFirstResponder2GO.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25686-script-firstresponderreloaded/&postID=508927#post508927"
     ],
     "url": "https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponderReloaded/main/LSSFirstResponderReloaded.user.js"
