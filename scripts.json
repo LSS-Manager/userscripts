@@ -3151,6 +3151,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27513-scriptsuche-fahnenysymbol-ausblenden/&postID=538790#post538790",
+      "https://forum.leitstellenspiel.de/index.php?thread/27513-scriptsuche-fahnenysymbol-ausblenden/&postID=538800#post538800"
+    ],
+    "url": "https://raw.githubusercontent.com/Caddy21/LSS-Scripte/main/Fahne%20in%20der%20Einsatzliste%20entfernen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/19107-eins%C3%A4tze-einsatz-im-gebiet/&postID=435432#post435432"
     ],
     "url": "https://raw.githubusercontent.com/Cr4zyc4k3/LSS/main/LSS_mission_in_area_check.user.js"
