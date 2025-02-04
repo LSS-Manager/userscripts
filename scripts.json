@@ -238,6 +238,24 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27594-script-seenotrettungseins%C3%A4tze-filtern/&postID=540432#post540432"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2005%20-%20SNR-Eins%C3%A4tze%20filtern.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=542340#post542340"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2009%20-%20Einsatzkategorienfilter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27671-script-auszeichnungssortierer/&postID=542423#post542423"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2010%20-%20Auszeichnungsverwalter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27616-script-s6-fahrzeugauflister/&postID=541167#post541167"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%204%20-%20Fahrzeuge%20im%20S6%20auflisten.user.js"
