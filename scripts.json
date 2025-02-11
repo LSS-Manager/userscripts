@@ -256,6 +256,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27700-skript-wunsch-aao-kategorien-einfach-aktivieren-deaktivieren/&postID=543200#post543200",
+      "https://forum.leitstellenspiel.de/index.php?thread/27700-skript-wunsch-aao-kategorien-einfach-aktivieren-deaktivieren/&postID=543237#post543237"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2011%20-%20AAO%20Kategorien%20Ein%20und%20Ausblenden.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27616-script-s6-fahrzeugauflister/&postID=541167#post541167"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%204%20-%20Fahrzeuge%20im%20S6%20auflisten.user.js"
@@ -2899,7 +2906,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=508855#post508855"
+      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=508855#post508855",
+      "https://forum.leitstellenspiel.de/index.php?thread/13928-mit-und-ohne-sonderrechte/&postID=543285#post543285"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/sonderrechteSwitch.de.user.js"
   },
