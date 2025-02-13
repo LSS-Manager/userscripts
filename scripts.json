@@ -263,6 +263,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27711-ungenutzte-stellpl%C3%A4tze-anzeigen/&postID=543481#post543481"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2012%20-%20Stellplatz%20finder.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27711-ungenutzte-stellpl%C3%A4tze-anzeigen/&postID=543477#post543477"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2012%20-%20Stellplatzfinder.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27616-script-s6-fahrzeugauflister/&postID=541167#post541167"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%204%20-%20Fahrzeuge%20im%20S6%20auflisten.user.js"
