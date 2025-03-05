@@ -1258,6 +1258,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27819-hilfe-bei-erstem-eigenen-script/&postID=545649#post545649",
+      "https://forum.leitstellenspiel.de/index.php?thread/27819-hilfe-bei-erstem-eigenen-script/&postID=545690#post545690"
+    ],
+    "url": "https://github.com/LSS-Manager/lss-manager-v3/blob/master/modules/lss-keyboardAlert/lss-keyboardAlert.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237087#post237087",
       "https://forum.leitstellenspiel.de/index.php?thread/14403-scriptwunsch-einsatzhelfer-erweiterung/&postID=237124#post237124",
       "https://forum.leitstellenspiel.de/index.php?thread/16350-einsatzhelfer-auf-franz%C3%B6sisch-einsatzhelfer-en-fran%C3%A7ais/&postID=281886#post281886",
