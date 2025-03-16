@@ -257,6 +257,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27602-srechw%C3%BCnsche-sortieren/&postID=541498#post541498",
+      "https://forum.leitstellenspiel.de/index.php?thread/27602-srechw%C3%BCnsche-sortieren/&postID=546625#post546625"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2007%20-%20Sprechwunsch%20Sortierer.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=542340#post542340"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2009%20-%20Einsatzkategorienfilter.user.js"
@@ -303,6 +310,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/26702-zielortfilter/&postID=546135#post546135"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2016%20-%20Zielortfilter.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/27160-m%C3%B6gliche-eins%C3%A4tze-noch-nicht-freigeschaltet-bereits-freigeschaltet/&postID=546622#post546622",
+      "https://forum.leitstellenspiel.de/index.php?thread/27160-m%C3%B6gliche-eins%C3%A4tze-noch-nicht-freigeschaltet-bereits-freigeschaltet/&postID=546641#post546641"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2017%20-%20Eins%C3%A4tze%20anzeigen.user.js"
   },
   {
     "posts": [
