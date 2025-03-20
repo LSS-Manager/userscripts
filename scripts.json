@@ -316,7 +316,8 @@
       "https://forum.leitstellenspiel.de/index.php?thread/27160-m%C3%B6gliche-eins%C3%A4tze-noch-nicht-freigeschaltet-bereits-freigeschaltet/&postID=546622#post546622",
       "https://forum.leitstellenspiel.de/index.php?thread/27160-m%C3%B6gliche-eins%C3%A4tze-noch-nicht-freigeschaltet-bereits-freigeschaltet/&postID=546641#post546641",
       "https://forum.leitstellenspiel.de/index.php?thread/27160-m%C3%B6gliche-eins%C3%A4tze-noch-nicht-freigeschaltet-bereits-freigeschaltet/&postID=546691#post546691",
-      "https://forum.leitstellenspiel.de/index.php?thread/27895-skriptwunsch-m%C3%B6gliche-eins%C3%A4tze-versch%C3%B6nern/&postID=546697#post546697"
+      "https://forum.leitstellenspiel.de/index.php?thread/27895-skriptwunsch-m%C3%B6gliche-eins%C3%A4tze-versch%C3%B6nern/&postID=546697#post546697",
+      "https://forum.leitstellenspiel.de/index.php?thread/27895-skriptwunsch-m%C3%B6gliche-eins%C3%A4tze-versch%C3%B6nern/&postID=546854#post546854"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2017%20-%20Eins%C3%A4tze%20anzeigen.user.js"
   },
@@ -2924,6 +2925,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/24131-script-limitedvehicles-schnelle-%C3%BCbersicht-wie-viele-limitierte-fahrzeuge-man-hat/&postID=480747#post480747"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/limitedVehicles.de.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/18481-meldethread-f%C3%BCr-serverprobleme-hier-nur-ausf%C3%A4lle-oder-deutliche-geschwindigkeits/&postID=546838#post546838",
+      "https://forum.leitstellenspiel.de/index.php?thread/27901-performance-probleme-und-aufh%C3%A4ngen-des-browsers-der-app-beim-nachladen-von-fahrz/&postID=546844#post546844"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/loadingMissingVehiclesPerformanceFix.user.js"
   },
   {
     "posts": [
