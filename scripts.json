@@ -2929,7 +2929,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/18481-meldethread-f%C3%BCr-serverprobleme-hier-nur-ausf%C3%A4lle-oder-deutliche-geschwindigkeits/&postID=546838#post546838",
-      "https://forum.leitstellenspiel.de/index.php?thread/27901-performance-probleme-und-aufh%C3%A4ngen-des-browsers-der-app-beim-nachladen-von-fahrz/&postID=546844#post546844"
+      "https://forum.leitstellenspiel.de/index.php?thread/27901-performance-probleme-und-aufh%C3%A4ngen-des-browsers-der-app-beim-nachladen-von-fahrz/&postID=546844#post546844",
+      "https://forum.leitstellenspiel.de/index.php?thread/27901-performance-probleme-und-aufh%C3%A4ngen-des-browsers-der-app-beim-nachladen-von-fahrz/&postID=546886#post546886"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/loadingMissingVehiclesPerformanceFix.user.js"
   },
