@@ -263,6 +263,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28136-scriptwunsch-fahrzeuge-einfacher-verschrotten/&postID=552228#post552228"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2006%20-%20Fahrzeuge%20l%C3%B6schen.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27602-srechw%C3%BCnsche-sortieren/&postID=541498#post541498",
       "https://forum.leitstellenspiel.de/index.php?thread/27602-srechw%C3%BCnsche-sortieren/&postID=546625#post546625"
     ],
@@ -1341,6 +1347,7 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=498894#post498894",
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=501354#post501354",
       "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=552151#post552151",
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=552155#post552155",
       "https://forum.leitstellenspiel.de/index.php?thread/26665-kann-man-noch-lss-manager-v-3-installieren/&postID=519221#post519221"
     ],
     "url": "https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js"
