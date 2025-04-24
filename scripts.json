@@ -335,6 +335,18 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28134-scriptwunsch-wachen-einsatzbereit-nicht-einsatzbereit/&postID=552329#post552329"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2019%20-%20Wachen%20reaktivieren.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28134-scriptwunsch-wachen-einsatzbereit-nicht-einsatzbereit/&postID=552329#post552329"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2020%20-%20Wachenstatus.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27616-script-s6-fahrzeugauflister/&postID=541167#post541167"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%204%20-%20Fahrzeuge%20im%20S6%20auflisten.user.js"
