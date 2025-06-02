@@ -430,7 +430,9 @@
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25781-erledigt-dgl-obwohl-erweiterung-vorhanden-ist-kann-nicht-gekauft-werden/&postID=510703#post510703",
       "https://forum.leitstellenspiel.de/index.php?thread/26377-suche-nach-stellpl%C3%A4tzen-f%C3%BCr-limitierte-fhz/&postID=513143#post513143",
-      "https://forum.leitstellenspiel.de/index.php?thread/28299-fehler-dgl-erweiterung-spinnt/&postID=555636#post555636"
+      "https://forum.leitstellenspiel.de/index.php?thread/28299-fehler-dgl-erweiterung-spinnt/&postID=555636#post555636",
+      "https://forum.leitstellenspiel.de/index.php?thread/28299-kein-fehler-dgl-erweiterung-spinnt/&postID=555636#post555636",
+      "https://forum.leitstellenspiel.de/index.php?thread/28299-kein-fehler-dgl-erweiterung-spinnt/&postID=555645#post555645"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/blob/main/LSS_find_DGL_duplicates.user.js"
   },
