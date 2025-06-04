@@ -2870,7 +2870,10 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/26968-script-zentrale-einstellungen-endlich-wieder-krankenh%C3%A4user-zellen-elw-1-seg-und/&postID=526562#post526562"
+      "https://forum.leitstellenspiel.de/index.php?thread/26968-script-zentrale-einstellungen-endlich-wieder-krankenh%C3%A4user-zellen-elw-1-seg-und/&postID=526562#post526562",
+      "https://forum.leitstellenspiel.de/index.php?thread/28309-zentrale-einstellung-f%C3%BCr-den-patienten-pendelverkehr/&postID=555740#post555740",
+      "https://forum.leitstellenspiel.de/index.php?thread/28309-zentrale-einstellung-f%C3%BCr-den-patienten-pendelverkehr/&postID=555744#post555744",
+      "https://forum.leitstellenspiel.de/index.php?thread/28309-zentrale-einstellung-f%C3%BCr-den-patienten-pendelverkehr/&postID=555751#post555751"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/centralSettings.user.js"
   },
