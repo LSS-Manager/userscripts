@@ -2950,7 +2950,9 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=506529#post506529"
+      "https://forum.leitstellenspiel.de/index.php?thread/19176-lss-manager-v-4/&postID=506529#post506529",
+      "https://forum.leitstellenspiel.de/index.php?thread/20518-erledigt-danke-kleiner-wunsch-f%C3%BCr-ein-besonderes-script/&postID=403130#post403130",
+      "https://forum.leitstellenspiel.de/index.php?thread/20518-erledigt-danke-kleiner-wunsch-f%C3%BCr-ein-besonderes-script/&postID=558823#post558823"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/hideBlueMissionListBoxes.user.js"
   },
@@ -3067,7 +3069,8 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=509330#post509330",
-      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=509876#post509876"
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=509876#post509876",
+      "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=558951#post558951"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/trainingMouseProtector.user.js"
   },
