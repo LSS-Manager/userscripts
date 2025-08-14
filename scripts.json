@@ -2935,6 +2935,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28673-script-erwartete-rettungsmittel-was-muss-ich-schicken-damit-es-f%C3%BCr-die-patienten/&postID=562154#post562154"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/expectedRettungsmittel.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=526698#post526698",
       "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=527224#post527224"
     ],
