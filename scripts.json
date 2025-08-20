@@ -3545,5 +3545,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25186-skriptwunsch-erf%C3%BCllt-khs-und-zellen-im-verband-freigeben/&postID=510272#post510272"
     ],
     "url": "https://www.jkwebservice.de/downloads/scripte/shareBuildings.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28622-script-fahrzeugauflistung-ohne-personalzuweisung/&postID=561245#post561245",
+      "https://forum.leitstellenspiel.de/index.php?thread/28622-script-fahrzeugauflistung-ohne-personalzuweisung/&postID=562542#post562542"
+    ],
+    "url": "https://www.tampermonkey.net/script_installation.php#url=https://github.com/Landwirt-Mark/LSS-Fahrzeugauflistung-ohne-Personalzuweisung/raw/refs/heads/main/%5BLSS%5D%20Fahrzeugauflistung%20ohne%20Personalzuweisung.user.js"
   }
 ]
