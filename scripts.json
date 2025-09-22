@@ -399,6 +399,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28705-umgesetzt-durchnummerieren-den-eins%C3%A4tze-in-der-einsatzliste/&postID=565277#post565277"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2036%20-%20Einsatznummerierung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27616-script-s6-fahrzeugauflister/&postID=541167#post541167"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%204%20-%20Fahrzeuge%20im%20S6%20auflisten.user.js"
