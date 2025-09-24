@@ -3571,7 +3571,9 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/28622-script-fahrzeugauflistung-ohne-personalzuweisung/&postID=561245#post561245",
-      "https://forum.leitstellenspiel.de/index.php?thread/28622-script-fahrzeugauflistung-ohne-personalzuweisung/&postID=562542#post562542"
+      "https://forum.leitstellenspiel.de/index.php?thread/28622-script-fahrzeugauflistung-ohne-personalzuweisung/&postID=562542#post562542",
+      "https://forum.leitstellenspiel.de/index.php?thread/28836-scriptsuche-nicht-zugewiesenes-personal-bei-fahrzeug/&postID=565428#post565428",
+      "https://forum.leitstellenspiel.de/index.php?thread/28836-scriptsuche-nicht-zugewiesenes-personal-bei-fahrzeug/&postID=565470#post565470"
     ],
     "url": "https://www.tampermonkey.net/script_installation.php#url=https://github.com/Landwirt-Mark/LSS-Fahrzeugauflistung-ohne-Personalzuweisung/raw/refs/heads/main/%5BLSS%5D%20Fahrzeugauflistung%20ohne%20Personalzuweisung.user.js"
   }
