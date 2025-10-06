@@ -1435,6 +1435,14 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/28908-script-fahrzeug-umr%C3%BCstungs-manager/&postID=566628#post566628",
+      "https://forum.leitstellenspiel.de/index.php?thread/28908-script-fahrzeug-umr%C3%BCstungs-manager/&postID=566661#post566661",
+      "https://forum.leitstellenspiel.de/index.php?thread/28908-script-fahrzeug-umr%C3%BCstungs-manager/&postID=566689#post566689"
+    ],
+    "url": "https://github.com/Landwirt-Mark/LSS-Fahrzeug-Umruest-Manager/raw/refs/heads/main/%5BLSS%5D%20Fahrzeug-Umr%C3%BCstungs-Manager.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/17230-led-beleuchtung-bei-status-5/&postID=310994#post310994"
     ],
     "url": "https://github.com/LennardTFD/FMS5LED/raw/master/fmsled.user.js"
