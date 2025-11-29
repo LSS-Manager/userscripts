@@ -3146,6 +3146,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=569945#post569945",
+      "https://forum.leitstellenspiel.de/index.php?thread/21816-fahrzeuganzahl-im-markt-anzeigen/&postID=569950#post569950"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/vehicleMarketShowAmount.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/10646-fahrzeuge-innerhalb-der-wache-verschieben/&postID=489922#post489922",
       "https://forum.leitstellenspiel.de/index.php?thread/10646-fahrzeuge-innerhalb-der-wache-verschieben/&postID=489936#post489936"
     ],
