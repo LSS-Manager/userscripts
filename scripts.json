@@ -1659,6 +1659,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/10810-scriptwusch-fahrzeugumbenennungsscript/&postID=574708#post574708"
+    ],
+    "url": "https://github.com/LordMcMoney/LSS_rename_vehicles/raw/refs/heads/main/rename_vehicles.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20826-nutzernamen-im-chat-ersetzen/&postID=410994#post410994"
     ],
     "url": "https://github.com/Metablex/LSS-Scripts/raw/master/ReplaceUserNames/ReplaceUserNames.user.js"
