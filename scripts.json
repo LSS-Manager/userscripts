@@ -3043,7 +3043,11 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=526698#post526698",
-      "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=527224#post527224"
+      "https://forum.leitstellenspiel.de/index.php?thread/22896-aaos-nur-pro-kategorie-laden/&postID=527224#post527224",
+      "https://forum.leitstellenspiel.de/index.php?thread/29581-umgesetzt-aao-ladeeinstellung-zur-performance-verbesserung/&postID=578370#post578370",
+      "https://forum.leitstellenspiel.de/index.php?thread/29581-umgesetzt-aao-ladeeinstellung-zur-performance-verbesserung/&postID=578392#post578392",
+      "https://forum.leitstellenspiel.de/index.php?thread/29581-umgesetzt-aao-ladeeinstellung-zur-performance-verbesserung/&postID=578394#post578394",
+      "https://forum.leitstellenspiel.de/index.php?thread/29581-umgesetzt-aao-ladeeinstellung-zur-performance-verbesserung/&postID=578398#post578398"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/fasterAAOAvailabilityCheck.user.js"
   },
