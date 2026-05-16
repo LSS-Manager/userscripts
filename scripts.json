@@ -290,7 +290,10 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=542340#post542340"
+      "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=542340#post542340",
+      "https://forum.leitstellenspiel.de/index.php?thread/29730-einsatzsortierung/&postID=581215#post581215",
+      "https://forum.leitstellenspiel.de/index.php?thread/29730-einsatzsortierung/&postID=581217#post581217",
+      "https://forum.leitstellenspiel.de/index.php?thread/29730-einsatzsortierung/&postID=581218#post581218"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2009%20-%20Einsatzkategorienfilter.user.js"
   },
@@ -2917,6 +2920,13 @@
       "https://forum.leitstellenspiel.de/index.php?thread/22254-scriptwunsch-pfeil-oder-button-zum-seitenanfang-bzw-seitenende/&postID=461835#post461835"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/scroll-to-top.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29736-script-slf-nicht-als-lf-alarmieren/&postID=581271#post581271",
+      "https://forum.leitstellenspiel.de/index.php?thread/29736-script-slf-nicht-als-lf-alarmieren/&postID=581297#post581297"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/SLFNoLF.user.js"
   },
   {
     "posts": [
