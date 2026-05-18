@@ -371,7 +371,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/28131-scriptwunsch-einsatzr%C3%BCckmeldung-in-einsatzliste/&postID=553840#post553840"
+      "https://forum.leitstellenspiel.de/index.php?thread/28131-scriptwunsch-einsatzr%C3%BCckmeldung-in-einsatzliste/&postID=553840#post553840",
+      "https://forum.leitstellenspiel.de/index.php?thread/29745-script-nachrichtenanzeiger/&postID=581420#post581420"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2022%20-%20Nachrichtenanzeiger.user.js"
   },
@@ -454,6 +455,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/29449-script-kleinwachen-ausblender/&postID=575915#post575915"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2056%20-%20Kleinwachen%20ausblender.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29746-script-zeitentracker/&postID=581422#post581422"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2058%20-%20Zeitentracker.user.js"
   },
   {
     "posts": [
