@@ -3580,6 +3580,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29789-script-lss-karten/&postID=582415#post582415",
+      "https://forum.leitstellenspiel.de/index.php?thread/29789-script-lss-karten/&postID=582469#post582469"
+    ],
+    "url": "https://raw.githubusercontent.com/Medicopter117/LSS-Karte/master/karte.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27190-script-first-responder-2go/&postID=531685#post531685"
     ],
     "url": "https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponder2GO/refs/heads/main/LSSFirstResponder2GO.user.js"
