@@ -3021,6 +3021,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29069-umgesetzt-radius-spezialeinsatzgebiet-seenotrettung-auf-1km-und-500m-erweitern/&postID=582615#post582615"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/betterSpawnAreaVisibility.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/16784-script-browsertitle/&postID=293294#post293294"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/browsertitle.user.js"
