@@ -245,6 +245,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24767-script-bepo-personalbeschaffer/&postID=583164#post583164"
+    ],
+    "url": "https://github.com/Caddy21/BOS-Ernie-Scripte/raw/main/BePo%20Personalbeschaffer.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/29095-fehler-fahrzeuge-auf-anfahrt-weiteralamierung-zum-selben-einsatz/&postID=571725#post571725"
     ],
     "url": "https://github.com/Caddy21/BOS-Ernie-Scripte/raw/main/Einsatzkategorie.user.js"
@@ -481,6 +487,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/27602-srechw%C3%BCnsche-sortieren/&postID=541498#post541498"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%207%20-%20Sprechwunsch%20Sortierer.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29823-script-spezialgebietsfilter/&postID=583108#post583108"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2070%20-%20Spezialgebeitsfilter.user.js"
   },
   {
     "posts": [
@@ -2623,6 +2635,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25207-script-baumeister/&postID=582984#post582984"
     ],
     "url": "https://github.com/Suchty112/bosernie-scripts/blob/main/Baumeister.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/24767-script-bepo-personalbeschaffer/&postID=583163#post583163"
+    ],
+    "url": "https://github.com/Suchty112/bosernie-scripts/raw/refs/heads/main/BePo%20Personalbeschaffer.user.js"
   },
   {
     "posts": [
