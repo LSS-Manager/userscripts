@@ -1736,6 +1736,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29789-script-lss-karten/&postID=582536#post582536"
+    ],
+    "url": "https://github.com/Medicopter117/LSS-Scripts/raw/refs/heads/master/karte/karte.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/20826-nutzernamen-im-chat-ersetzen/&postID=410994#post410994"
     ],
     "url": "https://github.com/Metablex/LSS-Scripts/raw/master/ReplaceUserNames/ReplaceUserNames.user.js"
