@@ -2861,6 +2861,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/29890-scriptsuche-statusz%C3%A4hler/&postID=584723#post584723"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/blob/master/LSS-StatusCount.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23925-script-geb%C3%A4ude-fuhrparkverwalter-by-bos-ernie/&postID=486304#post486304"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/blob/master/Mission-Less-ELW-Highlight.user.js"
