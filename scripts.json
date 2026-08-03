@@ -2879,6 +2879,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30041-klick-z%C3%A4hler/&postID=588849#post588849"
+    ],
+    "url": "https://github.com/jxn-30/LSS-Scripts/blob/master/src/arrCounter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/25707-script-ausbildungs-mausschoner-endlich-machen-massen-ausbildungen-wieder-spa%C3%9F/&postID=521753#post521753"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/019b6c96db73eadcd157811d03a46b8d9774b190/src/trainingMouseProtector.user.js"
@@ -3068,7 +3074,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/19317-script-aao-z%C3%A4hler-standalone/&postID=367432#post367432"
+      "https://forum.leitstellenspiel.de/index.php?thread/19317-script-aao-z%C3%A4hler-standalone/&postID=367432#post367432",
+      "https://forum.leitstellenspiel.de/index.php?thread/30041-klick-z%C3%A4hler/&postID=588849#post588849"
     ],
     "url": "https://github.com/jxn-30/LSS-Scripts/raw/master/src/arrCounter.user.js"
   },
