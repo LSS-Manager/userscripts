@@ -1767,7 +1767,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/10810-scriptwusch-fahrzeugumbenennungsscript/&postID=566924#post566924"
+      "https://forum.leitstellenspiel.de/index.php?thread/10810-scriptwusch-fahrzeugumbenennungsscript/&postID=566924#post566924",
+      "https://forum.leitstellenspiel.de/index.php?thread/30116-ist-es-m%C3%B6glich-eigene-fahrzeuge-leitstellen%C3%BCbergreifend-nach-typ-zu-sortieren/&postID=591173#post591173"
     ],
     "url": "https://github.com/Praschinator/LSS_rename_vehicles/raw/refs/heads/main/rename_vehicles.user.js"
   },
