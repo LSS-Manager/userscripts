@@ -2667,6 +2667,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=596726#post596726"
+    ],
+    "url": "https://github.com/Suchty112/bosernie-scripts/blob/main/Leitstellen%20Status%20Umschalter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/24767-script-bepo-personalbeschaffer/&postID=583163#post583163"
     ],
     "url": "https://github.com/Suchty112/bosernie-scripts/raw/refs/heads/main/BePo%20Personalbeschaffer.user.js"
