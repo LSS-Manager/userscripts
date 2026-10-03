@@ -270,6 +270,13 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30262-scriptwunsch-erledigt-weil-schon-vorhanden-mehrere-lst-de-aktivieren/&postID=599724#post599724",
+      "https://forum.leitstellenspiel.de/index.php?thread/30262-scriptwunsch-erledigt-weil-schon-vorhanden-mehrere-lst-de-aktivieren/&postID=599727#post599727"
+    ],
+    "url": "https://github.com/Caddy21/BOS-Ernie-Scripte/raw/refs/heads/main/Leitstellen%20Status%20Umschalter.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27856-script-erweiterungs-manager/&postID=546140#post546140",
       "https://forum.leitstellenspiel.de/index.php?thread/27856-script-erweiterungs-manager/&postID=565054#post565054"
     ],
@@ -2669,7 +2676,10 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=596726#post596726",
-      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=599586#post599586"
+      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=599586#post599586",
+      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=599905#post599905",
+      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=599906#post599906",
+      "https://forum.leitstellenspiel.de/index.php?thread/23376-script-leitstellen-status-umschalter/&postID=599907#post599907"
     ],
     "url": "https://github.com/Suchty112/bosernie-scripts/blob/main/Leitstellen%20Status%20Umschalter.user.js"
   },
