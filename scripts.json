@@ -519,6 +519,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30301-script-leitstellensortierer/&postID=600880#post600880"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2074%20-%20Leitstellensortierer.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=541806#post541806",
       "https://forum.leitstellenspiel.de/index.php?thread/27639-script-einsatzkategorienfilter/&postID=542340#post542340"
     ],
@@ -867,6 +873,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/19294-skriptwunsch-personalanzeige-personal-verschieben/&postID=441782#post441782"
     ],
     "url": "https://github.com/Cr4zyc4k3/LSS/raw/master/LSS_show_move_personal_right.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30298-globusansicht/&postID=600751#post600751"
+    ],
+    "url": "https://github.com/Cr4zyc4k3/LSS/raw/refs/heads/main/LSS_maplibre_globe.user.js"
   },
   {
     "posts": [
