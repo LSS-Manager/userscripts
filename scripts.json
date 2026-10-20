@@ -3498,6 +3498,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30355-script-geb%C3%A4ude-fuhrpark/&postID=602576#post602576"
+    ],
+    "url": "https://github.com/papachaotica/LSS-Tools/raw/refs/heads/dev/dev/gebietsleitung.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/26451-script-lss-planner-user-js/&postID=514468#post514468"
     ],
     "url": "https://github.com/timplay33/lss-planner.user.js"
