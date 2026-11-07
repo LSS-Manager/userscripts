@@ -345,7 +345,8 @@
   },
   {
     "posts": [
-      "https://forum.leitstellenspiel.de/index.php?thread/27711-ungenutzte-stellpl%C3%A4tze-anzeigen/&postID=543477#post543477"
+      "https://forum.leitstellenspiel.de/index.php?thread/27711-ungenutzte-stellpl%C3%A4tze-anzeigen/&postID=543477#post543477",
+      "https://forum.leitstellenspiel.de/index.php?thread/27711-ungenutzte-stellpl%C3%A4tze-anzeigen/&postID=604743#post604743"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2012%20-%20Stellplatzfinder.user.js"
   },
@@ -413,6 +414,7 @@
   {
     "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/28769-skriptwunsch-personalanzeige-min-und-ist/&postID=564184#post564184",
+      "https://forum.leitstellenspiel.de/index.php?thread/28769-skriptwunsch-personalanzeige-min-und-ist/&postID=604742#post604742",
       "https://forum.leitstellenspiel.de/index.php?thread/30343-frage-personal-soll/&postID=602255#post602255"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2027%20-%20Personal-Soll-Checker.user.js"
@@ -530,6 +532,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/30349-script-wachenprofil/&postID=602384#post602384"
     ],
     "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2084%20-%20Wachenprofil.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30407-script-waldbrand/&postID=605046#post605046"
+    ],
+    "url": "https://github.com/Caddy21/LSS-Scripte/raw/main/%5BLSS%5D%2086%20-%20Waldbrand.user.js"
   },
   {
     "posts": [
@@ -3733,6 +3741,18 @@
       "https://forum.leitstellenspiel.de/index.php?thread/25686-script-firstresponderreloaded/&postID=508927#post508927"
     ],
     "url": "https://raw.githubusercontent.com/SaibotH-LSS/LSSFirstResponderReloaded/main/LSSFirstResponderReloaded.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30404-lss-scripts-mehr-%C3%BCbersicht-und-bessere-planung-f%C3%BCr-leitstellenspiel/&postID=604761#post604761"
+    ],
+    "url": "https://raw.githubusercontent.com/Schurliiii/lss-scripts/main/lss_einsatzkarte/dist/lss-wachenplaner.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30404-lss-scripts-mehr-%C3%BCbersicht-und-bessere-planung-f%C3%BCr-leitstellenspiel/&postID=604761#post604761"
+    ],
+    "url": "https://raw.githubusercontent.com/Schurliiii/lss-scripts/main/lss_verwaltung/dist/lss-verwaltung.user.js"
   },
   {
     "posts": [
