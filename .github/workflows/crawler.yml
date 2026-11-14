@@ -11,9 +11,9 @@ jobs:
         runs-on: ubuntu-26.04
         steps:
             - name: Checkout
-              uses: actions/checkout@v7
+              uses: actions/checkout@v7.0.1
             - name: Set up Python 3.15
-              uses: actions/setup-python@v7
+              uses: actions/setup-python@v7.1.0
               with:
                   python-version: '3.15.2'
             - name: Install dependencies
