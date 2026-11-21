@@ -2777,6 +2777,12 @@
   },
   {
     "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30460-script-statistik-dashboard/&postID=606743#post606743"
+    ],
+    "url": "https://github.com/cpu99/Leitstellenspiel/raw/refs/heads/main/LSS-Statistik-Dashboard.user.js"
+  },
+  {
+    "posts": [
       "https://forum.leitstellenspiel.de/index.php?thread/23608-skriptwunsch-fms6-bei-lehrgang/&postID=474871#post474871"
     ],
     "url": "https://github.com/daheimis/LSS-Script/raw/main/FMS6/FMS6.user.js"
@@ -3729,6 +3735,12 @@
       "https://forum.leitstellenspiel.de/index.php?thread/29789-script-lss-karten/&postID=582469#post582469"
     ],
     "url": "https://raw.githubusercontent.com/Medicopter117/LSS-Karte/master/karte.user.js"
+  },
+  {
+    "posts": [
+      "https://forum.leitstellenspiel.de/index.php?thread/30459-lss-leitstellen-ma%C3%9Fnahmen/&postID=606732#post606732"
+    ],
+    "url": "https://raw.githubusercontent.com/Rox-LSS/lss-massnahmen/main/lss-massnahmen.user.js"
   },
   {
     "posts": [
